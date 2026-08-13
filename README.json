@@ -1,0 +1,342 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Backend & Infrastructure"
+    },
+    {
+      "description": "An open-source Firebase alternative that provides a complete backend platform with Postgres database, authentication, real-time subscriptions, storage, and serverless functions.",
+      "items": [],
+      "title": "Supabase"
+    },
+    {
+      "description": "An end-to-end backend server for web, mobile, and native applications that simplifies backend development with a comprehensive set of microservices and APIs.",
+      "items": [],
+      "title": "Appwrite"
+    },
+    {
+      "description": "An open-source Go backend that provides an all-in-one solution for building web and mobile applications with an embedded database, authentication, and API functionality.",
+      "items": [],
+      "title": "PocketBase"
+    },
+    {
+      "description": "NocoDB is an open-source Airtable alternative that transforms your database into a collaborative spreadsheet. It provides an intuitive interface for managing, editing, and sharing data without requiring extensive technical expertise.",
+      "items": [],
+      "title": "NocoDB"
+    },
+    {
+      "description": "An open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server (26 tools), webhooks, API keys, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.",
+      "items": [],
+      "title": "LastSaaS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content Management Systems"
+    },
+    {
+      "description": "An open-source, flexible headless CMS built with JavaScript/TypeScript that enables developers to manage and deliver content across multiple platforms with customizable hosting options.",
+      "items": [],
+      "title": "Strapi"
+    },
+    {
+      "description": "Ghost is the most popular open source, headless Node.js CMS which already works with all the tools you know and love. It offers fiercely independent, professional publishing.",
+      "items": [],
+      "title": "Ghost"
+    },
+    {
+      "description": "An open-source real-time API and dashboard for managing SQL database content, providing flexible data management across multiple database systems with no-code and extensible features.",
+      "items": [],
+      "title": "Directus"
+    },
+    {
+      "description": "A Next.js native, open-source headless CMS that installs directly in your existing app folder, offering a flexible and powerful content management solution.",
+      "items": [],
+      "title": "Payload CMS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analytics & Monitoring"
+    },
+    {
+      "description": "An open-source observability platform for real-time infrastructure monitoring, providing instant insights into system performance with zero-configuration installation and powerful analytics capabilities.",
+      "items": [],
+      "title": "Netdata"
+    },
+    {
+      "description": "An open-source, privacy-focused web analytics platform that provides simple and fast website traffic insights as an alternative to Google Analytics.",
+      "items": [],
+      "title": "Umami"
+    },
+    {
+      "description": "An open-source platform that helps product teams build and improve their software by providing comprehensive analytics, user insights, and experimentation tools.",
+      "items": [],
+      "title": "PostHog"
+    },
+    {
+      "description": "A developer platform for error tracking and performance monitoring that helps developers identify, resolve, and gain insights into application issues across multiple programming languages and frameworks.",
+      "items": [],
+      "title": "Sentry"
+    },
+    {
+      "description": "Metabase is the easy, open-source way for everyone in your company to ask questions and learn from data.",
+      "items": [],
+      "title": "Metabase"
+    },
+    {
+      "description": "Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
+      "items": [],
+      "title": "Plausible"
+    },
+    {
+      "description": "An open-source data visualization and dashboard tool that enables users to explore, query, and share data from multiple sources through an intuitive browser-based interface.",
+      "items": [],
+      "title": "Redash"
+    },
+    {
+      "description": "An open-source session replay platform that helps developers understand user interactions and troubleshoot web application issues by capturing comprehensive session data.",
+      "items": [],
+      "title": "OpenReplay"
+    },
+    {
+      "description": "An open-source web analytics platform that provides full data ownership, privacy, and powerful tracking capabilities for websites.",
+      "items": [],
+      "title": "Matomo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI & Machine Learning"
+    },
+    {
+      "description": "An extensible, self-hosted AI platform that supports offline operation, multiple LLM runners, and provides a user-friendly interface for AI interactions.",
+      "items": [],
+      "title": "Open WebUI"
+    },
+    {
+      "description": "An open-source, modern ChatGPT/LLMs UI framework that enables one-click deployment of private AI chat applications with multi-modal and extensible features.",
+      "items": [],
+      "title": "Lobe Chat"
+    },
+    {
+      "description": "A comprehensive AI application that allows users to chat with documents, use AI agents, and create customizable multi-user environments with easy setup and configuration.",
+      "items": [],
+      "title": "AnythingLLM"
+    },
+    {
+      "description": "An open-source AI chat platform that integrates multiple AI models, offering enhanced features and customization beyond traditional chatbots.",
+      "items": [],
+      "title": "LibreChat"
+    },
+    {
+      "description": "An open-source, offline AI assistant that enables users to run language models locally with full privacy and control across multiple hardware platforms.",
+      "items": [],
+      "title": "Jan"
+    },
+    {
+      "description": "An open-source context infrastructure for AI agents. It connects any source, versions every change Git-style, and scopes access per agent.",
+      "items": [],
+      "title": "Puppyone"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "An open-source API development ecosystem that helps developers create, test, and manage API requests efficiently with a user-friendly interface and powerful features.",
+      "items": [],
+      "title": "Hoppscotch"
+    },
+    {
+      "description": "An open-source, cross-platform API client that enables debugging, designing, testing, and mocking APIs across multiple protocols and formats.",
+      "items": [],
+      "title": "Insomnia"
+    },
+    {
+      "description": "A lightning-fast, developer-friendly search engine that enables seamless, intuitive search experiences across applications and websites with advanced features and easy integration.",
+      "items": [],
+      "title": "Meilisearch"
+    },
+    {
+      "description": "A developer platform that provides on-demand, pre-configured cloud development environments that automatically integrate tools, libraries, and dependencies for software creation.",
+      "items": [],
+      "title": "Gitpod"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Team Collaboration"
+    },
+    {
+      "description": "An open-source communication platform enabling secure, real-time conversations for organizations, supporting team collaboration, customer service, and flexible deployment across various channels.",
+      "items": [],
+      "title": "Rocket.Chat"
+    },
+    {
+      "description": "An open source platform for secure collaboration across the software development lifecycle, enabling teams to communicate, coordinate, and manage projects efficiently.",
+      "items": [],
+      "title": "Mattermost"
+    },
+    {
+      "description": "An open-source community platform that provides a comprehensive solution for online discussions, real-time chat, and community engagement with extensive customization options.",
+      "items": [],
+      "title": "Discourse"
+    },
+    {
+      "description": "A collaborative knowledge base platform for teams, built with React and Node.js, offering an intuitive way to share and organize information.",
+      "items": [],
+      "title": "Outline"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Customer Support & Engagement"
+    },
+    {
+      "description": "An open-source customer engagement platform that enables businesses to communicate with customers across multiple channels from a single dashboard.",
+      "items": [],
+      "title": "Chatwoot"
+    },
+    {
+      "description": "An open-source surveying platform that helps teams gather user feedback through customizable surveys across multiple channels, enabling better user experience insights.",
+      "items": [],
+      "title": "Formbricks"
+    },
+    {
+      "description": "An open source feedback platform with voting boards, public roadmaps, changelogs, and a built-in MCP server for AI agents. Alternative to Canny and UserVoice.",
+      "items": [],
+      "title": "Quackback"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CRM & Sales"
+    },
+    {
+      "description": "An open-source CRM with native n8n workflow automation, built for small B2B teams. Self-hostable via Docker. Alternative to Pipedrive and HubSpot. Built with TypeScript (Next.js, NestJS, PostgreSQL).",
+      "items": [],
+      "title": "Customermates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Productivity & Project Management"
+    },
+    {
+      "description": "An open-source scheduling infrastructure that gives users full control over their scheduling workflow, data, and appearance. Designed as a flexible, self-hostable alternative to Calendly.",
+      "items": [],
+      "title": "Cal.com"
+    },
+    {
+      "description": "An open-source project management tool that helps teams define, organize, track, and manage work across individuals and teams. Available as a personal desktop app and server solution.",
+      "items": [],
+      "title": "Focalboard"
+    },
+    {
+      "description": "A robust framework for developing business applications like CRM systems, offering multiple integrated applications including Chat, Project Management, CRM, HRM, and ATS.",
+      "items": [],
+      "title": "Huly Platform"
+    },
+    {
+      "description": "An AI-powered social media scheduling platform that helps businesses manage posts, build audiences, and optimize content across multiple social media platforms.",
+      "items": [],
+      "title": "Postiz"
+    },
+    {
+      "description": "An open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-hostable alternative to Calendly with calendar sync, video conferencing integration, timezone support, and SSO.",
+      "items": [],
+      "title": "Tymeslot"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Desktop Applications"
+    },
+    {
+      "description": "A native macOS code editor built by the community, designed to provide a seamless and native coding experience for developers working on various platforms.",
+      "items": [],
+      "title": "CodeEdit"
+    },
+    {
+      "description": "An open-source screen recording application that allows users to easily capture, record, and share screen content using web technologies.",
+      "items": [],
+      "title": "Kap"
+    },
+    {
+      "description": "A macOS menu bar application that allows users to view, create, edit, and manage Apple Reminders with a simple and intuitive interface.",
+      "items": [],
+      "title": "Reminders MenuBar"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Infrastructure & DevOps"
+    },
+    {
+      "description": "An open-source, self-hostable alternative to cloud deployment platforms like Heroku, Netlify, and Vercel. Enables users to manage servers, applications, and databases using their own hardware with just an SSH connection.",
+      "items": [],
+      "title": "Coolify"
+    },
+    {
+      "description": "Dokploy is a free, self-hostable Platform as a Service that simplifies the deployment and management of applications and databases.",
+      "items": [],
+      "title": "Dokploy"
+    },
+    {
+      "description": "A proactive endpoint monitoring tool that performs health checks on services, providing real-time alerts and performance insights for modern applications.",
+      "items": [],
+      "title": "Gatus"
+    },
+    {
+      "description": "An open-source synthetic monitoring platform that helps monitor websites and APIs globally, providing notifications about downtime and performance issues.",
+      "items": [],
+      "title": "OpenStatus"
+    },
+    {
+      "description": "An open-source uptime and infrastructure monitoring application that tracks the operational status and performance of servers and websites, providing real-time alerts and comprehensive monitoring capabilities.",
+      "items": [],
+      "title": "Checkmate"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Document Management"
+    },
+    {
+      "description": "An open-source digital document signing platform that aims to provide a trusted, self-hostable alternative to traditional signing tools, empowering users with transparency and control.",
+      "items": [],
+      "title": "Documenso"
+    },
+    {
+      "description": "An open-source tool for creating professional resumes using markdown, offering live preview, theme customization, and PDF export.",
+      "items": [],
+      "title": "Markdown Resume"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Financial Tools"
+    },
+    {
+      "description": "An open-source personal finance and wealth management application that allows users to manage their finances, with plans for self-hosting and future managed services.",
+      "items": [],
+      "title": "Maybe"
+    },
+    {
+      "description": "This list is under the MIT License. See the LICENSE file for details.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:34:52.872Z",
+    "original_repository": "open-saas-directory/awesome-saas-directory",
+    "original_repository_sha": "1a07f5c10e96a2736abf2d72af70540f86462fb1",
+    "enhanced_repository": "enhansome/enhansome-saas-directory",
+    "enhanced_repository_description": null,
+    "title": "🚀 Awesome Open Source SaaS Alternatives with stars"
+  }
+}
