@@ -1,338 +1,866 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source Firebase alternative that provides a complete backend platform with Postgres database, authentication, real-time subscriptions, storage, and serverless functions.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 214587193,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:51:38Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 108151
+          },
+          "title": "Supabase"
+        },
+        {
+          "children": [],
+          "description": "An end-to-end backend server for web, mobile, and native applications that simplifies backend development with a comprehensive set of microservices and APIs.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 180190854,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:52:11Z",
+            "owner": "appwrite",
+            "repo": "appwrite",
+            "stars": 57052
+          },
+          "title": "Appwrite"
+        },
+        {
+          "children": [],
+          "description": "An open-source Go backend that provides an all-in-one solution for building web and mobile applications with an embedded database, authentication, and API functionality.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 510607652,
+            "language": "Go",
+            "last_commit": "2026-08-19T07:04:47Z",
+            "owner": "pocketbase",
+            "repo": "pocketbase",
+            "stars": 60731
+          },
+          "title": "PocketBase"
+        },
+        {
+          "children": [],
+          "description": "NocoDB is an open-source Airtable alternative that transforms your database into a collaborative spreadsheet. It provides an intuitive interface for managing, editing, and sharing data without requiring extensive technical expertise.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 108761645,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:23:51Z",
+            "owner": "nocodb",
+            "repo": "nocodb",
+            "stars": 64588
+          },
+          "title": "NocoDB"
+        },
+        {
+          "children": [],
+          "description": "An open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server (26 tools), webhooks, API keys, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1164156051,
+            "language": "Go",
+            "last_commit": "2026-03-05T18:12:51Z",
+            "owner": "jonradoff",
+            "repo": "lastsaas",
+            "stars": 157
+          },
+          "title": "LastSaaS"
+        }
+      ],
       "title": "Backend & Infrastructure"
     },
     {
-      "description": "An open-source Firebase alternative that provides a complete backend platform with Postgres database, authentication, real-time subscriptions, storage, and serverless functions.",
-      "items": [],
-      "title": "Supabase"
-    },
-    {
-      "description": "An end-to-end backend server for web, mobile, and native applications that simplifies backend development with a comprehensive set of microservices and APIs.",
-      "items": [],
-      "title": "Appwrite"
-    },
-    {
-      "description": "An open-source Go backend that provides an all-in-one solution for building web and mobile applications with an embedded database, authentication, and API functionality.",
-      "items": [],
-      "title": "PocketBase"
-    },
-    {
-      "description": "NocoDB is an open-source Airtable alternative that transforms your database into a collaborative spreadsheet. It provides an intuitive interface for managing, editing, and sharing data without requiring extensive technical expertise.",
-      "items": [],
-      "title": "NocoDB"
-    },
-    {
-      "description": "An open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server (26 tools), webhooks, API keys, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.",
-      "items": [],
-      "title": "LastSaaS"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source, flexible headless CMS built with JavaScript/TypeScript that enables developers to manage and deliver content across multiple platforms with customizable hosting options.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 43441403,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T08:50:21Z",
+            "owner": "strapi",
+            "repo": "strapi",
+            "stars": 72965
+          },
+          "title": "Strapi"
+        },
+        {
+          "children": [],
+          "description": "Ghost is the most popular open source, headless Node.js CMS which already works with all the tools you know and love. It offers fiercely independent, professional publishing.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 9852918,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T09:41:17Z",
+            "owner": "TryGhost",
+            "repo": "Ghost",
+            "stars": 54795
+          },
+          "title": "Ghost"
+        },
+        {
+          "children": [],
+          "description": "An open-source real-time API and dashboard for managing SQL database content, providing flexible data management across multiple database systems with no-code and extensible features.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 7122594,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T08:28:57Z",
+            "owner": "directus",
+            "repo": "directus",
+            "stars": 37461
+          },
+          "title": "Directus"
+        },
+        {
+          "children": [],
+          "description": "A Next.js native, open-source headless CMS that installs directly in your existing app folder, offering a flexible and powerful content management solution.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 327089870,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T01:06:30Z",
+            "owner": "payloadcms",
+            "repo": "payload",
+            "stars": 44261
+          },
+          "title": "Payload CMS"
+        }
+      ],
       "title": "Content Management Systems"
     },
     {
-      "description": "An open-source, flexible headless CMS built with JavaScript/TypeScript that enables developers to manage and deliver content across multiple platforms with customizable hosting options.",
-      "items": [],
-      "title": "Strapi"
-    },
-    {
-      "description": "Ghost is the most popular open source, headless Node.js CMS which already works with all the tools you know and love. It offers fiercely independent, professional publishing.",
-      "items": [],
-      "title": "Ghost"
-    },
-    {
-      "description": "An open-source real-time API and dashboard for managing SQL database content, providing flexible data management across multiple database systems with no-code and extensible features.",
-      "items": [],
-      "title": "Directus"
-    },
-    {
-      "description": "A Next.js native, open-source headless CMS that installs directly in your existing app folder, offering a flexible and powerful content management solution.",
-      "items": [],
-      "title": "Payload CMS"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source observability platform for real-time infrastructure monitoring, providing instant insights into system performance with zero-configuration installation and powerful analytics capabilities.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 10744183,
+            "language": "Go",
+            "last_commit": "2026-08-19T06:57:04Z",
+            "owner": "netdata",
+            "repo": "netdata",
+            "stars": 80228
+          },
+          "title": "Netdata"
+        },
+        {
+          "children": [],
+          "description": "An open-source, privacy-focused web analytics platform that provides simple and fast website traffic insights as an alternative to Google Analytics.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 280363952,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T21:16:08Z",
+            "owner": "umami-software",
+            "repo": "umami",
+            "stars": 38248
+          },
+          "title": "Umami"
+        },
+        {
+          "children": [],
+          "description": "An open-source platform that helps product teams build and improve their software by providing comprehensive analytics, user insights, and experimentation tools.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 235901813,
+            "language": "Python",
+            "last_commit": "2026-08-19T09:56:53Z",
+            "owner": "PostHog",
+            "repo": "posthog",
+            "stars": 37766
+          },
+          "title": "PostHog"
+        },
+        {
+          "children": [],
+          "description": "A developer platform for error tracking and performance monitoring that helps developers identify, resolve, and gain insights into application issues across multiple programming languages and frameworks.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 873328,
+            "language": "Python",
+            "last_commit": "2026-08-19T09:49:34Z",
+            "owner": "getsentry",
+            "repo": "sentry",
+            "stars": 44574
+          },
+          "title": "Sentry"
+        },
+        {
+          "children": [],
+          "description": "Metabase is the easy, open-source way for everyone in your company to ask questions and learn from data.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 30203935,
+            "language": "Clojure",
+            "last_commit": "2026-08-19T09:19:39Z",
+            "owner": "metabase",
+            "repo": "metabase",
+            "stars": 48828
+          },
+          "title": "Metabase"
+        },
+        {
+          "children": [],
+          "description": "Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 160427405,
+            "language": "Elixir",
+            "last_commit": "2026-08-18T14:17:28Z",
+            "owner": "plausible",
+            "repo": "analytics",
+            "stars": 28658
+          },
+          "title": "Plausible"
+        },
+        {
+          "children": [],
+          "description": "An open-source data visualization and dashboard tool that enables users to explore, query, and share data from multiple sources through an intuitive browser-based interface.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 13926404,
+            "language": "Python",
+            "last_commit": "2026-08-18T16:14:11Z",
+            "owner": "getredash",
+            "repo": "redash",
+            "stars": 28754
+          },
+          "title": "Redash"
+        },
+        {
+          "children": [],
+          "description": "An open-source session replay platform that helps developers understand user interactions and troubleshoot web application issues by capturing comprehensive session data.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 362806180,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T14:37:49Z",
+            "owner": "openreplay",
+            "repo": "openreplay",
+            "stars": 12526
+          },
+          "title": "OpenReplay"
+        },
+        {
+          "children": [],
+          "description": "An open-source web analytics platform that provides full data ownership, privacy, and powerful tracking capabilities for websites.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1548202,
+            "language": "PHP",
+            "last_commit": "2026-08-19T09:51:06Z",
+            "owner": "matomo-org",
+            "repo": "matomo",
+            "stars": 21787
+          },
+          "title": "Matomo"
+        }
+      ],
       "title": "Analytics & Monitoring"
     },
     {
-      "description": "An open-source observability platform for real-time infrastructure monitoring, providing instant insights into system performance with zero-configuration installation and powerful analytics capabilities.",
-      "items": [],
-      "title": "Netdata"
-    },
-    {
-      "description": "An open-source, privacy-focused web analytics platform that provides simple and fast website traffic insights as an alternative to Google Analytics.",
-      "items": [],
-      "title": "Umami"
-    },
-    {
-      "description": "An open-source platform that helps product teams build and improve their software by providing comprehensive analytics, user insights, and experimentation tools.",
-      "items": [],
-      "title": "PostHog"
-    },
-    {
-      "description": "A developer platform for error tracking and performance monitoring that helps developers identify, resolve, and gain insights into application issues across multiple programming languages and frameworks.",
-      "items": [],
-      "title": "Sentry"
-    },
-    {
-      "description": "Metabase is the easy, open-source way for everyone in your company to ask questions and learn from data.",
-      "items": [],
-      "title": "Metabase"
-    },
-    {
-      "description": "Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
-      "items": [],
-      "title": "Plausible"
-    },
-    {
-      "description": "An open-source data visualization and dashboard tool that enables users to explore, query, and share data from multiple sources through an intuitive browser-based interface.",
-      "items": [],
-      "title": "Redash"
-    },
-    {
-      "description": "An open-source session replay platform that helps developers understand user interactions and troubleshoot web application issues by capturing comprehensive session data.",
-      "items": [],
-      "title": "OpenReplay"
-    },
-    {
-      "description": "An open-source web analytics platform that provides full data ownership, privacy, and powerful tracking capabilities for websites.",
-      "items": [],
-      "title": "Matomo"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An extensible, self-hosted AI platform that supports offline operation, multiple LLM runners, and provides a user-friendly interface for AI interactions.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 701547123,
+            "language": "Python",
+            "last_commit": "2026-08-19T05:09:44Z",
+            "owner": "open-webui",
+            "repo": "open-webui",
+            "stars": 149213
+          },
+          "title": "Open WebUI"
+        },
+        {
+          "children": [],
+          "description": "An open-source, modern ChatGPT/LLMs UI framework that enables one-click deployment of private AI chat applications with multi-modal and extensible features.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 643445235,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:47:06Z",
+            "owner": "lobehub",
+            "repo": "lobehub",
+            "stars": 81817
+          },
+          "title": "Lobe Chat"
+        },
+        {
+          "children": [],
+          "description": "A comprehensive AI application that allows users to chat with documents, use AI agents, and create customizable multi-user environments with easy setup and configuration.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 649170660,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T01:33:39Z",
+            "owner": "Mintplex-Labs",
+            "repo": "anything-llm",
+            "stars": 64907
+          },
+          "title": "AnythingLLM"
+        },
+        {
+          "children": [],
+          "description": "An open-source AI chat platform that integrates multiple AI models, offering enhanced features and customization beyond traditional chatbots.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 600596928,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T08:34:21Z",
+            "owner": "danny-avila",
+            "repo": "LibreChat",
+            "stars": 42217
+          },
+          "title": "LibreChat"
+        },
+        {
+          "children": [],
+          "description": "An open-source, offline AI assistant that enables users to run language models locally with full privacy and control across multiple hardware platforms.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 679506386,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:44:57Z",
+            "owner": "janhq",
+            "repo": "jan",
+            "stars": 44051
+          },
+          "title": "Jan"
+        },
+        {
+          "children": [],
+          "description": "An open-source context infrastructure for AI agents. It connects any source, versions every change Git-style, and scopes access per agent.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 899663167,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T17:44:10Z",
+            "owner": "puppyone-ai",
+            "repo": "puppyone",
+            "stars": 1300
+          },
+          "title": "Puppyone"
+        }
+      ],
       "title": "AI & Machine Learning"
     },
     {
-      "description": "An extensible, self-hosted AI platform that supports offline operation, multiple LLM runners, and provides a user-friendly interface for AI interactions.",
-      "items": [],
-      "title": "Open WebUI"
-    },
-    {
-      "description": "An open-source, modern ChatGPT/LLMs UI framework that enables one-click deployment of private AI chat applications with multi-modal and extensible features.",
-      "items": [],
-      "title": "Lobe Chat"
-    },
-    {
-      "description": "A comprehensive AI application that allows users to chat with documents, use AI agents, and create customizable multi-user environments with easy setup and configuration.",
-      "items": [],
-      "title": "AnythingLLM"
-    },
-    {
-      "description": "An open-source AI chat platform that integrates multiple AI models, offering enhanced features and customization beyond traditional chatbots.",
-      "items": [],
-      "title": "LibreChat"
-    },
-    {
-      "description": "An open-source, offline AI assistant that enables users to run language models locally with full privacy and control across multiple hardware platforms.",
-      "items": [],
-      "title": "Jan"
-    },
-    {
-      "description": "An open-source context infrastructure for AI agents. It connects any source, versions every change Git-style, and scopes access per agent.",
-      "items": [],
-      "title": "Puppyone"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source API development ecosystem that helps developers create, test, and manage API requests efficiently with a user-friendly interface and powerful features.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 203587744,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T19:17:55Z",
+            "owner": "hoppscotch",
+            "repo": "hoppscotch",
+            "stars": 80054
+          },
+          "title": "Hoppscotch"
+        },
+        {
+          "children": [],
+          "description": "An open-source, cross-platform API client that enables debugging, designing, testing, and mocking APIs across multiple protocols and formats.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 56899284,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:25:46Z",
+            "owner": "Kong",
+            "repo": "insomnia",
+            "stars": 39956
+          },
+          "title": "Insomnia"
+        },
+        {
+          "children": [],
+          "description": "A lightning-fast, developer-friendly search engine that enables seamless, intuitive search experiences across applications and websites with advanced features and easy integration.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 130688011,
+            "language": "Rust",
+            "last_commit": "2026-08-14T09:38:01Z",
+            "owner": "meilisearch",
+            "repo": "meilisearch",
+            "stars": 59013
+          },
+          "title": "Meilisearch"
+        },
+        {
+          "children": [],
+          "description": "A developer platform that provides on-demand, pre-configured cloud development environments that automatically integrate tools, libraries, and dependencies for software creation.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 130879558,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T05:07:39Z",
+            "owner": "gitpod-io",
+            "repo": "gitpod",
+            "stars": 13751
+          },
+          "title": "Gitpod"
+        }
+      ],
       "title": "Developer Tools"
     },
     {
-      "description": "An open-source API development ecosystem that helps developers create, test, and manage API requests efficiently with a user-friendly interface and powerful features.",
-      "items": [],
-      "title": "Hoppscotch"
-    },
-    {
-      "description": "An open-source, cross-platform API client that enables debugging, designing, testing, and mocking APIs across multiple protocols and formats.",
-      "items": [],
-      "title": "Insomnia"
-    },
-    {
-      "description": "A lightning-fast, developer-friendly search engine that enables seamless, intuitive search experiences across applications and websites with advanced features and easy integration.",
-      "items": [],
-      "title": "Meilisearch"
-    },
-    {
-      "description": "A developer platform that provides on-demand, pre-configured cloud development environments that automatically integrate tools, libraries, and dependencies for software creation.",
-      "items": [],
-      "title": "Gitpod"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source communication platform enabling secure, real-time conversations for organizations, supporting team collaboration, customer service, and flexible deployment across various channels.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 35866694,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:55:30Z",
+            "owner": "RocketChat",
+            "repo": "Rocket.Chat",
+            "stars": 46003
+          },
+          "title": "Rocket.Chat"
+        },
+        {
+          "children": [],
+          "description": "An open source platform for secure collaboration across the software development lifecycle, enabling teams to communicate, coordinate, and manage projects efficiently.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 37448451,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:55:13Z",
+            "owner": "mattermost",
+            "repo": "mattermost",
+            "stars": 38840
+          },
+          "title": "Mattermost"
+        },
+        {
+          "children": [],
+          "description": "An open-source community platform that provides a comprehensive solution for online discussions, real-time chat, and community engagement with extensive customization options.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 7569578,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T09:53:38Z",
+            "owner": "discourse",
+            "repo": "discourse",
+            "stars": 47674
+          },
+          "title": "Discourse"
+        },
+        {
+          "children": [],
+          "description": "A collaborative knowledge base platform for teams, built with React and Node.js, offering an intuitive way to share and organize information.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 59435364,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T23:56:47Z",
+            "owner": "outline",
+            "repo": "outline",
+            "stars": 40243
+          },
+          "title": "Outline"
+        }
+      ],
       "title": "Team Collaboration"
     },
     {
-      "description": "An open-source communication platform enabling secure, real-time conversations for organizations, supporting team collaboration, customer service, and flexible deployment across various channels.",
-      "items": [],
-      "title": "Rocket.Chat"
-    },
-    {
-      "description": "An open source platform for secure collaboration across the software development lifecycle, enabling teams to communicate, coordinate, and manage projects efficiently.",
-      "items": [],
-      "title": "Mattermost"
-    },
-    {
-      "description": "An open-source community platform that provides a comprehensive solution for online discussions, real-time chat, and community engagement with extensive customization options.",
-      "items": [],
-      "title": "Discourse"
-    },
-    {
-      "description": "A collaborative knowledge base platform for teams, built with React and Node.js, offering an intuitive way to share and organize information.",
-      "items": [],
-      "title": "Outline"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source customer engagement platform that enables businesses to communicate with customers across multiple channels from a single dashboard.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 202291859,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T09:49:17Z",
+            "owner": "chatwoot",
+            "repo": "chatwoot",
+            "stars": 35976
+          },
+          "title": "Chatwoot"
+        },
+        {
+          "children": [],
+          "description": "An open-source surveying platform that helps teams gather user feedback through customizable surveys across multiple channels, enabling better user experience insights.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 500289888,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:55:00Z",
+            "owner": "formbricks",
+            "repo": "formbricks",
+            "stars": 12791
+          },
+          "title": "Formbricks"
+        },
+        {
+          "children": [],
+          "description": "An open source feedback platform with voting boards, public roadmaps, changelogs, and a built-in MCP server for AI agents. Alternative to Canny and UserVoice.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1108049865,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:06:52Z",
+            "owner": "QuackbackIO",
+            "repo": "quackback",
+            "stars": 235
+          },
+          "title": "Quackback"
+        }
+      ],
       "title": "Customer Support & Engagement"
     },
     {
-      "description": "An open-source customer engagement platform that enables businesses to communicate with customers across multiple channels from a single dashboard.",
-      "items": [],
-      "title": "Chatwoot"
-    },
-    {
-      "description": "An open-source surveying platform that helps teams gather user feedback through customizable surveys across multiple channels, enabling better user experience insights.",
-      "items": [],
-      "title": "Formbricks"
-    },
-    {
-      "description": "An open source feedback platform with voting boards, public roadmaps, changelogs, and a built-in MCP server for AI agents. Alternative to Canny and UserVoice.",
-      "items": [],
-      "title": "Quackback"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source CRM with native n8n workflow automation, built for small B2B teams. Self-hostable via Docker. Alternative to Pipedrive and HubSpot. Built with TypeScript (Next.js, NestJS, PostgreSQL).",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1186103757,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:56:03Z",
+            "owner": "customermates",
+            "repo": "customermates",
+            "stars": 240
+          },
+          "title": "Customermates"
+        }
+      ],
       "title": "CRM & Sales"
     },
     {
-      "description": "An open-source CRM with native n8n workflow automation, built for small B2B teams. Self-hostable via Docker. Alternative to Pipedrive and HubSpot. Built with TypeScript (Next.js, NestJS, PostgreSQL).",
-      "items": [],
-      "title": "Customermates"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source scheduling infrastructure that gives users full control over their scheduling workflow, data, and appearance. Designed as a flexible, self-hostable alternative to Calendly.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 350360184,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T17:13:42Z",
+            "owner": "calcom",
+            "repo": "cal.diy",
+            "stars": 47798
+          },
+          "title": "Cal.com"
+        },
+        {
+          "children": [],
+          "description": "An open-source project management tool that helps teams define, organize, track, and manage work across individuals and teams. Available as a personal desktop app and server solution.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 301793434,
+            "language": "TypeScript",
+            "last_commit": "2026-05-18T16:05:00Z",
+            "owner": "mattermost-community",
+            "repo": "focalboard",
+            "stars": 26410
+          },
+          "title": "Focalboard"
+        },
+        {
+          "children": [],
+          "description": "A robust framework for developing business applications like CRM systems, offering multiple integrated applications including Chat, Project Management, CRM, HRM, and ATS.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 392073243,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T12:09:34Z",
+            "owner": "hcengineering",
+            "repo": "platform",
+            "stars": 27386
+          },
+          "title": "Huly Platform"
+        },
+        {
+          "children": [],
+          "description": "An AI-powered social media scheduling platform that helps businesses manage posts, build audiences, and optimize content across multiple social media platforms.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 664013991,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:03:51Z",
+            "owner": "gitroomhq",
+            "repo": "postiz-app",
+            "stars": 34855
+          },
+          "title": "Postiz"
+        },
+        {
+          "children": [],
+          "description": "An open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-hostable alternative to Calendly with calendar sync, video conferencing integration, timezone support, and SSO.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1033663456,
+            "language": "Elixir",
+            "last_commit": "2026-08-18T09:12:08Z",
+            "owner": "Tymeslot",
+            "repo": "tymeslot",
+            "stars": 173
+          },
+          "title": "Tymeslot"
+        }
+      ],
       "title": "Productivity & Project Management"
     },
     {
-      "description": "An open-source scheduling infrastructure that gives users full control over their scheduling workflow, data, and appearance. Designed as a flexible, self-hostable alternative to Calendly.",
-      "items": [],
-      "title": "Cal.com"
-    },
-    {
-      "description": "An open-source project management tool that helps teams define, organize, track, and manage work across individuals and teams. Available as a personal desktop app and server solution.",
-      "items": [],
-      "title": "Focalboard"
-    },
-    {
-      "description": "A robust framework for developing business applications like CRM systems, offering multiple integrated applications including Chat, Project Management, CRM, HRM, and ATS.",
-      "items": [],
-      "title": "Huly Platform"
-    },
-    {
-      "description": "An AI-powered social media scheduling platform that helps businesses manage posts, build audiences, and optimize content across multiple social media platforms.",
-      "items": [],
-      "title": "Postiz"
-    },
-    {
-      "description": "An open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-hostable alternative to Calendly with calendar sync, video conferencing integration, timezone support, and SSO.",
-      "items": [],
-      "title": "Tymeslot"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "A native macOS code editor built by the community, designed to provide a seamless and native coding experience for developers working on various platforms.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 468515960,
+            "language": "Swift",
+            "last_commit": "2026-08-18T21:24:35Z",
+            "owner": "CodeEditApp",
+            "repo": "CodeEdit",
+            "stars": 22983
+          },
+          "title": "CodeEdit"
+        },
+        {
+          "children": [],
+          "description": "An open-source screen recording application that allows users to easily capture, record, and share screen content using web technologies.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 65411043,
+            "language": "TypeScript",
+            "last_commit": "2024-11-12T15:32:40Z",
+            "owner": "wulkano",
+            "repo": "Kap",
+            "stars": 19331
+          },
+          "title": "Kap"
+        },
+        {
+          "children": [],
+          "description": "A macOS menu bar application that allows users to view, create, edit, and manage Apple Reminders with a simple and intuitive interface.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 279961807,
+            "language": "Swift",
+            "last_commit": "2026-07-26T02:01:45Z",
+            "owner": "DamascenoRafael",
+            "repo": "reminders-menubar",
+            "stars": 3879
+          },
+          "title": "Reminders MenuBar"
+        }
+      ],
       "title": "Desktop Applications"
     },
     {
-      "description": "A native macOS code editor built by the community, designed to provide a seamless and native coding experience for developers working on various platforms.",
-      "items": [],
-      "title": "CodeEdit"
-    },
-    {
-      "description": "An open-source screen recording application that allows users to easily capture, record, and share screen content using web technologies.",
-      "items": [],
-      "title": "Kap"
-    },
-    {
-      "description": "A macOS menu bar application that allows users to view, create, edit, and manage Apple Reminders with a simple and intuitive interface.",
-      "items": [],
-      "title": "Reminders MenuBar"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source, self-hostable alternative to cloud deployment platforms like Heroku, Netlify, and Vercel. Enables users to manage servers, applications, and databases using their own hardware with just an SSH connection.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 332880689,
+            "language": "PHP",
+            "last_commit": "2026-08-19T09:57:17Z",
+            "owner": "coollabsio",
+            "repo": "coolify",
+            "stars": 60739
+          },
+          "title": "Coolify"
+        },
+        {
+          "children": [],
+          "description": "Dokploy is a free, self-hostable Platform as a Service that simplifies the deployment and management of applications and databases.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 788847937,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T22:40:24Z",
+            "owner": "Dokploy",
+            "repo": "dokploy",
+            "stars": 36707
+          },
+          "title": "Dokploy"
+        },
+        {
+          "children": [],
+          "description": "A proactive endpoint monitoring tool that performs health checks on services, providing real-time alerts and performance insights for modern applications.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 206214867,
+            "language": "Go",
+            "last_commit": "2026-08-18T01:22:58Z",
+            "owner": "TwiN",
+            "repo": "gatus",
+            "stars": 11854
+          },
+          "title": "Gatus"
+        },
+        {
+          "children": [],
+          "description": "An open-source synthetic monitoring platform that helps monitor websites and APIs globally, providing notifications about downtime and performance issues.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 655783613,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:23:51Z",
+            "owner": "openstatusHQ",
+            "repo": "openstatus",
+            "stars": 8993
+          },
+          "title": "OpenStatus"
+        },
+        {
+          "children": [],
+          "description": "An open-source uptime and infrastructure monitoring application that tracks the operational status and performance of servers and websites, providing real-time alerts and comprehensive monitoring capabilities.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 793866369,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T18:25:07Z",
+            "owner": "bluewave-labs",
+            "repo": "Checkmate",
+            "stars": 10557
+          },
+          "title": "Checkmate"
+        }
+      ],
       "title": "Infrastructure & DevOps"
     },
     {
-      "description": "An open-source, self-hostable alternative to cloud deployment platforms like Heroku, Netlify, and Vercel. Enables users to manage servers, applications, and databases using their own hardware with just an SSH connection.",
-      "items": [],
-      "title": "Coolify"
-    },
-    {
-      "description": "Dokploy is a free, self-hostable Platform as a Service that simplifies the deployment and management of applications and databases.",
-      "items": [],
-      "title": "Dokploy"
-    },
-    {
-      "description": "A proactive endpoint monitoring tool that performs health checks on services, providing real-time alerts and performance insights for modern applications.",
-      "items": [],
-      "title": "Gatus"
-    },
-    {
-      "description": "An open-source synthetic monitoring platform that helps monitor websites and APIs globally, providing notifications about downtime and performance issues.",
-      "items": [],
-      "title": "OpenStatus"
-    },
-    {
-      "description": "An open-source uptime and infrastructure monitoring application that tracks the operational status and performance of servers and websites, providing real-time alerts and comprehensive monitoring capabilities.",
-      "items": [],
-      "title": "Checkmate"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source digital document signing platform that aims to provide a trusted, self-hostable alternative to traditional signing tools, empowering users with transparency and control.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 613010835,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:55:00Z",
+            "owner": "documenso",
+            "repo": "documenso",
+            "stars": 14606
+          },
+          "title": "Documenso"
+        },
+        {
+          "children": [],
+          "description": "An open-source tool for creating professional resumes using markdown, offering live preview, theme customization, and PDF export.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 897337349,
+            "language": "TypeScript",
+            "last_commit": "2026-02-11T08:10:26Z",
+            "owner": "rozita-hasani",
+            "repo": "markdown-resume",
+            "stars": 103
+          },
+          "title": "Markdown Resume"
+        }
+      ],
       "title": "Document Management"
     },
     {
-      "description": "An open-source digital document signing platform that aims to provide a trusted, self-hostable alternative to traditional signing tools, empowering users with transparency and control.",
-      "items": [],
-      "title": "Documenso"
-    },
-    {
-      "description": "An open-source tool for creating professional resumes using markdown, offering live preview, theme customization, and PDF export.",
-      "items": [],
-      "title": "Markdown Resume"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source personal finance and wealth management application that allows users to manage their finances, with plans for self-hosting and future managed services.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 737898780,
+            "language": "Ruby",
+            "last_commit": "2025-07-24T22:20:44Z",
+            "owner": "maybe-finance",
+            "repo": "maybe",
+            "stars": 54322
+          },
+          "title": "Maybe"
+        }
+      ],
       "title": "Financial Tools"
-    },
-    {
-      "description": "An open-source personal finance and wealth management application that allows users to manage their finances, with plans for self-hosting and future managed services.",
-      "items": [],
-      "title": "Maybe"
-    },
-    {
-      "description": "This list is under the MIT License. See the LICENSE file for details.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:57:02.366Z",
+    "last_updated": "2026-08-19T09:57:22.879Z",
     "original_repository": "open-saas-directory/awesome-saas-directory",
     "original_repository_sha": "1a07f5c10e96a2736abf2d72af70540f86462fb1",
     "enhanced_repository": "enhansome/enhansome-saas-directory",
