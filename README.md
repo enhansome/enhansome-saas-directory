@@ -20,7 +20,7 @@ A curated list of production-ready open source SaaS applications and platforms. 
 
 ## Backend & Infrastructure
 
-### [Supabase](https://github.com/supabase/supabase) ⭐ 108,376 | 🐛 1,052 | 🌐 TypeScript | 📅 2026-08-25
+### [Supabase](https://github.com/supabase/supabase) ⭐ 108,418 | 🐛 1,068 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/supabase/supabase?style=social)
 
@@ -28,7 +28,7 @@ A curated list of production-ready open source SaaS applications and platforms. 
 
 An open-source Firebase alternative that provides a complete backend platform with Postgres database, authentication, real-time subscriptions, storage, and serverless functions.
 
-### [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,114 | 🐛 1,012 | 🌐 TypeScript | 📅 2026-08-25
+### [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,122 | 🐛 1,016 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social)
 
@@ -36,7 +36,7 @@ An open-source Firebase alternative that provides a complete backend platform wi
 
 An end-to-end backend server for web, mobile, and native applications that simplifies backend development with a comprehensive set of microservices and APIs.
 
-### [PocketBase](https://github.com/pocketbase/pocketbase) ⭐ 60,801 | 🐛 19 | 🌐 Go | 📅 2026-08-24
+### [PocketBase](https://github.com/pocketbase/pocketbase) ⭐ 60,810 | 🐛 19 | 🌐 Go | 📅 2026-08-24
 
 ![Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social)
 
@@ -44,7 +44,7 @@ An end-to-end backend server for web, mobile, and native applications that simpl
 
 An open-source Go backend that provides an all-in-one solution for building web and mobile applications with an embedded database, authentication, and API functionality.
 
-### [NocoDB](https://github.com/nocodb/nocodb) ⭐ 64,718 | 🐛 712 | 🌐 TypeScript | 📅 2026-08-25
+### [NocoDB](https://github.com/nocodb/nocodb) ⭐ 64,738 | 🐛 712 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social)
 
@@ -52,7 +52,7 @@ An open-source Go backend that provides an all-in-one solution for building web 
 
 NocoDB is an open-source Airtable alternative that transforms your database into a collaborative spreadsheet. It provides an intuitive interface for managing, editing, and sharing data without requiring extensive technical expertise.
 
-### [LastSaaS](https://github.com/jonradoff/lastsaas) ⭐ 160 | 🐛 2 | 🌐 Go | 📅 2026-03-05
+### [LastSaaS](https://github.com/jonradoff/lastsaas) ⭐ 161 | 🐛 2 | 🌐 Go | 📅 2026-03-05
 
 ![Stars](https://img.shields.io/github/stars/jonradoff/lastsaas?style=social)
 
@@ -62,7 +62,7 @@ An open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe
 
 ## Content Management Systems
 
-### [Strapi](https://github.com/strapi/strapi) ⭐ 73,012 | 🐛 537 | 🌐 TypeScript | 📅 2026-08-25
+### [Strapi](https://github.com/strapi/strapi) ⭐ 73,015 | 🐛 546 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/strapi/strapi?style=social)
 
@@ -70,7 +70,7 @@ An open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe
 
 An open-source, flexible headless CMS built with JavaScript/TypeScript that enables developers to manage and deliver content across multiple platforms with customizable hosting options.
 
-### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,056 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-25
+### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,063 | 🐛 133 | 🌐 JavaScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social)
 
@@ -78,7 +78,7 @@ An open-source, flexible headless CMS built with JavaScript/TypeScript that enab
 
 Ghost is the most popular open source, headless Node.js CMS which already works with all the tools you know and love. It offers fiercely independent, professional publishing.
 
-### [Directus](https://github.com/directus/directus) ⭐ 37,446 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-24
+### [Directus](https://github.com/directus/directus) ⭐ 37,528 | 🐛 388 | 🌐 TypeScript | 📅 2026-08-25
 
 ![Stars](https://img.shields.io/github/stars/directus/directus?style=social)
 
@@ -86,7 +86,7 @@ Ghost is the most popular open source, headless Node.js CMS which already works 
 
 An open-source real-time API and dashboard for managing SQL database content, providing flexible data management across multiple database systems with no-code and extensible features.
 
-### [Payload CMS](https://github.com/payloadcms/payload) ⭐ 44,390 | 🐛 1,076 | 🌐 TypeScript | 📅 2026-08-25
+### [Payload CMS](https://github.com/payloadcms/payload) ⭐ 44,409 | 🐛 1,089 | 🌐 TypeScript | 📅 2026-08-25
 
 ![Stars](https://img.shields.io/github/stars/payloadcms/payload?style=social)
 
@@ -96,7 +96,7 @@ A Next.js native, open-source headless CMS that installs directly in your existi
 
 ## Analytics & Monitoring
 
-### [Netdata](https://github.com/netdata/netdata) ⭐ 80,286 | 🐛 389 | 🌐 Go | 📅 2026-08-25
+### [Netdata](https://github.com/netdata/netdata) ⭐ 80,303 | 🐛 392 | 🌐 Go | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/netdata/netdata?style=social)
 
@@ -104,7 +104,7 @@ A Next.js native, open-source headless CMS that installs directly in your existi
 
 An open-source observability platform for real-time infrastructure monitoring, providing instant insights into system performance with zero-configuration installation and powerful analytics capabilities.
 
-### [Umami](https://github.com/umami-software/umami) ⭐ 38,351 | 🐛 102 | 🌐 TypeScript | 📅 2026-08-25
+### [Umami](https://github.com/umami-software/umami) ⭐ 38,369 | 🐛 106 | 🌐 TypeScript | 📅 2026-08-25
 
 ![Stars](https://img.shields.io/github/stars/umami-software/umami?style=social)
 
@@ -112,7 +112,7 @@ An open-source observability platform for real-time infrastructure monitoring, p
 
 An open-source, privacy-focused web analytics platform that provides simple and fast website traffic insights as an alternative to Google Analytics.
 
-### [PostHog](https://github.com/PostHog/posthog) ⭐ 39,110 | 🐛 5,048 | 🌐 Python | 📅 2026-08-25
+### [PostHog](https://github.com/PostHog/posthog) ⭐ 39,198 | 🐛 5,054 | 🌐 Python | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social)
 
@@ -120,7 +120,7 @@ An open-source, privacy-focused web analytics platform that provides simple and 
 
 An open-source platform that helps product teams build and improve their software by providing comprehensive analytics, user insights, and experimentation tools.
 
-### [Sentry](https://github.com/getsentry/sentry) ⭐ 44,613 | 🐛 2,259 | 🌐 Python | 📅 2026-08-25
+### [Sentry](https://github.com/getsentry/sentry) ⭐ 44,621 | 🐛 2,242 | 🌐 Python | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/getsentry/sentry?style=social)
 
@@ -128,7 +128,7 @@ An open-source platform that helps product teams build and improve their softwar
 
 A developer platform for error tracking and performance monitoring that helps developers identify, resolve, and gain insights into application issues across multiple programming languages and frameworks.
 
-### [Metabase](https://github.com/metabase/metabase) ⭐ 48,915 | 🐛 4,434 | 🌐 Clojure | 📅 2026-08-25
+### [Metabase](https://github.com/metabase/metabase) ⭐ 48,940 | 🐛 4,482 | 🌐 Clojure | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social)
 
@@ -136,7 +136,7 @@ A developer platform for error tracking and performance monitoring that helps de
 
 Metabase is the easy, open-source way for everyone in your company to ask questions and learn from data.
 
-### [Plausible](https://github.com/plausible/analytics) ⭐ 28,741 | 🐛 63 | 🌐 Elixir | 📅 2026-08-25
+### [Plausible](https://github.com/plausible/analytics) ⭐ 28,754 | 🐛 59 | 🌐 Elixir | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/plausible/analytics?style=social)
 
@@ -144,7 +144,7 @@ Metabase is the easy, open-source way for everyone in your company to ask questi
 
 Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
-### [Redash](https://github.com/getredash/redash) ⭐ 28,765 | 🐛 800 | 🌐 Python | 📅 2026-08-18
+### [Redash](https://github.com/getredash/redash) ⭐ 28,767 | 🐛 800 | 🌐 Python | 📅 2026-08-18
 
 ![Stars](https://img.shields.io/github/stars/getredash/redash?style=social)
 
@@ -152,7 +152,7 @@ Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alt
 
 An open-source data visualization and dashboard tool that enables users to explore, query, and share data from multiple sources through an intuitive browser-based interface.
 
-### [OpenReplay](https://github.com/openreplay/openreplay) ⭐ 12,566 | 🐛 175 | 🌐 TypeScript | 📅 2026-08-24
+### [OpenReplay](https://github.com/openreplay/openreplay) ⭐ 12,576 | 🐛 175 | 🌐 TypeScript | 📅 2026-08-24
 
 ![Stars](https://img.shields.io/github/stars/openreplay/openreplay?style=social)
 
@@ -160,7 +160,7 @@ An open-source data visualization and dashboard tool that enables users to explo
 
 An open-source session replay platform that helps developers understand user interactions and troubleshoot web application issues by capturing comprehensive session data.
 
-### [Matomo](https://github.com/matomo-org/matomo) ⭐ 21,803 | 🐛 2,562 | 🌐 PHP | 📅 2026-08-25
+### [Matomo](https://github.com/matomo-org/matomo) ⭐ 21,806 | 🐛 2,564 | 🌐 PHP | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social)
 
@@ -170,7 +170,7 @@ An open-source web analytics platform that provides full data ownership, privacy
 
 ## AI & Machine Learning
 
-### [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 149,840 | 🐛 233 | 🌐 Python | 📅 2026-08-25
+### [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 149,957 | 🐛 201 | 🌐 Python | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
 
@@ -178,7 +178,7 @@ An open-source web analytics platform that provides full data ownership, privacy
 
 An extensible, self-hosted AI platform that supports offline operation, multiple LLM runners, and provides a user-friendly interface for AI interactions.
 
-### [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 81,980 | 🐛 801 | 🌐 TypeScript | 📅 2026-08-25
+### [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 82,010 | 🐛 812 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)
 
@@ -186,7 +186,7 @@ An extensible, self-hosted AI platform that supports offline operation, multiple
 
 An open-source, modern ChatGPT/LLMs UI framework that enables one-click deployment of private AI chat applications with multi-modal and extensible features.
 
-### [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) ⭐ 65,173 | 🐛 329 | 🌐 JavaScript | 📅 2026-08-25
+### [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) ⭐ 65,218 | 🐛 331 | 🌐 JavaScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)
 
@@ -194,7 +194,7 @@ An open-source, modern ChatGPT/LLMs UI framework that enables one-click deployme
 
 A comprehensive AI application that allows users to chat with documents, use AI agents, and create customizable multi-user environments with easy setup and configuration.
 
-### [LibreChat](https://github.com/danny-avila/LibreChat) ⭐ 42,431 | 🐛 722 | 🌐 TypeScript | 📅 2026-08-25
+### [LibreChat](https://github.com/danny-avila/LibreChat) ⭐ 42,469 | 🐛 734 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social)
 
@@ -202,7 +202,7 @@ A comprehensive AI application that allows users to chat with documents, use AI 
 
 An open-source AI chat platform that integrates multiple AI models, offering enhanced features and customization beyond traditional chatbots.
 
-### [Jan](https://github.com/janhq/jan) ⭐ 44,152 | 🐛 481 | 🌐 TypeScript | 📅 2026-08-25
+### [Jan](https://github.com/janhq/jan) ⭐ 44,186 | 🐛 483 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/janhq/jan?style=social)
 
@@ -220,7 +220,7 @@ An open-source context infrastructure for AI agents. It connects any source, ver
 
 ## Developer Tools
 
-### [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,095 | 🐛 802 | 🌐 TypeScript | 📅 2026-08-24
+### [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,101 | 🐛 803 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social)
 
@@ -228,7 +228,7 @@ An open-source context infrastructure for AI agents. It connects any source, ver
 
 An open-source API development ecosystem that helps developers create, test, and manage API requests efficiently with a user-friendly interface and powerful features.
 
-### [Insomnia](https://github.com/Kong/insomnia) ⭐ 39,961 | 🐛 859 | 🌐 TypeScript | 📅 2026-08-25
+### [Insomnia](https://github.com/Kong/insomnia) ⭐ 39,956 | 🐛 861 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/Kong/insomnia?style=social)
 
@@ -236,7 +236,7 @@ An open-source API development ecosystem that helps developers create, test, and
 
 An open-source, cross-platform API client that enables debugging, designing, testing, and mocking APIs across multiple protocols and formats.
 
-### [Meilisearch](https://github.com/meilisearch/meilisearch) ⭐ 59,083 | 🐛 313 | 🌐 Rust | 📅 2026-08-25
+### [Meilisearch](https://github.com/meilisearch/meilisearch) ⭐ 59,094 | 🐛 318 | 🌐 Rust | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social)
 
@@ -244,7 +244,7 @@ An open-source, cross-platform API client that enables debugging, designing, tes
 
 A lightning-fast, developer-friendly search engine that enables seamless, intuitive search experiences across applications and websites with advanced features and easy integration.
 
-### [Gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,756 | 🐛 456 | 🌐 TypeScript | 📅 2026-08-24
+### [Gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,755 | 🐛 456 | 🌐 TypeScript | 📅 2026-08-24
 
 ![Stars](https://img.shields.io/github/stars/gitpod-io/gitpod?style=social)
 
@@ -254,7 +254,7 @@ A developer platform that provides on-demand, pre-configured cloud development e
 
 ## Team Collaboration
 
-### [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,027 | 🐛 4,007 | 🌐 TypeScript | 📅 2026-08-25
+### [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,032 | 🐛 4,002 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social)
 
@@ -262,7 +262,7 @@ A developer platform that provides on-demand, pre-configured cloud development e
 
 An open-source communication platform enabling secure, real-time conversations for organizations, supporting team collaboration, customer service, and flexible deployment across various channels.
 
-### [Mattermost](https://github.com/mattermost/mattermost-server) ⭐ 38,894 | 🐛 970 | 🌐 TypeScript | 📅 2026-08-25
+### [Mattermost](https://github.com/mattermost/mattermost-server) ⭐ 38,906 | 🐛 975 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/mattermost/mattermost-server?style=social)
 
@@ -270,7 +270,7 @@ An open-source communication platform enabling secure, real-time conversations f
 
 An open source platform for secure collaboration across the software development lifecycle, enabling teams to communicate, coordinate, and manage projects efficiently.
 
-### [Discourse](https://github.com/discourse/discourse) ⭐ 47,724 | 🐛 283 | 🌐 Ruby | 📅 2026-08-25
+### [Discourse](https://github.com/discourse/discourse) ⭐ 47,732 | 🐛 278 | 🌐 Ruby | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/discourse/discourse?style=social)
 
@@ -278,7 +278,7 @@ An open source platform for secure collaboration across the software development
 
 An open-source community platform that provides a comprehensive solution for online discussions, real-time chat, and community engagement with extensive customization options.
 
-### [Outline](https://github.com/outline/outline) ⭐ 40,315 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-25
+### [Outline](https://github.com/outline/outline) ⭐ 40,332 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/outline/outline?style=social)
 
@@ -288,7 +288,7 @@ A collaborative knowledge base platform for teams, built with React and Node.js,
 
 ## Customer Support & Engagement
 
-### [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 36,186 | 🐛 1,349 | 🌐 Ruby | 📅 2026-08-25
+### [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 36,229 | 🐛 1,356 | 🌐 Ruby | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social)
 
@@ -296,7 +296,7 @@ A collaborative knowledge base platform for teams, built with React and Node.js,
 
 An open-source customer engagement platform that enables businesses to communicate with customers across multiple channels from a single dashboard.
 
-### [Formbricks](https://github.com/formbricks/formbricks) ⭐ 12,816 | 🐛 232 | 🌐 TypeScript | 📅 2026-08-25
+### [Formbricks](https://github.com/formbricks/formbricks) ⭐ 12,827 | 🐛 242 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social)
 
@@ -304,7 +304,7 @@ An open-source customer engagement platform that enables businesses to communica
 
 An open-source surveying platform that helps teams gather user feedback through customizable surveys across multiple channels, enabling better user experience insights.
 
-### [Quackback](https://github.com/QuackbackIO/quackback) ⭐ 241 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-24
+### [Quackback](https://github.com/QuackbackIO/quackback) ⭐ 242 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/QuackbackIO/quackback?style=social)
 
@@ -314,7 +314,7 @@ An open source feedback platform with voting boards, public roadmaps, changelogs
 
 ## CRM & Sales
 
-### [Customermates](https://github.com/customermates/customermates) ⭐ 230 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-25
+### [Customermates](https://github.com/customermates/customermates) ⭐ 230 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/customermates/customermates?style=social)
 
@@ -322,7 +322,7 @@ An open-source CRM with native n8n workflow automation, built for small B2B team
 
 ## Productivity & Project Management
 
-### [Cal.com](https://github.com/calcom/cal.com) ⭐ 47,919 | 🐛 1,424 | 🌐 TypeScript | 📅 2026-08-08
+### [Cal.com](https://github.com/calcom/cal.com) ⭐ 47,933 | 🐛 1,428 | 🌐 TypeScript | 📅 2026-08-08
 
 ![Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social)
 
@@ -330,7 +330,7 @@ An open-source CRM with native n8n workflow automation, built for small B2B team
 
 An open-source scheduling infrastructure that gives users full control over their scheduling workflow, data, and appearance. Designed as a flexible, self-hostable alternative to Calendly.
 
-### [Focalboard](https://github.com/mattermost/focalboard) ⭐ 26,426 | 🐛 784 | 🌐 TypeScript | 📅 2026-05-18
+### [Focalboard](https://github.com/mattermost/focalboard) ⭐ 26,429 | 🐛 784 | 🌐 TypeScript | 📅 2026-05-18
 
 ![Stars](https://img.shields.io/github/stars/mattermost/focalboard?style=social)
 
@@ -338,7 +338,7 @@ An open-source scheduling infrastructure that gives users full control over thei
 
 An open-source project management tool that helps teams define, organize, track, and manage work across individuals and teams. Available as a personal desktop app and server solution.
 
-### [Huly Platform](https://github.com/hcengineering/platform) ⭐ 27,443 | 🐛 847 | 🌐 TypeScript | 📅 2026-08-11
+### [Huly Platform](https://github.com/hcengineering/platform) ⭐ 27,459 | 🐛 848 | 🌐 TypeScript | 📅 2026-08-11
 
 ![Stars](https://img.shields.io/github/stars/hcengineering/platform?style=social)
 
@@ -346,7 +346,7 @@ An open-source project management tool that helps teams define, organize, track,
 
 A robust framework for developing business applications like CRM systems, offering multiple integrated applications including Chat, Project Management, CRM, HRM, and ATS.
 
-### [Postiz](https://github.com/gitroomhq/postiz-app) ⭐ 35,105 | 🐛 277 | 🌐 TypeScript | 📅 2026-08-25
+### [Postiz](https://github.com/gitroomhq/postiz-app) ⭐ 35,144 | 🐛 275 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=social)
 
@@ -354,7 +354,7 @@ A robust framework for developing business applications like CRM systems, offeri
 
 An AI-powered social media scheduling platform that helps businesses manage posts, build audiences, and optimize content across multiple social media platforms.
 
-### [Tymeslot](https://github.com/Tymeslot/tymeslot) ⭐ 180 | 🐛 4 | 🌐 Elixir | 📅 2026-08-22
+### [Tymeslot](https://github.com/Tymeslot/tymeslot) ⭐ 180 | 🐛 5 | 🌐 Elixir | 📅 2026-08-22
 
 ![Stars](https://img.shields.io/github/stars/Tymeslot/tymeslot?style=social)
 
@@ -372,7 +372,7 @@ An open-source meeting scheduling platform built with Elixir/Phoenix LiveView. S
 
 A native macOS code editor built by the community, designed to provide a seamless and native coding experience for developers working on various platforms.
 
-### [Kap](https://github.com/wulkano/kap) ⭐ 19,333 | 🐛 254 | 🌐 TypeScript | 📅 2024-11-12
+### [Kap](https://github.com/wulkano/kap) ⭐ 19,336 | 🐛 254 | 🌐 TypeScript | 📅 2024-11-12
 
 ![Stars](https://img.shields.io/github/stars/wulkano/kap?style=social)
 
@@ -380,7 +380,7 @@ A native macOS code editor built by the community, designed to provide a seamles
 
 An open-source screen recording application that allows users to easily capture, record, and share screen content using web technologies.
 
-### [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar) ⭐ 3,893 | 🐛 47 | 🌐 Swift | 📅 2026-07-26
+### [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar) ⭐ 3,896 | 🐛 47 | 🌐 Swift | 📅 2026-07-26
 
 ![Stars](https://img.shields.io/github/stars/DamascenoRafael/reminders-menubar?style=social)
 
@@ -390,7 +390,7 @@ A macOS menu bar application that allows users to view, create, edit, and manage
 
 ## Infrastructure & DevOps
 
-### [Coolify](https://github.com/coollabsio/coolify) ⭐ 61,017 | 🐛 655 | 🌐 PHP | 📅 2026-08-25
+### [Coolify](https://github.com/coollabsio/coolify) ⭐ 61,059 | 🐛 654 | 🌐 PHP | 📅 2026-08-25
 
 ![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=social)
 
@@ -398,7 +398,7 @@ A macOS menu bar application that allows users to view, create, edit, and manage
 
 An open-source, self-hostable alternative to cloud deployment platforms like Heroku, Netlify, and Vercel. Enables users to manage servers, applications, and databases using their own hardware with just an SSH connection.
 
-### [Dokploy](https://github.com/Dokploy/dokploy) ⭐ 36,852 | 🐛 688 | 🌐 TypeScript | 📅 2026-08-25
+### [Dokploy](https://github.com/Dokploy/dokploy) ⭐ 36,873 | 🐛 697 | 🌐 TypeScript | 📅 2026-08-25
 
 ![Stars](https://img.shields.io/github/stars/Dokploy/dokploy?style=social)
 
@@ -406,7 +406,7 @@ An open-source, self-hostable alternative to cloud deployment platforms like Her
 
 Dokploy is a free, self-hostable Platform as a Service that simplifies the deployment and management of applications and databases.
 
-### [Gatus](https://github.com/TwiN/gatus) ⭐ 11,898 | 🐛 374 | 🌐 Go | 📅 2026-08-18
+### [Gatus](https://github.com/TwiN/gatus) ⭐ 11,902 | 🐛 374 | 🌐 Go | 📅 2026-08-18
 
 ![Stars](https://img.shields.io/github/stars/TwiN/gatus?style=social)
 
@@ -414,7 +414,7 @@ Dokploy is a free, self-hostable Platform as a Service that simplifies the deplo
 
 A proactive endpoint monitoring tool that performs health checks on services, providing real-time alerts and performance insights for modern applications.
 
-### [OpenStatus](https://github.com/openstatushq/openstatus) ⭐ 9,013 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-25
+### [OpenStatus](https://github.com/openstatushq/openstatus) ⭐ 9,018 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/openstatushq/openstatus?style=social)
 
@@ -422,7 +422,7 @@ A proactive endpoint monitoring tool that performs health checks on services, pr
 
 An open-source synthetic monitoring platform that helps monitor websites and APIs globally, providing notifications about downtime and performance issues.
 
-### [Checkmate](https://github.com/bluewave-labs/checkmate) ⭐ 10,749 | 🐛 100 | 🌐 TypeScript | 📅 2026-08-24
+### [Checkmate](https://github.com/bluewave-labs/checkmate) ⭐ 10,752 | 🐛 99 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/bluewave-labs/checkmate?style=social)
 
@@ -432,7 +432,7 @@ An open-source uptime and infrastructure monitoring application that tracks the 
 
 ## Document Management
 
-### [Documenso](https://github.com/documenso/documenso) ⭐ 14,738 | 🐛 252 | 🌐 TypeScript | 📅 2026-08-25
+### [Documenso](https://github.com/documenso/documenso) ⭐ 14,760 | 🐛 256 | 🌐 TypeScript | 📅 2026-08-26
 
 ![Stars](https://img.shields.io/github/stars/documenso/documenso?style=social)
 
@@ -474,4 +474,4 @@ This list is under the MIT License. See the LICENSE file for details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
