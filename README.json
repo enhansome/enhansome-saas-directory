@@ -9,12 +9,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:15:16Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108535
+            "stars": 108545,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "title": "Supabase",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -25,12 +50,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+            "homepage": "https://appwrite.io",
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:05:04Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T03:39:00Z",
+            "open_issues": 1027,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57156
+            "stars": 57155,
+            "topics": [
+              "android",
+              "appwrite",
+              "backend",
+              "backend-as-a-service",
+              "docker",
+              "firebase",
+              "flutter",
+              "hosting",
+              "ios",
+              "javascript",
+              "nextjs",
+              "react",
+              "react-native",
+              "reactnative",
+              "self-hosted",
+              "selfhosted",
+              "serverless",
+              "supabase",
+              "swift",
+              "web"
+            ]
           },
           "title": "Appwrite",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -41,12 +92,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Open Source realtime backend in 1 file",
+            "homepage": "https://pocketbase.io",
             "id": 510607652,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:28:23Z",
+            "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60864
+            "stars": 60868,
+            "topics": [
+              "authentication",
+              "backend",
+              "golang",
+              "realtime"
+            ]
           },
           "title": "PocketBase",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -57,12 +118,32 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative",
+            "homepage": "https://nocodb.com",
             "id": 108761645,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T13:51:56Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:25:14Z",
+            "open_issues": 716,
             "owner": "nocodb",
             "repo": "nocodb",
-            "stars": 64774
+            "stars": 64776,
+            "topics": [
+              "airtable",
+              "airtable-alternative",
+              "automatic-api",
+              "hacktoberfest",
+              "low-code",
+              "no-code",
+              "no-code-database",
+              "no-code-platform",
+              "postgresql",
+              "rest-api",
+              "restful-api",
+              "spreadsheet",
+              "sqlite",
+              "swagger"
+            ]
           },
           "title": "NocoDB",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -73,12 +154,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "SaaS boilerplate/starter-kit in Go+React with Stripe integration, multi-tenant support, comprehensive features and AI-agent ready",
+            "homepage": "https://metavert.io/lastsaas",
             "id": 1164156051,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-05T18:12:51Z",
+            "open_issues": 2,
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "ai-agents",
+              "go",
+              "golang",
+              "mcp-server",
+              "react",
+              "saas-boilerplate",
+              "saas-platform",
+              "saas-template",
+              "stripe-payments"
+            ]
           },
           "title": "LastSaaS",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -95,12 +191,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+            "homepage": "https://strapi.io",
             "id": 43441403,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:40:12Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:44:41Z",
+            "open_issues": 545,
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 73031
+            "stars": 73032,
+            "topics": [
+              "api",
+              "cms",
+              "cms-framework",
+              "content-management",
+              "content-management-system",
+              "customizable",
+              "dashboard",
+              "graphql",
+              "hacktoberfest",
+              "headless-cms",
+              "jamstack",
+              "javascript",
+              "mysql",
+              "no-code",
+              "nodejs",
+              "posgresql",
+              "rest",
+              "strapi",
+              "typescript"
+            ]
           },
           "title": "Strapi",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -111,12 +232,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+            "homepage": "https://ghost.org",
             "id": 9852918,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T20:48:53Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:29:35Z",
+            "open_issues": 131,
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55076
+            "stars": 55077,
+            "topics": [
+              "blogging",
+              "cms",
+              "ghost",
+              "javascript",
+              "journalism",
+              "nodejs",
+              "publishing",
+              "web-application"
+            ]
           },
           "title": "Ghost",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -127,12 +262,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+            "homepage": "https://directus.com",
             "id": 7122594,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:14:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:02:34Z",
+            "open_issues": 390,
             "owner": "directus",
             "repo": "directus",
-            "stars": 37666
+            "stars": 37674,
+            "topics": [
+              "api",
+              "app",
+              "cms",
+              "composable",
+              "data-visualization",
+              "database",
+              "directus",
+              "graphql",
+              "headless-cms",
+              "javascript",
+              "mariadb",
+              "mssql",
+              "mysql",
+              "no-code",
+              "node",
+              "postgresql",
+              "sql",
+              "sqlite",
+              "typescript",
+              "vue"
+            ]
           },
           "title": "Directus",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -143,12 +304,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+            "homepage": "https://payloadcms.com",
             "id": 327089870,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:37:40Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:14:40Z",
+            "open_issues": 1120,
             "owner": "payloadcms",
             "repo": "payload",
-            "stars": 44460
+            "stars": 44462,
+            "topics": [
+              "cms",
+              "content-management",
+              "content-management-system",
+              "express",
+              "graphql",
+              "headless",
+              "headless-cms",
+              "jamstack",
+              "javascript",
+              "mit-license",
+              "mongodb",
+              "nextjs",
+              "nodejs",
+              "open-source",
+              "payload",
+              "payloadcms",
+              "postgres",
+              "react",
+              "typescript"
+            ]
           },
           "title": "Payload CMS",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -165,12 +351,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+            "homepage": "https://www.netdata.cloud",
             "id": 10744183,
             "language": "Go",
-            "last_commit": "2026-08-28T19:54:57Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T00:21:19Z",
+            "open_issues": 387,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80339
+            "stars": 80342,
+            "topics": [
+              "ai",
+              "alerting",
+              "cncf",
+              "data-visualization",
+              "database",
+              "devops",
+              "docker",
+              "grafana",
+              "influxdb",
+              "kubernetes",
+              "linux",
+              "machine-learning",
+              "mcp",
+              "mongodb",
+              "monitoring",
+              "mysql",
+              "netdata",
+              "observability",
+              "postgresql",
+              "prometheus"
+            ]
           },
           "title": "Netdata",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -181,12 +393,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.",
+            "homepage": "https://umami.is",
             "id": 280363952,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:17:29Z",
+            "open_issues": 114,
             "owner": "umami-software",
             "repo": "umami",
-            "stars": 38423
+            "stars": 38425,
+            "topics": [
+              "analytics",
+              "audience-segmentation",
+              "charts",
+              "cohort-analysis",
+              "google-analytics",
+              "product-analytics",
+              "statistics",
+              "user-journey",
+              "web-analytics"
+            ]
           },
           "title": "Umami",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -197,12 +424,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+            "homepage": "https://posthog.com",
             "id": 235901813,
             "language": "Python",
-            "last_commit": "2026-08-28T20:57:12Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:51:07Z",
+            "open_issues": 5142,
             "owner": "PostHog",
             "repo": "posthog",
-            "stars": 39416
+            "stars": 39438,
+            "topics": [
+              "ab-testing",
+              "ai-analytics",
+              "analytics",
+              "cdp",
+              "data-warehouse",
+              "experiments",
+              "feature-flags",
+              "javascript",
+              "product-analytics",
+              "python",
+              "react",
+              "session-replay",
+              "surveys",
+              "typescript",
+              "web-analytics"
+            ]
           },
           "title": "PostHog",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -213,12 +461,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Developer-first error tracking and performance monitoring",
+            "homepage": "https://sentry.io",
             "id": 873328,
             "language": "Python",
-            "last_commit": "2026-08-28T20:57:15Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:35:09Z",
+            "open_issues": 2243,
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 44640
+            "stars": 44644,
+            "topics": [
+              "apm",
+              "crash-reporting",
+              "crash-reports",
+              "csp-report",
+              "devops",
+              "django",
+              "error-logging",
+              "error-monitoring",
+              "fair-source",
+              "hacktoberfest",
+              "monitor",
+              "monitoring",
+              "python",
+              "sentry",
+              "tag-production"
+            ]
           },
           "title": "Sentry",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -229,12 +498,36 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+            "homepage": "https://metabase.com",
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-28T20:54:57Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:56:47Z",
+            "open_issues": 4455,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48980
+            "stars": 48981,
+            "topics": [
+              "analytics",
+              "bi",
+              "business-intelligence",
+              "businessintelligence",
+              "clojure",
+              "dashboard",
+              "data",
+              "data-analysis",
+              "data-visualization",
+              "database",
+              "metabase",
+              "mysql",
+              "postgres",
+              "postgresql",
+              "reporting",
+              "slack",
+              "sql-editor",
+              "visualization"
+            ]
           },
           "title": "Metabase",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -245,12 +538,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+            "homepage": "https://plausible.io",
             "id": 160427405,
             "language": "Elixir",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T09:21:12Z",
+            "open_issues": 62,
             "owner": "plausible",
             "repo": "analytics",
-            "stars": 28787
+            "stars": 28787,
+            "topics": [
+              "analytics",
+              "analytics-dashboard",
+              "clickhouse",
+              "elixir",
+              "google-analytics",
+              "marketing",
+              "open-source-analytics",
+              "phoenix",
+              "plausible-analytics",
+              "postgresql",
+              "privacy",
+              "privacy-friendly",
+              "self-hosted",
+              "simple-analytics",
+              "statistics",
+              "tailwindcss",
+              "web-analytics",
+              "website-analytics",
+              "website-stats",
+              "website-tracking"
+            ]
           },
           "title": "Plausible",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -261,12 +580,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+            "homepage": "http://redash.io/",
             "id": 13926404,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-18T16:14:11Z",
+            "open_issues": 802,
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28766
+            "stars": 28766,
+            "topics": [
+              "analytics",
+              "athena",
+              "bi",
+              "bigquery",
+              "business-intelligence",
+              "dashboard",
+              "databricks",
+              "hacktoberfest",
+              "javascript",
+              "mariadb",
+              "mysql",
+              "postgresql",
+              "python",
+              "redash",
+              "redshift",
+              "snowflake",
+              "spark",
+              "spark-sql",
+              "visualization"
+            ]
           },
           "title": "Redash",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -277,12 +621,34 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.",
+            "homepage": "https://openreplay.com",
             "id": 362806180,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T09:34:32Z",
+            "open_issues": 176,
             "owner": "openreplay",
             "repo": "openreplay",
-            "stars": 12597
+            "stars": 12599,
+            "topics": [
+              "analytics",
+              "angular",
+              "devtools",
+              "feature-flags",
+              "ios",
+              "javascript",
+              "nextjs",
+              "product-analytics",
+              "react",
+              "react-native",
+              "real-user-monitoring",
+              "session-replay",
+              "svelte",
+              "typescript",
+              "vue",
+              "web-vitals"
+            ]
           },
           "title": "OpenReplay",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -293,12 +659,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
+            "homepage": "https://matomo.org/",
             "id": 1548202,
             "language": "PHP",
-            "last_commit": "2026-08-28T17:39:50Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T01:46:33Z",
+            "open_issues": 2571,
             "owner": "matomo-org",
             "repo": "matomo",
-            "stars": 21824
+            "stars": 21825,
+            "topics": [
+              "analytics",
+              "growth",
+              "hacktoberfest",
+              "intranet",
+              "log",
+              "marketing",
+              "matomo",
+              "mobile",
+              "mysql",
+              "php",
+              "piwik",
+              "privacy",
+              "security",
+              "web-analytics",
+              "website"
+            ]
           },
           "title": "Matomo",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -315,12 +702,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+            "homepage": "https://openwebui.com",
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-28T17:45:57Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:31:09Z",
+            "open_issues": 226,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 150241
+            "stars": 150266,
+            "topics": [
+              "ai",
+              "llm",
+              "llm-ui",
+              "llm-webui",
+              "llms",
+              "mcp",
+              "ollama",
+              "ollama-webui",
+              "open-webui",
+              "openai",
+              "openapi",
+              "rag",
+              "self-hosted",
+              "ui",
+              "webui"
+            ]
           },
           "title": "Open WebUI",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -331,12 +739,36 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+            "homepage": "https://lobehub.com",
             "id": 643445235,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:39:03Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:56:05Z",
+            "open_issues": 835,
             "owner": "lobehub",
             "repo": "lobehub",
-            "stars": 82073
+            "stars": 82078,
+            "topics": [
+              "agent",
+              "agent-collaboration",
+              "agent-harness",
+              "ai",
+              "cao",
+              "chatgpt",
+              "chief-agent-operator",
+              "claude",
+              "deepseek",
+              "fable",
+              "gemini",
+              "glm",
+              "gpt",
+              "knowledge-base",
+              "loop-engineering",
+              "mcp",
+              "openai",
+              "skills"
+            ]
           },
           "title": "Lobe Chat",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -347,12 +779,34 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+            "homepage": "https://anythingllm.com",
             "id": 649170660,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T17:49:41Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:54:15Z",
+            "open_issues": 328,
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 65343
+            "stars": 65348,
+            "topics": [
+              "agent-computer",
+              "agent-harness",
+              "agent-orchestration",
+              "agentic-ai",
+              "ai-agents",
+              "computer-use",
+              "hermes-agent",
+              "llm",
+              "local-ai",
+              "localai",
+              "multimodal",
+              "no-code",
+              "open-claw",
+              "rag",
+              "self-hosted-ai",
+              "vector-database"
+            ]
           },
           "title": "AnythingLLM",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -363,12 +817,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+            "homepage": "https://librechat.ai/",
             "id": 600596928,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:46:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:35:01Z",
+            "open_issues": 734,
             "owner": "danny-avila",
             "repo": "LibreChat",
-            "stars": 42568
+            "stars": 42577,
+            "topics": [
+              "ai",
+              "anthropic",
+              "artifacts",
+              "aws",
+              "azure",
+              "chatgpt",
+              "chatgpt-clone",
+              "claude",
+              "clone",
+              "deepseek",
+              "gemini",
+              "google",
+              "gpt-5",
+              "librechat",
+              "mcp",
+              "o1",
+              "openai",
+              "responses-api",
+              "vision",
+              "webui"
+            ]
           },
           "title": "LibreChat",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -379,12 +859,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+            "homepage": "https://jan.ai/",
             "id": 679506386,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:06:44Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:31:22Z",
+            "open_issues": 498,
             "owner": "janhq",
             "repo": "jan",
-            "stars": 44229
+            "stars": 44234,
+            "topics": [
+              "chatgpt",
+              "gpt",
+              "llamacpp",
+              "llm",
+              "localai",
+              "open-source",
+              "self-hosted",
+              "tauri"
+            ]
           },
           "title": "Jan",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -395,12 +889,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Context drive for your AI agents",
+            "homepage": "https://www.puppyone.ai",
             "id": 899663167,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-02T17:44:10Z",
+            "open_issues": 20,
             "owner": "puppyone-ai",
             "repo": "puppyone",
-            "stars": 1299
+            "stars": 1299,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "ai",
+              "ai-agents",
+              "context",
+              "context-engineering",
+              "harness",
+              "harness-engineering",
+              "rag"
+            ]
           },
           "title": "Puppyone",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -417,12 +926,36 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+            "homepage": "https://hoppscotch.io",
             "id": 203587744,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:30:09Z",
+            "open_issues": 804,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80111
+            "stars": 80113,
+            "topics": [
+              "api",
+              "api-client",
+              "api-rest",
+              "api-testing",
+              "developer-tools",
+              "graphql",
+              "http",
+              "http-client",
+              "pwa",
+              "rest",
+              "rest-api",
+              "spa",
+              "testing",
+              "testing-tools",
+              "tools",
+              "vue",
+              "vuejs",
+              "websocket"
+            ]
           },
           "title": "Hoppscotch",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -433,12 +966,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+            "homepage": "https://insomnia.rest",
             "id": 56899284,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T10:12:18Z",
+            "open_issues": 867,
             "owner": "Kong",
             "repo": "insomnia",
-            "stars": 39958
+            "stars": 39958,
+            "topics": [
+              "api",
+              "api-client",
+              "api-design",
+              "curl",
+              "electron-app",
+              "graphql",
+              "grpc",
+              "http-client",
+              "rest-api",
+              "websockets"
+            ]
           },
           "title": "Insomnia",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -449,12 +998,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+            "homepage": "https://www.meilisearch.com",
             "id": 130688011,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T14:07:01Z",
+            "open_issues": 318,
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 59116
+            "stars": 59118,
+            "topics": [
+              "ai",
+              "api",
+              "app-search",
+              "database",
+              "enterprise-search",
+              "faceting",
+              "full-text-search",
+              "fuzzy-search",
+              "geosearch",
+              "hybrid-search",
+              "instantsearch",
+              "search",
+              "search-as-you-type",
+              "search-engine",
+              "semantic-search",
+              "site-search",
+              "typo-tolerance",
+              "vector-database",
+              "vector-search",
+              "vectors"
+            ]
           },
           "title": "Meilisearch",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -465,12 +1040,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The developer platform for on-demand cloud development environments to create software faster and more securely.",
+            "homepage": "https://www.gitpod.io",
             "id": 130879558,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T10:26:09Z",
+            "open_issues": 451,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13760
+            "stars": 13760,
+            "topics": [
+              "cde",
+              "cloud",
+              "cloud-development",
+              "cloud-development-environments",
+              "cloud-ide",
+              "code-review",
+              "dev-environment",
+              "developer-environment",
+              "developer-experience",
+              "disposable",
+              "editor",
+              "ephemeral",
+              "gitpod",
+              "ide",
+              "jetbrains",
+              "prebuilds",
+              "remote-development",
+              "remote-devtools",
+              "vscode"
+            ]
           },
           "title": "Gitpod",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -487,12 +1087,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Secure CommsOS™ for mission-critical operations",
+            "homepage": "https://rocket.chat/",
             "id": 35866694,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:51:39Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:37:29Z",
+            "open_issues": 4004,
             "owner": "RocketChat",
             "repo": "Rocket.Chat",
-            "stars": 46041
+            "stars": 46042,
+            "topics": [
+              "chat",
+              "collaboration",
+              "foss",
+              "free",
+              "hacktoberfest",
+              "javascript",
+              "meteor",
+              "mit",
+              "real-time",
+              "slack",
+              "webrtc"
+            ]
           },
           "title": "Rocket.Chat",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -503,12 +1120,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+            "homepage": "https://mattermost.com",
             "id": 37448451,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:33:20Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:05:43Z",
+            "open_issues": 997,
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 38933
+            "stars": 38936,
+            "topics": [
+              "collaboration",
+              "golang",
+              "hacktoberfest",
+              "mattermost",
+              "monorepo",
+              "react",
+              "react-native"
+            ]
           },
           "title": "Mattermost",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -519,12 +1149,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A platform for community discussion. Free, open, simple.",
+            "homepage": "https://www.discourse.org",
             "id": 7569578,
             "language": "Ruby",
-            "last_commit": "2026-08-28T20:56:23Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T03:20:04Z",
+            "open_issues": 281,
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47750
+            "stars": 47750,
+            "topics": [
+              "discourse",
+              "ember",
+              "forum",
+              "javascript",
+              "postgresql",
+              "rails",
+              "ruby"
+            ]
           },
           "title": "Discourse",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -535,12 +1178,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+            "homepage": "https://www.getoutline.com",
             "id": 59435364,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T04:49:47Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:59:37Z",
+            "open_issues": 82,
             "owner": "outline",
             "repo": "outline",
-            "stars": 40362
+            "stars": 40367,
+            "topics": [
+              "docker",
+              "javascript",
+              "mobx",
+              "nodejs",
+              "react",
+              "slack",
+              "wiki"
+            ]
           },
           "title": "Outline",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -557,12 +1213,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+            "homepage": "https://www.chatwoot.com/help-center",
             "id": 202291859,
             "language": "Ruby",
-            "last_commit": "2026-08-28T18:46:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:36:53Z",
+            "open_issues": 1350,
             "owner": "chatwoot",
             "repo": "chatwoot",
-            "stars": 36281
+            "stars": 36285,
+            "topics": [
+              "actioncable",
+              "chat-widget",
+              "conversation",
+              "customer-support",
+              "dashboard",
+              "design",
+              "docker",
+              "docker-image",
+              "heroku",
+              "intercom",
+              "javascript",
+              "livechat",
+              "opensource",
+              "rails",
+              "ruby",
+              "sass",
+              "vuejs",
+              "whatsapp",
+              "zendesk"
+            ]
           },
           "title": "Chatwoot",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -573,12 +1254,35 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Open Source Qualtrics Alternative",
+            "homepage": "https://formbricks.com",
             "id": 500289888,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:04:06Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:45:08Z",
+            "open_issues": 239,
             "owner": "formbricks",
             "repo": "formbricks",
-            "stars": 12836
+            "stars": 12837,
+            "topics": [
+              "experience-management",
+              "form",
+              "forms",
+              "nextjs",
+              "open-source",
+              "react",
+              "reactjs",
+              "survey",
+              "survey-analysis",
+              "survey-data",
+              "survey-form",
+              "surveys",
+              "tailwindcss",
+              "turborepo",
+              "typeform",
+              "typescript",
+              "xm"
+            ]
           },
           "title": "Formbricks",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -589,12 +1293,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Open source alternative to Canny, UserVoice, Productboard",
+            "homepage": "https://quackback.io",
             "id": 1108049865,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T06:22:44Z",
+            "open_issues": 58,
             "owner": "QuackbackIO",
             "repo": "quackback",
-            "stars": 247
+            "stars": 248,
+            "topics": [
+              "changelog",
+              "customer-feedback",
+              "feature-requests",
+              "feedback",
+              "feedback-collection",
+              "product-management",
+              "roadmaps",
+              "self-hosted",
+              "user-feedback"
+            ]
           },
           "title": "Quackback",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -611,12 +1330,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Building a modern alternative to Pipedrive that is 10x more intuitive.",
+            "homepage": "https://www.customermates.com",
             "id": 1186103757,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:35:55Z",
+            "open_issues": 3,
             "owner": "customermates",
             "repo": "customermates",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "agpl",
+              "crm",
+              "crm-system",
+              "customer-relationship-management",
+              "docker",
+              "fumadocs",
+              "marketing",
+              "monorepo",
+              "n8n",
+              "nestjs",
+              "nextjs",
+              "open-source",
+              "prisma",
+              "saas",
+              "sales",
+              "sales-pipeline",
+              "self-hosted",
+              "typescript",
+              "web",
+              "workflow-automation"
+            ]
           },
           "title": "Customermates",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -633,12 +1378,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "homepage": "https://cal.diy",
             "id": 350360184,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T17:13:42Z",
+            "open_issues": 1430,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47978
+            "stars": 47992,
+            "topics": [
+              "next-auth",
+              "nextjs",
+              "open-source",
+              "postgresql",
+              "prisma",
+              "t3-stack",
+              "tailwindcss",
+              "trpc",
+              "turborepo",
+              "typescript",
+              "zod"
+            ]
           },
           "title": "Cal.com",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -649,12 +1411,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+            "homepage": "https://www.focalboard.com",
             "id": 301793434,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-18T16:05:00Z",
+            "open_issues": 784,
             "owner": "mattermost-community",
             "repo": "focalboard",
-            "stars": 26438
+            "stars": 26438,
+            "topics": [
+              "asana",
+              "collaboration",
+              "goal-tracking",
+              "golang",
+              "hacktoberfest",
+              "kanban-board",
+              "notion",
+              "project",
+              "project-management",
+              "trello"
+            ]
           },
           "title": "Focalboard",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -665,12 +1443,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "homepage": "https://huly.io",
             "id": 392073243,
             "language": "TypeScript",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-27T13:24:38Z",
+            "open_issues": 848,
             "owner": "hcengineering",
             "repo": "platform",
-            "stars": 27481
+            "stars": 27485,
+            "topics": [
+              "applicant-tracking-system",
+              "chat-application",
+              "crm",
+              "crm-platform",
+              "hrms",
+              "human-resources",
+              "issue-management",
+              "issue-tracker",
+              "jira-alternative",
+              "project-management",
+              "qms",
+              "support",
+              "team-management",
+              "team-platform",
+              "wiki"
+            ]
           },
           "title": "Huly Platform",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -681,12 +1480,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+            "homepage": "https://postiz.com",
             "id": 664013991,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:34:57Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:07:57Z",
+            "open_issues": 272,
             "owner": "gitroomhq",
             "repo": "postiz-app",
-            "stars": 35236
+            "stars": 35239,
+            "topics": [
+              "nextjs",
+              "open-source",
+              "open-source-social-media-scheduling-tool",
+              "oss",
+              "redis",
+              "scheduling-tool",
+              "social-media-scheduling-tool",
+              "typescript"
+            ]
           },
           "title": "Postiz",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -697,12 +1510,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-host or use the managed cloud at tymeslot.app.",
+            "homepage": "https://tymeslot.app",
             "id": 1033663456,
             "language": "Elixir",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T20:39:34Z",
+            "open_issues": 12,
             "owner": "Tymeslot",
             "repo": "tymeslot",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "appointment",
+              "appointment-booking",
+              "appointment-scheduling",
+              "appointments",
+              "calendar",
+              "calendars",
+              "calendly-alternative",
+              "docker",
+              "elixir",
+              "phoenix-liveview",
+              "postgres",
+              "scheduling"
+            ]
           },
           "title": "Tymeslot",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -719,12 +1550,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+            "homepage": "https://codeedit.app",
             "id": 468515960,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-18T21:24:35Z",
+            "open_issues": 211,
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22998
+            "stars": 23000,
+            "topics": [
+              "app",
+              "appkit",
+              "apple",
+              "code",
+              "code-edit",
+              "code-editor",
+              "editor",
+              "ide",
+              "ios",
+              "mac",
+              "macos",
+              "open-source",
+              "swift",
+              "swiftui",
+              "xcode"
+            ]
           },
           "title": "CodeEdit",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -735,12 +1587,34 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An open-source screen recorder built with web technology",
+            "homepage": "https://getkap.co",
             "id": 65411043,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-11-12T15:32:40Z",
+            "open_issues": 254,
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19341
+            "stars": 19341,
+            "topics": [
+              "aperture",
+              "app",
+              "capture",
+              "communication",
+              "electron",
+              "javascript",
+              "kap",
+              "mac",
+              "macos",
+              "nextjs",
+              "open-source",
+              "oss",
+              "productivity",
+              "record",
+              "screen-capture",
+              "screen-recorder"
+            ]
           },
           "title": "Kap",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -751,12 +1625,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.",
+            "homepage": null,
             "id": 279961807,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-26T02:01:45Z",
+            "open_issues": 47,
             "owner": "DamascenoRafael",
             "repo": "reminders-menubar",
-            "stars": 3903
+            "stars": 3904,
+            "topics": [
+              "apple-reminders",
+              "macos",
+              "macos-menubar",
+              "macos-swift",
+              "menubar",
+              "reminders",
+              "swift",
+              "swiftui",
+              "utility"
+            ]
           },
           "title": "Reminders MenuBar",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -773,12 +1662,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
+            "homepage": "https://coolify.io",
             "id": 332880689,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:10:07Z",
+            "open_issues": 660,
             "owner": "coollabsio",
             "repo": "coolify",
-            "stars": 61159
+            "stars": 61163,
+            "topics": [
+              "coolify",
+              "databases",
+              "deployment",
+              "docker",
+              "docker-compose",
+              "inertiajs",
+              "laravel",
+              "mariadb",
+              "mysql",
+              "nextjs",
+              "nodejs",
+              "php",
+              "postgres",
+              "redis",
+              "self-hosted",
+              "self-hosting",
+              "server",
+              "static-site",
+              "svelte",
+              "svelte5"
+            ]
           },
           "title": "Coolify",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -789,12 +1704,35 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+            "homepage": "https://dokploy.com/",
             "id": 788847937,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:20:31Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:18:22Z",
+            "open_issues": 658,
             "owner": "Dokploy",
             "repo": "dokploy",
-            "stars": 36932
+            "stars": 36936,
+            "topics": [
+              "agents",
+              "ai",
+              "backend",
+              "backups",
+              "databases",
+              "deployment",
+              "deployments",
+              "devops",
+              "docker",
+              "frontend",
+              "mariadb",
+              "mongodb",
+              "mysql",
+              "nextjs",
+              "postgresql",
+              "self-hosted",
+              "vps"
+            ]
           },
           "title": "Dokploy",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -805,12 +1743,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Automated developer-oriented status page with alerting and incident support",
+            "homepage": "https://gatus.io",
             "id": 206214867,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:05:18Z",
+            "open_issues": 379,
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 11919
+            "stars": 11922,
+            "topics": [
+              "alerting",
+              "container",
+              "dashboard",
+              "devops",
+              "docker",
+              "go",
+              "golang",
+              "health",
+              "monitor",
+              "monitoring",
+              "monitoring-tool",
+              "notifications",
+              "self-hosted",
+              "selfhosted",
+              "slack",
+              "status",
+              "status-page",
+              "statuspage",
+              "uptime",
+              "uptime-monitoring"
+            ]
           },
           "title": "Gatus",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -821,12 +1785,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🫖 Status page with uptime monitoring & API monitoring as code   🫖",
+            "homepage": "https://openstatus.dev",
             "id": 655783613,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T14:37:20Z",
+            "open_issues": 71,
             "owner": "openstatusHQ",
             "repo": "openstatus",
-            "stars": 9027
+            "stars": 9028,
+            "topics": [
+              "alerting",
+              "incident-management",
+              "mcp",
+              "mcp-server",
+              "monitoring",
+              "monitoring-as-code",
+              "observability",
+              "on-call",
+              "open-source",
+              "sre",
+              "status-page",
+              "statuspage",
+              "synthetic-monitoring",
+              "terraform",
+              "tinybird",
+              "turso",
+              "uptime",
+              "uptime-checker",
+              "uptime-monitor"
+            ]
           },
           "title": "OpenStatus",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -837,12 +1826,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)",
+            "homepage": "https://checkmate.so/",
             "id": 793866369,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:09:04Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:40:42Z",
+            "open_issues": 110,
             "owner": "bluewave-labs",
             "repo": "Checkmate",
-            "stars": 10761
+            "stars": 10761,
+            "topics": [
+              "good-first-contribution",
+              "good-first-issue",
+              "good-first-project",
+              "hacktoberfest",
+              "help-wanted",
+              "incident",
+              "infrastructure",
+              "infrastructure-monitoring",
+              "mui",
+              "mui-material",
+              "server-monitor",
+              "server-monitoring",
+              "server-monitoring-tools",
+              "statuspage",
+              "uptime",
+              "uptime-checker",
+              "uptime-monitor",
+              "uptime-monitoring",
+              "uptime-status",
+              "uptimerobot"
+            ]
           },
           "title": "Checkmate",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -859,12 +1874,36 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Open Source DocuSign Alternative.",
+            "homepage": "https://documenso.com",
             "id": 613010835,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T16:06:25Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:08:37Z",
+            "open_issues": 256,
             "owner": "documenso",
             "repo": "documenso",
-            "stars": 14792
+            "stars": 14795,
+            "topics": [
+              "digital-signature",
+              "document-signing",
+              "docusign-alternative",
+              "e-signature",
+              "esign",
+              "esignature",
+              "next-auth",
+              "nextjs",
+              "open-source",
+              "pades-standard",
+              "pdf",
+              "pdf-sign",
+              "pdf-signature",
+              "postgresql",
+              "prisma",
+              "self-hosted",
+              "signing",
+              "typescript"
+            ]
           },
           "title": "Documenso",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -875,12 +1914,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Create a professional resume by writing in Markdown",
+            "homepage": "https://markdownresume.app",
             "id": 897337349,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-11T08:10:26Z",
+            "open_issues": 2,
             "owner": "rozita-hasani",
             "repo": "markdown-resume",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "markdown",
+              "markdown-converter",
+              "markdown-editor",
+              "markdown-previewer",
+              "resume",
+              "resume-app",
+              "resume-builder",
+              "resume-creator",
+              "resume-generator",
+              "resume-site-builder",
+              "resume-template",
+              "resume-website"
+            ]
           },
           "title": "Markdown Resume",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -897,12 +1954,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "The personal finance app for everyone",
+            "homepage": null,
             "id": 737898780,
             "language": "Ruby",
+            "license": "AGPL-3.0",
             "last_commit": "2025-07-24T22:20:44Z",
+            "open_issues": 0,
             "owner": "maybe-finance",
             "repo": "maybe",
-            "stars": 54313
+            "stars": 54314,
+            "topics": [
+              "finance",
+              "hotwire",
+              "personal-finance",
+              "postgresql",
+              "ruby",
+              "ruby-on-rails",
+              "stimulusjs",
+              "turbo"
+            ]
           },
           "title": "Maybe",
           "first_seen": "2026-08-28T20:57:36.322Z"
@@ -912,15 +1983,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:57:36.322Z",
+    "last_updated": "2026-08-29T04:57:07.954Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of open-source SaaS projects, self-hosted apps, and free open-source alternatives to popular SaaS products.",
+      "homepage": "https://opensaas.directory",
       "id": 926978566,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-21T13:20:06Z",
+      "open_issues": 10,
       "owner": "open-saas-directory",
       "repo": "awesome-saas-directory",
-      "stars": 123
+      "stars": 123,
+      "topics": [
+        "awesome",
+        "awesome-directories",
+        "awesome-list",
+        "directory",
+        "open-source"
+      ]
     },
     "original_repository_sha": "1a07f5c10e96a2736abf2d72af70540f86462fb1",
     "enhanced_repository": "enhansome/enhansome-saas-directory",
