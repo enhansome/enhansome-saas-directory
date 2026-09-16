@@ -68,11 +68,11 @@ Every entry is pulled live from [Open SaaS Directory](https://opensaas.directory
 
 ## Machine Learning & AI Development Tools
 
-### [Dify](https://github.com/langgenius/dify) ⭐ 155,812 | 🐛 1,050 | 🌐 TypeScript | 📅 2026-09-15
+### [Dify](https://github.com/langgenius/dify) ⭐ 155,942 | 🐛 1,077 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/127165244?v=4" width="40" height="40" alt="Dify logo">
 
-[![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square\&label=stars)](https://github.com/langgenius/dify/stargazers) ⭐ 155,812 | 🐛 1,050 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/langgenius/dify?style=flat-square)](https://github.com/langgenius/dify) ⭐ 155,812 | 🐛 1,050 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/langgenius/dify?style=flat-square)](https://github.com/langgenius/dify/commits) ⭐ 155,812 | 🐛 1,050 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square\&label=stars)](https://github.com/langgenius/dify/stargazers) ⭐ 155,942 | 🐛 1,077 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/langgenius/dify?style=flat-square)](https://github.com/langgenius/dify) ⭐ 155,942 | 🐛 1,077 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/langgenius/dify?style=flat-square)](https://github.com/langgenius/dify/commits) ⭐ 155,942 | 🐛 1,077 | 🌐 TypeScript | 📅 2026-09-16
 
 Dify is an open-source platform for building LLM applications and agentic workflows, deployable on your own infrastructure. It combines a visual workflow builder, a prompt IDE, retrieval-augmented generation over your documents, agent tools, and observability, so teams go from prototype to production without stitching libraries together. It works with dozens of model providers, both hosted and local.
 
@@ -84,11 +84,11 @@ Dify is an open-source platform for building LLM applications and agentic workfl
 
 ***
 
-### [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 152,145 | 🐛 299 | 🌐 Python | 📅 2026-09-14
+### [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 152,271 | 🐛 303 | 🌐 Python | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="40" height="40" alt="Open WebUI logo">
 
-[![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=flat-square\&label=stars)](https://github.com/open-webui/open-webui/stargazers) ⭐ 152,145 | 🐛 299 | 🌐 Python | 📅 2026-09-14 [![License](https://img.shields.io/github/license/open-webui/open-webui?style=flat-square)](https://github.com/open-webui/open-webui) ⭐ 152,145 | 🐛 299 | 🌐 Python | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/open-webui/open-webui?style=flat-square)](https://github.com/open-webui/open-webui/commits) ⭐ 152,145 | 🐛 299 | 🌐 Python | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=flat-square\&label=stars)](https://github.com/open-webui/open-webui/stargazers) ⭐ 152,271 | 🐛 303 | 🌐 Python | 📅 2026-09-16 [![License](https://img.shields.io/github/license/open-webui/open-webui?style=flat-square)](https://github.com/open-webui/open-webui) ⭐ 152,271 | 🐛 303 | 🌐 Python | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/open-webui/open-webui?style=flat-square)](https://github.com/open-webui/open-webui/commits) ⭐ 152,271 | 🐛 303 | 🌐 Python | 📅 2026-09-16
 
 An extensible, self-hosted AI platform that supports offline operation, multiple LLM runners, and provides a user-friendly interface for AI interactions.
 
@@ -100,11 +100,11 @@ An extensible, self-hosted AI platform that supports offline operation, multiple
 
 ***
 
-### [Lobe Chat](https://github.com/lobehub/lobehub) ⭐ 82,495 | 🐛 933 | 🌐 TypeScript | 📅 2026-09-15
+### [Lobe Chat](https://github.com/lobehub/lobehub) ⭐ 82,529 | 🐛 958 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/131470832?v=4" width="40" height="40" alt="Lobe Chat logo">
 
-[![Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square\&label=stars)](https://github.com/lobehub/lobehub/stargazers) ⭐ 82,495 | 🐛 933 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/lobehub/lobehub?style=flat-square)](https://github.com/lobehub/lobehub) ⭐ 82,495 | 🐛 933 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/lobehub/lobehub?style=flat-square)](https://github.com/lobehub/lobehub/commits) ⭐ 82,495 | 🐛 933 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square\&label=stars)](https://github.com/lobehub/lobehub/stargazers) ⭐ 82,529 | 🐛 958 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/lobehub/lobehub?style=flat-square)](https://github.com/lobehub/lobehub) ⭐ 82,529 | 🐛 958 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/lobehub/lobehub?style=flat-square)](https://github.com/lobehub/lobehub/commits) ⭐ 82,529 | 🐛 958 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source, modern ChatGPT/LLMs UI framework that enables one-click deployment of private AI chat applications with multi-modal and extensible features.
 
@@ -116,11 +116,11 @@ An open-source, modern ChatGPT/LLMs UI framework that enables one-click deployme
 
 ***
 
-### [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) ⭐ 66,055 | 🐛 314 | 🌐 JavaScript | 📅 2026-09-15
+### [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) ⭐ 66,093 | 🐛 326 | 🌐 JavaScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/134426827?v=4" width="40" height="40" alt="AnythingLLM logo">
 
-[![Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=flat-square\&label=stars)](https://github.com/Mintplex-Labs/anything-llm/stargazers) ⭐ 66,055 | 🐛 314 | 🌐 JavaScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/Mintplex-Labs/anything-llm?style=flat-square)](https://github.com/Mintplex-Labs/anything-llm) ⭐ 66,055 | 🐛 314 | 🌐 JavaScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/Mintplex-Labs/anything-llm?style=flat-square)](https://github.com/Mintplex-Labs/anything-llm/commits) ⭐ 66,055 | 🐛 314 | 🌐 JavaScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=flat-square\&label=stars)](https://github.com/Mintplex-Labs/anything-llm/stargazers) ⭐ 66,093 | 🐛 326 | 🌐 JavaScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/Mintplex-Labs/anything-llm?style=flat-square)](https://github.com/Mintplex-Labs/anything-llm) ⭐ 66,093 | 🐛 326 | 🌐 JavaScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/Mintplex-Labs/anything-llm?style=flat-square)](https://github.com/Mintplex-Labs/anything-llm/commits) ⭐ 66,093 | 🐛 326 | 🌐 JavaScript | 📅 2026-09-16
 
 A comprehensive AI application that allows users to chat with documents, use AI agents, and create customizable multi-user environments with easy setup and configuration.
 
@@ -132,11 +132,11 @@ A comprehensive AI application that allows users to chat with documents, use AI 
 
 ***
 
-### [Chatbox](https://github.com/chatboxai/chatbox) ⭐ 41,775 | 🐛 1,289 | 🌐 TypeScript | 📅 2026-09-10
+### [Chatbox](https://github.com/chatboxai/chatbox) ⭐ 41,786 | 🐛 1,291 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/20723142?v=4" width="40" height="40" alt="Chatbox logo">
 
-[![Stars](https://img.shields.io/github/stars/chatboxai/chatbox?style=flat-square\&label=stars)](https://github.com/chatboxai/chatbox/stargazers) ⭐ 41,775 | 🐛 1,289 | 🌐 TypeScript | 📅 2026-09-10 [![License](https://img.shields.io/github/license/chatboxai/chatbox?style=flat-square)](https://github.com/chatboxai/chatbox) ⭐ 41,775 | 🐛 1,289 | 🌐 TypeScript | 📅 2026-09-10 [![Last Commit](https://img.shields.io/github/last-commit/chatboxai/chatbox?style=flat-square)](https://github.com/chatboxai/chatbox/commits) ⭐ 41,775 | 🐛 1,289 | 🌐 TypeScript | 📅 2026-09-10
+[![Stars](https://img.shields.io/github/stars/chatboxai/chatbox?style=flat-square\&label=stars)](https://github.com/chatboxai/chatbox/stargazers) ⭐ 41,786 | 🐛 1,291 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/chatboxai/chatbox?style=flat-square)](https://github.com/chatboxai/chatbox) ⭐ 41,786 | 🐛 1,291 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/chatboxai/chatbox?style=flat-square)](https://github.com/chatboxai/chatbox/commits) ⭐ 41,786 | 🐛 1,291 | 🌐 TypeScript | 📅 2026-09-16
 
 User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 
@@ -148,11 +148,11 @@ User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama
 
 ***
 
-### [Jan](https://github.com/janhq/jan) ⭐ 44,478 | 🐛 531 | 🌐 TypeScript | 📅 2026-09-15
+### [Jan](https://github.com/janhq/jan) ⭐ 44,496 | 🐛 544 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/102363196?v=4" width="40" height="40" alt="Jan logo">
 
-[![Stars](https://img.shields.io/github/stars/janhq/jan?style=flat-square\&label=stars)](https://github.com/janhq/jan/stargazers) ⭐ 44,478 | 🐛 531 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/janhq/jan?style=flat-square)](https://github.com/janhq/jan) ⭐ 44,478 | 🐛 531 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/janhq/jan?style=flat-square)](https://github.com/janhq/jan/commits) ⭐ 44,478 | 🐛 531 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/janhq/jan?style=flat-square\&label=stars)](https://github.com/janhq/jan/stargazers) ⭐ 44,496 | 🐛 544 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/janhq/jan?style=flat-square)](https://github.com/janhq/jan) ⭐ 44,496 | 🐛 544 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/janhq/jan?style=flat-square)](https://github.com/janhq/jan/commits) ⭐ 44,496 | 🐛 544 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source, offline AI assistant that enables users to run language models locally with full privacy and control across multiple hardware platforms.
 
@@ -164,11 +164,11 @@ An open-source, offline AI assistant that enables users to run language models l
 
 ***
 
-### [LibreChat](https://github.com/danny-avila/LibreChat) ⭐ 43,666 | 🐛 732 | 🌐 TypeScript | 📅 2026-09-15
+### [LibreChat](https://github.com/danny-avila/LibreChat) ⭐ 44,087 | 🐛 751 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://github.com/danny-avila/LibreChat/raw/main/client/public/assets/logo.svg" width="40" height="40" alt="LibreChat logo">
 
-[![Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=flat-square\&label=stars)](https://github.com/danny-avila/LibreChat/stargazers) ⭐ 43,666 | 🐛 732 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/danny-avila/LibreChat?style=flat-square)](https://github.com/danny-avila/LibreChat) ⭐ 43,666 | 🐛 732 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/danny-avila/LibreChat?style=flat-square)](https://github.com/danny-avila/LibreChat/commits) ⭐ 43,666 | 🐛 732 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=flat-square\&label=stars)](https://github.com/danny-avila/LibreChat/stargazers) ⭐ 44,087 | 🐛 751 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/danny-avila/LibreChat?style=flat-square)](https://github.com/danny-avila/LibreChat) ⭐ 44,087 | 🐛 751 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/danny-avila/LibreChat?style=flat-square)](https://github.com/danny-avila/LibreChat/commits) ⭐ 44,087 | 🐛 751 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source AI chat platform that integrates multiple AI models, offering enhanced features and customization beyond traditional chatbots.
 
@@ -180,11 +180,11 @@ An open-source AI chat platform that integrates multiple AI models, offering enh
 
 ***
 
-### [AgentDock](https://github.com/AgentDock/AgentDock) ⭐ 1,744 | 🐛 1 | 🌐 MDX | 📅 2026-07-14
+### [AgentDock](https://github.com/AgentDock/AgentDock) ⭐ 1,747 | 🐛 1 | 🌐 MDX | 📅 2026-07-14
 
 <img src="https://avatars.githubusercontent.com/u/197338832?v=4" width="40" height="40" alt="AgentDock logo">
 
-[![Stars](https://img.shields.io/github/stars/AgentDock/AgentDock?style=flat-square\&label=stars)](https://github.com/AgentDock/AgentDock/stargazers) ⭐ 1,744 | 🐛 1 | 🌐 MDX | 📅 2026-07-14 [![License](https://img.shields.io/github/license/AgentDock/AgentDock?style=flat-square)](https://github.com/AgentDock/AgentDock) ⭐ 1,744 | 🐛 1 | 🌐 MDX | 📅 2026-07-14 [![Last Commit](https://img.shields.io/github/last-commit/AgentDock/AgentDock?style=flat-square)](https://github.com/AgentDock/AgentDock/commits) ⭐ 1,744 | 🐛 1 | 🌐 MDX | 📅 2026-07-14
+[![Stars](https://img.shields.io/github/stars/AgentDock/AgentDock?style=flat-square\&label=stars)](https://github.com/AgentDock/AgentDock/stargazers) ⭐ 1,747 | 🐛 1 | 🌐 MDX | 📅 2026-07-14 [![License](https://img.shields.io/github/license/AgentDock/AgentDock?style=flat-square)](https://github.com/AgentDock/AgentDock) ⭐ 1,747 | 🐛 1 | 🌐 MDX | 📅 2026-07-14 [![Last Commit](https://img.shields.io/github/last-commit/AgentDock/AgentDock?style=flat-square)](https://github.com/AgentDock/AgentDock/commits) ⭐ 1,747 | 🐛 1 | 🌐 MDX | 📅 2026-07-14
 
 AgentDock is a flexible framework for building AI agents capable of executing complex, multi-step tasks with a balance of creativity and predictability.
 
@@ -196,11 +196,11 @@ AgentDock is a flexible framework for building AI agents capable of executing co
 
 ## Content Management System Platforms
 
-### [Strapi](https://github.com/strapi/strapi) ⭐ 73,165 | 🐛 530 | 🌐 TypeScript | 📅 2026-09-15
+### [Strapi](https://github.com/strapi/strapi) ⭐ 73,177 | 🐛 531 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/19872173?v=4" width="40" height="40" alt="Strapi logo">
 
-[![Stars](https://img.shields.io/github/stars/strapi/strapi?style=flat-square\&label=stars)](https://github.com/strapi/strapi/stargazers) ⭐ 73,165 | 🐛 530 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/strapi/strapi?style=flat-square)](https://github.com/strapi/strapi) ⭐ 73,165 | 🐛 530 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/strapi/strapi?style=flat-square)](https://github.com/strapi/strapi/commits) ⭐ 73,165 | 🐛 530 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/strapi/strapi?style=flat-square\&label=stars)](https://github.com/strapi/strapi/stargazers) ⭐ 73,177 | 🐛 531 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/strapi/strapi?style=flat-square)](https://github.com/strapi/strapi) ⭐ 73,177 | 🐛 531 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/strapi/strapi?style=flat-square)](https://github.com/strapi/strapi/commits) ⭐ 73,177 | 🐛 531 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source, flexible headless CMS built with JavaScript/TypeScript that enables developers to manage and deliver content across multiple platforms with customizable hosting options.
 
@@ -212,11 +212,11 @@ An open-source, flexible headless CMS built with JavaScript/TypeScript that enab
 
 ***
 
-### [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,246 | 🐛 398 | 🌐 TypeScript | 📅 2026-09-14
+### [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,256 | 🐛 399 | 🌐 TypeScript | 📅 2026-09-14
 
 <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="40" height="40" alt="Docusaurus logo">
 
-[![Stars](https://img.shields.io/github/stars/facebook/docusaurus?style=flat-square\&label=stars)](https://github.com/facebook/docusaurus/stargazers) ⭐ 66,246 | 🐛 398 | 🌐 TypeScript | 📅 2026-09-14 [![License](https://img.shields.io/github/license/facebook/docusaurus?style=flat-square)](https://github.com/facebook/docusaurus) ⭐ 66,246 | 🐛 398 | 🌐 TypeScript | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/facebook/docusaurus?style=flat-square)](https://github.com/facebook/docusaurus/commits) ⭐ 66,246 | 🐛 398 | 🌐 TypeScript | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/facebook/docusaurus?style=flat-square\&label=stars)](https://github.com/facebook/docusaurus/stargazers) ⭐ 66,256 | 🐛 399 | 🌐 TypeScript | 📅 2026-09-14 [![License](https://img.shields.io/github/license/facebook/docusaurus?style=flat-square)](https://github.com/facebook/docusaurus) ⭐ 66,256 | 🐛 399 | 🌐 TypeScript | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/facebook/docusaurus?style=flat-square)](https://github.com/facebook/docusaurus/commits) ⭐ 66,256 | 🐛 399 | 🌐 TypeScript | 📅 2026-09-14
 
 Docusaurus is an open-source framework for building documentation websites quickly and efficiently. It offers a simple setup process, making it easy to create, deploy, and maintain project sites.
 
@@ -228,11 +228,11 @@ Docusaurus is an open-source framework for building documentation websites quick
 
 ***
 
-### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,309 | 🐛 189 | 🌐 TypeScript | 📅 2026-09-15
+### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,320 | 🐛 182 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/2178663?v=4" width="40" height="40" alt="Ghost logo">
 
-[![Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=flat-square\&label=stars)](https://github.com/TryGhost/Ghost/stargazers) ⭐ 55,309 | 🐛 189 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/TryGhost/Ghost?style=flat-square)](https://github.com/TryGhost/Ghost) ⭐ 55,309 | 🐛 189 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/TryGhost/Ghost?style=flat-square)](https://github.com/TryGhost/Ghost/commits) ⭐ 55,309 | 🐛 189 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=flat-square\&label=stars)](https://github.com/TryGhost/Ghost/stargazers) ⭐ 55,320 | 🐛 182 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/TryGhost/Ghost?style=flat-square)](https://github.com/TryGhost/Ghost) ⭐ 55,320 | 🐛 182 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/TryGhost/Ghost?style=flat-square)](https://github.com/TryGhost/Ghost/commits) ⭐ 55,320 | 🐛 182 | 🌐 TypeScript | 📅 2026-09-16
 
 Ghost is the most popular open source, headless Node.js CMS which already works with all the tools you know and love. It offers fiercely independent, professional publishing.
 
@@ -244,11 +244,11 @@ Ghost is the most popular open source, headless Node.js CMS which already works 
 
 ***
 
-### [Payload CMS](https://github.com/payloadcms/payload) ⭐ 44,747 | 🐛 1,139 | 🌐 TypeScript | 📅 2026-09-15
+### [Payload CMS](https://github.com/payloadcms/payload) ⭐ 44,769 | 🐛 1,146 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/62968818?v=4" width="40" height="40" alt="Payload CMS logo">
 
-[![Stars](https://img.shields.io/github/stars/payloadcms/payload?style=flat-square\&label=stars)](https://github.com/payloadcms/payload/stargazers) ⭐ 44,747 | 🐛 1,139 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/payloadcms/payload?style=flat-square)](https://github.com/payloadcms/payload) ⭐ 44,747 | 🐛 1,139 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/payloadcms/payload?style=flat-square)](https://github.com/payloadcms/payload/commits) ⭐ 44,747 | 🐛 1,139 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/payloadcms/payload?style=flat-square\&label=stars)](https://github.com/payloadcms/payload/stargazers) ⭐ 44,769 | 🐛 1,146 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/payloadcms/payload?style=flat-square)](https://github.com/payloadcms/payload) ⭐ 44,769 | 🐛 1,146 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/payloadcms/payload?style=flat-square)](https://github.com/payloadcms/payload/commits) ⭐ 44,769 | 🐛 1,146 | 🌐 TypeScript | 📅 2026-09-16
 
 A Next.js native, open-source headless CMS that installs directly in your existing app folder, offering a flexible and powerful content management solution.
 
@@ -260,11 +260,11 @@ A Next.js native, open-source headless CMS that installs directly in your existi
 
 ***
 
-### [Directus](https://github.com/directus/directus) ⭐ 37,921 | 🐛 400 | 🌐 TypeScript | 📅 2026-09-15
+### [Directus](https://github.com/directus/directus) ⭐ 37,931 | 🐛 404 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/15967950?v=4" width="40" height="40" alt="Directus logo">
 
-[![Stars](https://img.shields.io/github/stars/directus/directus?style=flat-square\&label=stars)](https://github.com/directus/directus/stargazers) ⭐ 37,921 | 🐛 400 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/directus/directus?style=flat-square)](https://github.com/directus/directus) ⭐ 37,921 | 🐛 400 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/directus/directus?style=flat-square)](https://github.com/directus/directus/commits) ⭐ 37,921 | 🐛 400 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/directus/directus?style=flat-square\&label=stars)](https://github.com/directus/directus/stargazers) ⭐ 37,931 | 🐛 404 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/directus/directus?style=flat-square)](https://github.com/directus/directus) ⭐ 37,931 | 🐛 404 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/directus/directus?style=flat-square)](https://github.com/directus/directus/commits) ⭐ 37,931 | 🐛 404 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source real-time API and dashboard for managing SQL database content, providing flexible data management across multiple database systems with no-code and extensible features.
 
@@ -278,11 +278,11 @@ An open-source real-time API and dashboard for managing SQL database content, pr
 
 ## Authentication & Single Sign-On Solutions
 
-### [Keycloak](https://github.com/keycloak/keycloak) ⭐ 36,783 | 🐛 3,287 | 🌐 Java | 📅 2026-09-15
+### [Keycloak](https://github.com/keycloak/keycloak) ⭐ 36,804 | 🐛 3,292 | 🌐 Java | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/4921466?v=4" width="40" height="40" alt="Keycloak logo">
 
-[![Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat-square\&label=stars)](https://github.com/keycloak/keycloak/stargazers) ⭐ 36,783 | 🐛 3,287 | 🌐 Java | 📅 2026-09-15 [![License](https://img.shields.io/github/license/keycloak/keycloak?style=flat-square)](https://github.com/keycloak/keycloak) ⭐ 36,783 | 🐛 3,287 | 🌐 Java | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/keycloak/keycloak?style=flat-square)](https://github.com/keycloak/keycloak/commits) ⭐ 36,783 | 🐛 3,287 | 🌐 Java | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat-square\&label=stars)](https://github.com/keycloak/keycloak/stargazers) ⭐ 36,804 | 🐛 3,292 | 🌐 Java | 📅 2026-09-16 [![License](https://img.shields.io/github/license/keycloak/keycloak?style=flat-square)](https://github.com/keycloak/keycloak) ⭐ 36,804 | 🐛 3,292 | 🌐 Java | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/keycloak/keycloak?style=flat-square)](https://github.com/keycloak/keycloak/commits) ⭐ 36,804 | 🐛 3,292 | 🌐 Java | 📅 2026-09-16
 
 Keycloak is an open-source Identity and Access Management (IAM) solution that makes it simple to add authentication and authorization to your applications and services.
 
@@ -294,11 +294,11 @@ Keycloak is an open-source Identity and Access Management (IAM) solution that ma
 
 ***
 
-### [Authentik](https://github.com/goauthentik/authentik) ⭐ 25,534 | 🐛 1,093 | 🌐 Python | 📅 2026-09-15
+### [Authentik](https://github.com/goauthentik/authentik) ⭐ 25,582 | 🐛 1,097 | 🌐 Python | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/82976448?v=4" width="40" height="40" alt="Authentik logo">
 
-[![Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=flat-square\&label=stars)](https://github.com/goauthentik/authentik/stargazers) ⭐ 25,534 | 🐛 1,093 | 🌐 Python | 📅 2026-09-15 [![License](https://img.shields.io/github/license/goauthentik/authentik?style=flat-square)](https://github.com/goauthentik/authentik) ⭐ 25,534 | 🐛 1,093 | 🌐 Python | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/goauthentik/authentik?style=flat-square)](https://github.com/goauthentik/authentik/commits) ⭐ 25,534 | 🐛 1,093 | 🌐 Python | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=flat-square\&label=stars)](https://github.com/goauthentik/authentik/stargazers) ⭐ 25,582 | 🐛 1,097 | 🌐 Python | 📅 2026-09-16 [![License](https://img.shields.io/github/license/goauthentik/authentik?style=flat-square)](https://github.com/goauthentik/authentik) ⭐ 25,582 | 🐛 1,097 | 🌐 Python | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/goauthentik/authentik?style=flat-square)](https://github.com/goauthentik/authentik/commits) ⭐ 25,582 | 🐛 1,097 | 🌐 Python | 📅 2026-09-16
 
 Authentik is an open-source identity provider and single sign-on platform, and a self-hosted alternative to Okta, Auth0, and Microsoft Entra ID. It centralizes login for web apps, VPNs, and infrastructure through SAML, OAuth2/OpenID Connect, LDAP, RADIUS, and SCIM, with a flow engine that lets you compose enrollment, MFA, and recovery journeys visually. Run it for a homelab or scale it to a production cluster.
 
@@ -310,11 +310,11 @@ Authentik is an open-source identity provider and single sign-on platform, and a
 
 ***
 
-### [ZITADEL](https://github.com/zitadel/zitadel) ⭐ 15,026 | 🐛 1,182 | 🌐 Go | 📅 2026-09-15
+### [ZITADEL](https://github.com/zitadel/zitadel) ⭐ 15,034 | 🐛 1,191 | 🌐 Go | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/70011121?v=4" width="40" height="40" alt="ZITADEL logo">
 
-[![Stars](https://img.shields.io/github/stars/zitadel/zitadel?style=flat-square\&label=stars)](https://github.com/zitadel/zitadel/stargazers) ⭐ 15,026 | 🐛 1,182 | 🌐 Go | 📅 2026-09-15 [![License](https://img.shields.io/github/license/zitadel/zitadel?style=flat-square)](https://github.com/zitadel/zitadel) ⭐ 15,026 | 🐛 1,182 | 🌐 Go | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/zitadel/zitadel?style=flat-square)](https://github.com/zitadel/zitadel/commits) ⭐ 15,026 | 🐛 1,182 | 🌐 Go | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/zitadel/zitadel?style=flat-square\&label=stars)](https://github.com/zitadel/zitadel/stargazers) ⭐ 15,034 | 🐛 1,191 | 🌐 Go | 📅 2026-09-16 [![License](https://img.shields.io/github/license/zitadel/zitadel?style=flat-square)](https://github.com/zitadel/zitadel) ⭐ 15,034 | 🐛 1,191 | 🌐 Go | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/zitadel/zitadel?style=flat-square)](https://github.com/zitadel/zitadel/commits) ⭐ 15,034 | 🐛 1,191 | 🌐 Go | 📅 2026-09-16
 
 ZITADEL is an open-source identity and user management platform, and a self-hosted alternative to Auth0 and Okta. It is API-first and multi-tenant by design: every customer or business unit is an "organization" with its own users, branding, and policies. State is stored as an event stream in PostgreSQL, which gives every login, grant, and config change a built-in audit trail.
 
@@ -326,11 +326,11 @@ ZITADEL is an open-source identity and user management platform, and a self-host
 
 ***
 
-### [Hanko](https://github.com/teamhanko/hanko) ⭐ 9,027 | 🐛 60 | 🌐 Go | 📅 2026-09-15
+### [Hanko](https://github.com/teamhanko/hanko) ⭐ 9,028 | 🐛 65 | 🌐 Go | 📅 2026-09-15
 
 <img src="https://avatars.githubusercontent.com/u/20222142?v=4" width="40" height="40" alt="Hanko logo">
 
-[![Stars](https://img.shields.io/github/stars/teamhanko/hanko?style=flat-square\&label=stars)](https://github.com/teamhanko/hanko/stargazers) ⭐ 9,027 | 🐛 60 | 🌐 Go | 📅 2026-09-15 [![License](https://img.shields.io/github/license/teamhanko/hanko?style=flat-square)](https://github.com/teamhanko/hanko) ⭐ 9,027 | 🐛 60 | 🌐 Go | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/teamhanko/hanko?style=flat-square)](https://github.com/teamhanko/hanko/commits) ⭐ 9,027 | 🐛 60 | 🌐 Go | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/teamhanko/hanko?style=flat-square\&label=stars)](https://github.com/teamhanko/hanko/stargazers) ⭐ 9,028 | 🐛 65 | 🌐 Go | 📅 2026-09-15 [![License](https://img.shields.io/github/license/teamhanko/hanko?style=flat-square)](https://github.com/teamhanko/hanko) ⭐ 9,028 | 🐛 65 | 🌐 Go | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/teamhanko/hanko?style=flat-square)](https://github.com/teamhanko/hanko/commits) ⭐ 9,028 | 🐛 65 | 🌐 Go | 📅 2026-09-15
 
 Hanko is an open-source authentication and user management solution designed with privacy-first principles such as data minimalism and phishing resistance.
 
@@ -344,11 +344,11 @@ Hanko is an open-source authentication and user management solution designed wit
 
 ## System Monitoring & Alerting Tools
 
-### [Uptime Kuma](https://github.com/louislam/uptime-kuma) ⭐ 91,392 | 🐛 804 | 🌐 JavaScript | 📅 2026-09-15
+### [Uptime Kuma](https://github.com/louislam/uptime-kuma) ⭐ 91,429 | 🐛 804 | 🌐 JavaScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/1336778?v=4" width="40" height="40" alt="Uptime Kuma logo">
 
-[![Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat-square\&label=stars)](https://github.com/louislam/uptime-kuma/stargazers) ⭐ 91,392 | 🐛 804 | 🌐 JavaScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/louislam/uptime-kuma?style=flat-square)](https://github.com/louislam/uptime-kuma) ⭐ 91,392 | 🐛 804 | 🌐 JavaScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/louislam/uptime-kuma?style=flat-square)](https://github.com/louislam/uptime-kuma/commits) ⭐ 91,392 | 🐛 804 | 🌐 JavaScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat-square\&label=stars)](https://github.com/louislam/uptime-kuma/stargazers) ⭐ 91,429 | 🐛 804 | 🌐 JavaScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/louislam/uptime-kuma?style=flat-square)](https://github.com/louislam/uptime-kuma) ⭐ 91,429 | 🐛 804 | 🌐 JavaScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/louislam/uptime-kuma?style=flat-square)](https://github.com/louislam/uptime-kuma/commits) ⭐ 91,429 | 🐛 804 | 🌐 JavaScript | 📅 2026-09-16
 
 A self-hosted monitoring tool for tracking website and service uptime with an easy-to-use interface and extensive notification capabilities.
 
@@ -360,11 +360,11 @@ A self-hosted monitoring tool for tracking website and service uptime with an ea
 
 ***
 
-### [Gatus](https://github.com/TwiN/gatus) ⭐ 12,077 | 🐛 388 | 🌐 Go | 📅 2026-09-08
+### [Gatus](https://github.com/TwiN/gatus) ⭐ 12,084 | 🐛 388 | 🌐 Go | 📅 2026-09-08
 
 <img src="https://avatars.githubusercontent.com/u/15699766?v=4" width="40" height="40" alt="Gatus logo">
 
-[![Stars](https://img.shields.io/github/stars/TwiN/gatus?style=flat-square\&label=stars)](https://github.com/TwiN/gatus/stargazers) ⭐ 12,077 | 🐛 388 | 🌐 Go | 📅 2026-09-08 [![License](https://img.shields.io/github/license/TwiN/gatus?style=flat-square)](https://github.com/TwiN/gatus) ⭐ 12,077 | 🐛 388 | 🌐 Go | 📅 2026-09-08 [![Last Commit](https://img.shields.io/github/last-commit/TwiN/gatus?style=flat-square)](https://github.com/TwiN/gatus/commits) ⭐ 12,077 | 🐛 388 | 🌐 Go | 📅 2026-09-08
+[![Stars](https://img.shields.io/github/stars/TwiN/gatus?style=flat-square\&label=stars)](https://github.com/TwiN/gatus/stargazers) ⭐ 12,084 | 🐛 388 | 🌐 Go | 📅 2026-09-08 [![License](https://img.shields.io/github/license/TwiN/gatus?style=flat-square)](https://github.com/TwiN/gatus) ⭐ 12,084 | 🐛 388 | 🌐 Go | 📅 2026-09-08 [![Last Commit](https://img.shields.io/github/last-commit/TwiN/gatus?style=flat-square)](https://github.com/TwiN/gatus/commits) ⭐ 12,084 | 🐛 388 | 🌐 Go | 📅 2026-09-08
 
 A proactive endpoint monitoring tool that performs health checks on services, providing real-time alerts and performance insights for modern applications.
 
@@ -376,11 +376,11 @@ A proactive endpoint monitoring tool that performs health checks on services, pr
 
 ***
 
-### [OpenStatus](https://github.com/openstatushq/openstatus) ⭐ 9,115 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-15
+### [OpenStatus](https://github.com/openstatushq/openstatus) ⭐ 9,122 | 🐛 98 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/136892265?v=4" width="40" height="40" alt="OpenStatus logo">
 
-[![Stars](https://img.shields.io/github/stars/openstatushq/openstatus?style=flat-square\&label=stars)](https://github.com/openstatushq/openstatus/stargazers) ⭐ 9,115 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/openstatushq/openstatus?style=flat-square)](https://github.com/openstatushq/openstatus) ⭐ 9,115 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/openstatushq/openstatus?style=flat-square)](https://github.com/openstatushq/openstatus/commits) ⭐ 9,115 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/openstatushq/openstatus?style=flat-square\&label=stars)](https://github.com/openstatushq/openstatus/stargazers) ⭐ 9,122 | 🐛 98 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/openstatushq/openstatus?style=flat-square)](https://github.com/openstatushq/openstatus) ⭐ 9,122 | 🐛 98 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/openstatushq/openstatus?style=flat-square)](https://github.com/openstatushq/openstatus/commits) ⭐ 9,122 | 🐛 98 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source synthetic monitoring platform that helps monitor websites and APIs globally, providing notifications about downtime and performance issues.
 
@@ -392,11 +392,11 @@ An open-source synthetic monitoring platform that helps monitor websites and API
 
 ***
 
-### [Checkmate](https://github.com/bluewave-labs/checkmate) ⭐ 10,814 | 🐛 122 | 🌐 TypeScript | 📅 2026-09-14
+### [Checkmate](https://github.com/bluewave-labs/checkmate) ⭐ 10,819 | 🐛 120 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/165089105?v=4" width="40" height="40" alt="Checkmate logo">
 
-[![Stars](https://img.shields.io/github/stars/bluewave-labs/checkmate?style=flat-square\&label=stars)](https://github.com/bluewave-labs/checkmate/stargazers) ⭐ 10,814 | 🐛 122 | 🌐 TypeScript | 📅 2026-09-14 [![License](https://img.shields.io/github/license/bluewave-labs/checkmate?style=flat-square)](https://github.com/bluewave-labs/checkmate) ⭐ 10,814 | 🐛 122 | 🌐 TypeScript | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/bluewave-labs/checkmate?style=flat-square)](https://github.com/bluewave-labs/checkmate/commits) ⭐ 10,814 | 🐛 122 | 🌐 TypeScript | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/bluewave-labs/checkmate?style=flat-square\&label=stars)](https://github.com/bluewave-labs/checkmate/stargazers) ⭐ 10,819 | 🐛 120 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/bluewave-labs/checkmate?style=flat-square)](https://github.com/bluewave-labs/checkmate) ⭐ 10,819 | 🐛 120 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/bluewave-labs/checkmate?style=flat-square)](https://github.com/bluewave-labs/checkmate/commits) ⭐ 10,819 | 🐛 120 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source uptime and infrastructure monitoring application that tracks the operational status and performance of servers and websites, providing real-time alerts and comprehensive monitoring capabilities.
 
@@ -410,11 +410,11 @@ An open-source uptime and infrastructure monitoring application that tracks the 
 
 ## Team Communication & Collaboration Tools
 
-### [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,119 | 🐛 4,036 | 🌐 TypeScript | 📅 2026-09-15
+### [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,125 | 🐛 4,053 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/12508788?v=4" width="40" height="40" alt="Rocket.Chat logo">
 
-[![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat-square\&label=stars)](https://github.com/RocketChat/Rocket.Chat/stargazers) ⭐ 46,119 | 🐛 4,036 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/RocketChat/Rocket.Chat?style=flat-square)](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,119 | 🐛 4,036 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/RocketChat/Rocket.Chat?style=flat-square)](https://github.com/RocketChat/Rocket.Chat/commits) ⭐ 46,119 | 🐛 4,036 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat-square\&label=stars)](https://github.com/RocketChat/Rocket.Chat/stargazers) ⭐ 46,125 | 🐛 4,053 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/RocketChat/Rocket.Chat?style=flat-square)](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,125 | 🐛 4,053 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/RocketChat/Rocket.Chat?style=flat-square)](https://github.com/RocketChat/Rocket.Chat/commits) ⭐ 46,125 | 🐛 4,053 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source communication platform enabling secure, real-time conversations for organizations, supporting team collaboration, customer service, and flexible deployment across various channels.
 
@@ -426,11 +426,11 @@ An open-source communication platform enabling secure, real-time conversations f
 
 ***
 
-### [Mattermost](https://github.com/mattermost/mattermost) ⭐ 39,063 | 🐛 992 | 🌐 TypeScript | 📅 2026-09-15
+### [Mattermost](https://github.com/mattermost/mattermost) ⭐ 39,072 | 🐛 991 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/9828093?v=4" width="40" height="40" alt="Mattermost logo">
 
-[![Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=flat-square\&label=stars)](https://github.com/mattermost/mattermost/stargazers) ⭐ 39,063 | 🐛 992 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/mattermost/mattermost?style=flat-square)](https://github.com/mattermost/mattermost) ⭐ 39,063 | 🐛 992 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/mattermost/mattermost?style=flat-square)](https://github.com/mattermost/mattermost/commits) ⭐ 39,063 | 🐛 992 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=flat-square\&label=stars)](https://github.com/mattermost/mattermost/stargazers) ⭐ 39,072 | 🐛 991 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/mattermost/mattermost?style=flat-square)](https://github.com/mattermost/mattermost) ⭐ 39,072 | 🐛 991 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/mattermost/mattermost?style=flat-square)](https://github.com/mattermost/mattermost/commits) ⭐ 39,072 | 🐛 991 | 🌐 TypeScript | 📅 2026-09-16
 
 An open source platform for secure collaboration across the software development lifecycle, enabling teams to communicate, coordinate, and manage projects efficiently.
 
@@ -442,11 +442,11 @@ An open source platform for secure collaboration across the software development
 
 ***
 
-### [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 29,919 | 🐛 137 | 🌐 TypeScript | 📅 2026-09-15
+### [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 29,925 | 🐛 140 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/3671647?v=4" width="40" height="40" alt="Jitsi Meet logo">
 
-[![Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=flat-square\&label=stars)](https://github.com/jitsi/jitsi-meet/stargazers) ⭐ 29,919 | 🐛 137 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/jitsi/jitsi-meet?style=flat-square)](https://github.com/jitsi/jitsi-meet) ⭐ 29,919 | 🐛 137 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/jitsi/jitsi-meet?style=flat-square)](https://github.com/jitsi/jitsi-meet/commits) ⭐ 29,919 | 🐛 137 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=flat-square\&label=stars)](https://github.com/jitsi/jitsi-meet/stargazers) ⭐ 29,925 | 🐛 140 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/jitsi/jitsi-meet?style=flat-square)](https://github.com/jitsi/jitsi-meet) ⭐ 29,925 | 🐛 140 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/jitsi/jitsi-meet?style=flat-square)](https://github.com/jitsi/jitsi-meet/commits) ⭐ 29,925 | 🐛 140 | 🌐 TypeScript | 📅 2026-09-16
 
 Jitsi Meet is an open-source video conferencing platform, and a self-hosted alternative to Zoom, Google Meet, and Microsoft Teams. Meetings run in the browser over WebRTC with no account or install for participants, and scale from peer-to-peer calls to large moderated rooms via the Jitsi Videobridge. The whole stack is self-hostable, so meeting media and metadata stay on your servers.
 
@@ -458,11 +458,11 @@ Jitsi Meet is an open-source video conferencing platform, and a self-hosted alte
 
 ***
 
-### [Zulip](https://github.com/zulip/zulip) ⭐ 25,906 | 🐛 2,012 | 🌐 Python | 📅 2026-09-15
+### [Zulip](https://github.com/zulip/zulip) ⭐ 25,910 | 🐛 2,005 | 🌐 Python | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/4921959?v=4" width="40" height="40" alt="Zulip logo">
 
-[![Stars](https://img.shields.io/github/stars/zulip/zulip?style=flat-square\&label=stars)](https://github.com/zulip/zulip/stargazers) ⭐ 25,906 | 🐛 2,012 | 🌐 Python | 📅 2026-09-15 [![License](https://img.shields.io/github/license/zulip/zulip?style=flat-square)](https://github.com/zulip/zulip) ⭐ 25,906 | 🐛 2,012 | 🌐 Python | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/zulip/zulip?style=flat-square)](https://github.com/zulip/zulip/commits) ⭐ 25,906 | 🐛 2,012 | 🌐 Python | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/zulip/zulip?style=flat-square\&label=stars)](https://github.com/zulip/zulip/stargazers) ⭐ 25,910 | 🐛 2,005 | 🌐 Python | 📅 2026-09-16 [![License](https://img.shields.io/github/license/zulip/zulip?style=flat-square)](https://github.com/zulip/zulip) ⭐ 25,910 | 🐛 2,005 | 🌐 Python | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/zulip/zulip?style=flat-square)](https://github.com/zulip/zulip/commits) ⭐ 25,910 | 🐛 2,005 | 🌐 Python | 📅 2026-09-16
 
 Zulip is an open-source team chat application, and a self-hosted alternative to Slack. Its distinguishing feature is topic-based threading: every message in a channel belongs to a named topic, so conversations stay separable and catch-up reading is fast even in busy channels. It offers full-text search, hundreds of integrations, interactive bots, and native mobile and desktop apps.
 
@@ -476,11 +476,11 @@ Zulip is an open-source team chat application, and a self-hosted alternative to 
 
 ## Web Analytics & Visitor Tracking Tools
 
-### [Umami](https://github.com/umami-software/umami) ⭐ 38,834 | 🐛 127 | 🌐 TypeScript | 📅 2026-09-15
+### [Umami](https://github.com/umami-software/umami) ⭐ 38,858 | 🐛 127 | 🌐 TypeScript | 📅 2026-09-15
 
 <img src="https://avatars.githubusercontent.com/u/105618662?v=4" width="40" height="40" alt="Umami logo">
 
-[![Stars](https://img.shields.io/github/stars/umami-software/umami?style=flat-square\&label=stars)](https://github.com/umami-software/umami/stargazers) ⭐ 38,834 | 🐛 127 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/umami-software/umami?style=flat-square)](https://github.com/umami-software/umami) ⭐ 38,834 | 🐛 127 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/umami-software/umami?style=flat-square)](https://github.com/umami-software/umami/commits) ⭐ 38,834 | 🐛 127 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/umami-software/umami?style=flat-square\&label=stars)](https://github.com/umami-software/umami/stargazers) ⭐ 38,858 | 🐛 127 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/umami-software/umami?style=flat-square)](https://github.com/umami-software/umami) ⭐ 38,858 | 🐛 127 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/umami-software/umami?style=flat-square)](https://github.com/umami-software/umami/commits) ⭐ 38,858 | 🐛 127 | 🌐 TypeScript | 📅 2026-09-15
 
 An open-source, privacy-focused web analytics platform that provides simple and fast website traffic insights as an alternative to Google Analytics.
 
@@ -492,11 +492,11 @@ An open-source, privacy-focused web analytics platform that provides simple and 
 
 ***
 
-### [Plausible](https://github.com/plausible/analytics) ⭐ 29,087 | 🐛 60 | 🌐 Elixir | 📅 2026-09-15
+### [Plausible](https://github.com/plausible/analytics) ⭐ 29,101 | 🐛 62 | 🌐 Elixir | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/54802774?v=4" width="40" height="40" alt="Plausible logo">
 
-[![Stars](https://img.shields.io/github/stars/plausible/analytics?style=flat-square\&label=stars)](https://github.com/plausible/analytics/stargazers) ⭐ 29,087 | 🐛 60 | 🌐 Elixir | 📅 2026-09-15 [![License](https://img.shields.io/github/license/plausible/analytics?style=flat-square)](https://github.com/plausible/analytics) ⭐ 29,087 | 🐛 60 | 🌐 Elixir | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/plausible/analytics?style=flat-square)](https://github.com/plausible/analytics/commits) ⭐ 29,087 | 🐛 60 | 🌐 Elixir | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/plausible/analytics?style=flat-square\&label=stars)](https://github.com/plausible/analytics/stargazers) ⭐ 29,101 | 🐛 62 | 🌐 Elixir | 📅 2026-09-16 [![License](https://img.shields.io/github/license/plausible/analytics?style=flat-square)](https://github.com/plausible/analytics) ⭐ 29,101 | 🐛 62 | 🌐 Elixir | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/plausible/analytics?style=flat-square)](https://github.com/plausible/analytics/commits) ⭐ 29,101 | 🐛 62 | 🌐 Elixir | 📅 2026-09-16
 
 Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
@@ -508,11 +508,11 @@ Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alt
 
 ***
 
-### [Matomo](https://github.com/matomo-org/matomo) ⭐ 21,872 | 🐛 2,576 | 🌐 PHP | 📅 2026-09-15
+### [Matomo](https://github.com/matomo-org/matomo) ⭐ 21,873 | 🐛 2,580 | 🌐 PHP | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/698038?v=4" width="40" height="40" alt="Matomo logo">
 
-[![Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=flat-square\&label=stars)](https://github.com/matomo-org/matomo/stargazers) ⭐ 21,872 | 🐛 2,576 | 🌐 PHP | 📅 2026-09-15 [![License](https://img.shields.io/github/license/matomo-org/matomo?style=flat-square)](https://github.com/matomo-org/matomo) ⭐ 21,872 | 🐛 2,576 | 🌐 PHP | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/matomo-org/matomo?style=flat-square)](https://github.com/matomo-org/matomo/commits) ⭐ 21,872 | 🐛 2,576 | 🌐 PHP | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=flat-square\&label=stars)](https://github.com/matomo-org/matomo/stargazers) ⭐ 21,873 | 🐛 2,580 | 🌐 PHP | 📅 2026-09-16 [![License](https://img.shields.io/github/license/matomo-org/matomo?style=flat-square)](https://github.com/matomo-org/matomo) ⭐ 21,873 | 🐛 2,580 | 🌐 PHP | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/matomo-org/matomo?style=flat-square)](https://github.com/matomo-org/matomo/commits) ⭐ 21,873 | 🐛 2,580 | 🌐 PHP | 📅 2026-09-16
 
 An open-source web analytics platform that provides full data ownership, privacy, and powerful tracking capabilities for websites.
 
@@ -524,11 +524,11 @@ An open-source web analytics platform that provides full data ownership, privacy
 
 ***
 
-### [OpenPanel](https://github.com/openpanel-dev/openpanel) ⭐ 6,969 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-04
+### [OpenPanel](https://github.com/openpanel-dev/openpanel) ⭐ 6,973 | 🐛 56 | 🌐 TypeScript | 📅 2026-09-04
 
 <img src="https://avatars.githubusercontent.com/u/161692650?v=4" width="40" height="40" alt="OpenPanel logo">
 
-[![Stars](https://img.shields.io/github/stars/openpanel-dev/openpanel?style=flat-square\&label=stars)](https://github.com/openpanel-dev/openpanel/stargazers) ⭐ 6,969 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-04 [![License](https://img.shields.io/github/license/openpanel-dev/openpanel?style=flat-square)](https://github.com/openpanel-dev/openpanel) ⭐ 6,969 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-04 [![Last Commit](https://img.shields.io/github/last-commit/openpanel-dev/openpanel?style=flat-square)](https://github.com/openpanel-dev/openpanel/commits) ⭐ 6,969 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-04
+[![Stars](https://img.shields.io/github/stars/openpanel-dev/openpanel?style=flat-square\&label=stars)](https://github.com/openpanel-dev/openpanel/stargazers) ⭐ 6,973 | 🐛 56 | 🌐 TypeScript | 📅 2026-09-04 [![License](https://img.shields.io/github/license/openpanel-dev/openpanel?style=flat-square)](https://github.com/openpanel-dev/openpanel) ⭐ 6,973 | 🐛 56 | 🌐 TypeScript | 📅 2026-09-04 [![Last Commit](https://img.shields.io/github/last-commit/openpanel-dev/openpanel?style=flat-square)](https://github.com/openpanel-dev/openpanel/commits) ⭐ 6,973 | 🐛 56 | 🌐 TypeScript | 📅 2026-09-04
 
 Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
 
@@ -542,11 +542,11 @@ Openpanel is an open-source web and product analytics platform that combines the
 
 ## API Development & Testing Tools
 
-### [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,311 | 🐛 822 | 🌐 TypeScript | 📅 2026-09-14
+### [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,318 | 🐛 823 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/56705483?v=4" width="40" height="40" alt="Hoppscotch logo">
 
-[![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat-square\&label=stars)](https://github.com/hoppscotch/hoppscotch/stargazers) ⭐ 80,311 | 🐛 822 | 🌐 TypeScript | 📅 2026-09-14 [![License](https://img.shields.io/github/license/hoppscotch/hoppscotch?style=flat-square)](https://github.com/hoppscotch/hoppscotch) ⭐ 80,311 | 🐛 822 | 🌐 TypeScript | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/hoppscotch/hoppscotch?style=flat-square)](https://github.com/hoppscotch/hoppscotch/commits) ⭐ 80,311 | 🐛 822 | 🌐 TypeScript | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat-square\&label=stars)](https://github.com/hoppscotch/hoppscotch/stargazers) ⭐ 80,318 | 🐛 823 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/hoppscotch/hoppscotch?style=flat-square)](https://github.com/hoppscotch/hoppscotch) ⭐ 80,318 | 🐛 823 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/hoppscotch/hoppscotch?style=flat-square)](https://github.com/hoppscotch/hoppscotch/commits) ⭐ 80,318 | 🐛 823 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source API development ecosystem that helps developers create, test, and manage API requests efficiently with a user-friendly interface and powerful features.
 
@@ -558,11 +558,11 @@ An open-source API development ecosystem that helps developers create, test, and
 
 ***
 
-### [Insomnia](https://github.com/Kong/insomnia) ⭐ 40,016 | 🐛 877 | 🌐 TypeScript | 📅 2026-09-15
+### [Insomnia](https://github.com/Kong/insomnia) ⭐ 40,020 | 🐛 879 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/962416?v=4" width="40" height="40" alt="Insomnia logo">
 
-[![Stars](https://img.shields.io/github/stars/Kong/insomnia?style=flat-square\&label=stars)](https://github.com/Kong/insomnia/stargazers) ⭐ 40,016 | 🐛 877 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/Kong/insomnia?style=flat-square)](https://github.com/Kong/insomnia) ⭐ 40,016 | 🐛 877 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/Kong/insomnia?style=flat-square)](https://github.com/Kong/insomnia/commits) ⭐ 40,016 | 🐛 877 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/Kong/insomnia?style=flat-square\&label=stars)](https://github.com/Kong/insomnia/stargazers) ⭐ 40,020 | 🐛 879 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/Kong/insomnia?style=flat-square)](https://github.com/Kong/insomnia) ⭐ 40,020 | 🐛 879 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/Kong/insomnia?style=flat-square)](https://github.com/Kong/insomnia/commits) ⭐ 40,020 | 🐛 879 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source, cross-platform API client that enables debugging, designing, testing, and mocking APIs across multiple protocols and formats.
 
@@ -574,11 +574,11 @@ An open-source, cross-platform API client that enables debugging, designing, tes
 
 ***
 
-### [Scalar](https://github.com/scalar/scalar) ⭐ 16,113 | 🐛 86 | 🌐 TypeScript | 📅 2026-09-15
+### [Scalar](https://github.com/scalar/scalar) ⭐ 16,131 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/301879?v=4" width="40" height="40" alt="Scalar logo">
 
-[![Stars](https://img.shields.io/github/stars/scalar/scalar?style=flat-square\&label=stars)](https://github.com/scalar/scalar/stargazers) ⭐ 16,113 | 🐛 86 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/scalar/scalar?style=flat-square)](https://github.com/scalar/scalar) ⭐ 16,113 | 🐛 86 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/scalar/scalar?style=flat-square)](https://github.com/scalar/scalar/commits) ⭐ 16,113 | 🐛 86 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/scalar/scalar?style=flat-square\&label=stars)](https://github.com/scalar/scalar/stargazers) ⭐ 16,131 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/scalar/scalar?style=flat-square)](https://github.com/scalar/scalar) ⭐ 16,131 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/scalar/scalar?style=flat-square)](https://github.com/scalar/scalar/commits) ⭐ 16,131 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-16
 
 Scalar is an offline-first, open-source API client designed for modern developers working with OpenAPI/Swagger.
 
@@ -592,11 +592,11 @@ Scalar is an offline-first, open-source API client designed for modern developer
 
 ## Business Intelligence & Data Analytics Tools
 
-### [Apache Superset](https://github.com/apache/superset) ⭐ 74,766 | 🐛 643 | 🌐 Python | 📅 2026-09-15
+### [Apache Superset](https://github.com/apache/superset) ⭐ 74,786 | 🐛 651 | 🌐 Python | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/47359?v=4" width="40" height="40" alt="Apache Superset logo">
 
-[![Stars](https://img.shields.io/github/stars/apache/superset?style=flat-square\&label=stars)](https://github.com/apache/superset/stargazers) ⭐ 74,766 | 🐛 643 | 🌐 Python | 📅 2026-09-15 [![License](https://img.shields.io/github/license/apache/superset?style=flat-square)](https://github.com/apache/superset) ⭐ 74,766 | 🐛 643 | 🌐 Python | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/apache/superset?style=flat-square)](https://github.com/apache/superset/commits) ⭐ 74,766 | 🐛 643 | 🌐 Python | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/apache/superset?style=flat-square\&label=stars)](https://github.com/apache/superset/stargazers) ⭐ 74,786 | 🐛 651 | 🌐 Python | 📅 2026-09-16 [![License](https://img.shields.io/github/license/apache/superset?style=flat-square)](https://github.com/apache/superset) ⭐ 74,786 | 🐛 651 | 🌐 Python | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/apache/superset?style=flat-square)](https://github.com/apache/superset/commits) ⭐ 74,786 | 🐛 651 | 🌐 Python | 📅 2026-09-16
 
 An open-source data-exploration and visualization platform, and a self-hostable alternative to Tableau, Looker, and Power BI. Superset pairs a no-code chart builder with a rich SQL IDE and interactive dashboards on top of any SQL-speaking database, plus caching, row-level security, and an extensible visualization plugin system.
 
@@ -608,11 +608,11 @@ An open-source data-exploration and visualization platform, and a self-hostable 
 
 ***
 
-### [Metabase](https://github.com/metabase/metabase) ⭐ 49,272 | 🐛 4,352 | 🌐 Clojure | 📅 2026-09-15
+### [Metabase](https://github.com/metabase/metabase) ⭐ 49,286 | 🐛 4,363 | 🌐 Clojure | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/10520629?v=4" width="40" height="40" alt="Metabase logo">
 
-[![Stars](https://img.shields.io/github/stars/metabase/metabase?style=flat-square\&label=stars)](https://github.com/metabase/metabase/stargazers) ⭐ 49,272 | 🐛 4,352 | 🌐 Clojure | 📅 2026-09-15 [![License](https://img.shields.io/github/license/metabase/metabase?style=flat-square)](https://github.com/metabase/metabase) ⭐ 49,272 | 🐛 4,352 | 🌐 Clojure | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/metabase/metabase?style=flat-square)](https://github.com/metabase/metabase/commits) ⭐ 49,272 | 🐛 4,352 | 🌐 Clojure | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/metabase/metabase?style=flat-square\&label=stars)](https://github.com/metabase/metabase/stargazers) ⭐ 49,286 | 🐛 4,363 | 🌐 Clojure | 📅 2026-09-16 [![License](https://img.shields.io/github/license/metabase/metabase?style=flat-square)](https://github.com/metabase/metabase) ⭐ 49,286 | 🐛 4,363 | 🌐 Clojure | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/metabase/metabase?style=flat-square)](https://github.com/metabase/metabase/commits) ⭐ 49,286 | 🐛 4,363 | 🌐 Clojure | 📅 2026-09-16
 
 Metabase is the easy, open-source way for everyone in your company to ask questions and learn from data.
 
@@ -642,11 +642,11 @@ An open-source data visualization and dashboard tool that enables users to explo
 
 ## Observability & Performance Tools
 
-### [Grafana](https://github.com/grafana/grafana) ⭐ 76,761 | 🐛 3,302 | 🌐 TypeScript | 📅 2026-09-15
+### [Grafana](https://github.com/grafana/grafana) ⭐ 76,772 | 🐛 3,306 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/7195757?v=4" width="40" height="40" alt="Grafana logo">
 
-[![Stars](https://img.shields.io/github/stars/grafana/grafana?style=flat-square\&label=stars)](https://github.com/grafana/grafana/stargazers) ⭐ 76,761 | 🐛 3,302 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/grafana/grafana?style=flat-square)](https://github.com/grafana/grafana) ⭐ 76,761 | 🐛 3,302 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/grafana/grafana?style=flat-square)](https://github.com/grafana/grafana/commits) ⭐ 76,761 | 🐛 3,302 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/grafana/grafana?style=flat-square\&label=stars)](https://github.com/grafana/grafana/stargazers) ⭐ 76,772 | 🐛 3,306 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/grafana/grafana?style=flat-square)](https://github.com/grafana/grafana) ⭐ 76,772 | 🐛 3,306 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/grafana/grafana?style=flat-square)](https://github.com/grafana/grafana/commits) ⭐ 76,772 | 🐛 3,306 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source observability and data-visualization platform, and a self-hostable alternative to Datadog, New Relic, and Grafana Cloud. Grafana unifies metrics, logs, and traces from sources like Prometheus, Loki, Elasticsearch, and PostgreSQL into shared dashboards, with alerting and annotations built in.
 
@@ -658,11 +658,11 @@ An open-source observability and data-visualization platform, and a self-hostabl
 
 ***
 
-### [Netdata](https://github.com/netdata/netdata) ⭐ 80,535 | 🐛 398 | 🌐 Go | 📅 2026-09-15
+### [Netdata](https://github.com/netdata/netdata) ⭐ 80,548 | 🐛 403 | 🌐 Go | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/43390781?v=4" width="40" height="40" alt="Netdata logo">
 
-[![Stars](https://img.shields.io/github/stars/netdata/netdata?style=flat-square\&label=stars)](https://github.com/netdata/netdata/stargazers) ⭐ 80,535 | 🐛 398 | 🌐 Go | 📅 2026-09-15 [![License](https://img.shields.io/github/license/netdata/netdata?style=flat-square)](https://github.com/netdata/netdata) ⭐ 80,535 | 🐛 398 | 🌐 Go | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/netdata/netdata?style=flat-square)](https://github.com/netdata/netdata/commits) ⭐ 80,535 | 🐛 398 | 🌐 Go | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/netdata/netdata?style=flat-square\&label=stars)](https://github.com/netdata/netdata/stargazers) ⭐ 80,548 | 🐛 403 | 🌐 Go | 📅 2026-09-16 [![License](https://img.shields.io/github/license/netdata/netdata?style=flat-square)](https://github.com/netdata/netdata) ⭐ 80,548 | 🐛 403 | 🌐 Go | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/netdata/netdata?style=flat-square)](https://github.com/netdata/netdata/commits) ⭐ 80,548 | 🐛 403 | 🌐 Go | 📅 2026-09-16
 
 An open-source observability platform for real-time infrastructure monitoring, providing instant insights into system performance with zero-configuration installation and powerful analytics capabilities.
 
@@ -674,11 +674,11 @@ An open-source observability platform for real-time infrastructure monitoring, p
 
 ***
 
-### [Sentry](https://github.com/getsentry/sentry) ⭐ 44,778 | 🐛 2,265 | 🌐 Python | 📅 2026-09-15
+### [Sentry](https://github.com/getsentry/sentry) ⭐ 44,780 | 🐛 2,271 | 🌐 Python | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/1396951?v=4" width="40" height="40" alt="Sentry logo">
 
-[![Stars](https://img.shields.io/github/stars/getsentry/sentry?style=flat-square\&label=stars)](https://github.com/getsentry/sentry/stargazers) ⭐ 44,778 | 🐛 2,265 | 🌐 Python | 📅 2026-09-15 [![License](https://img.shields.io/github/license/getsentry/sentry?style=flat-square)](https://github.com/getsentry/sentry) ⭐ 44,778 | 🐛 2,265 | 🌐 Python | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/getsentry/sentry?style=flat-square)](https://github.com/getsentry/sentry/commits) ⭐ 44,778 | 🐛 2,265 | 🌐 Python | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/getsentry/sentry?style=flat-square\&label=stars)](https://github.com/getsentry/sentry/stargazers) ⭐ 44,780 | 🐛 2,271 | 🌐 Python | 📅 2026-09-16 [![License](https://img.shields.io/github/license/getsentry/sentry?style=flat-square)](https://github.com/getsentry/sentry) ⭐ 44,780 | 🐛 2,271 | 🌐 Python | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/getsentry/sentry?style=flat-square)](https://github.com/getsentry/sentry/commits) ⭐ 44,780 | 🐛 2,271 | 🌐 Python | 📅 2026-09-16
 
 A developer platform for error tracking and performance monitoring that helps developers identify, resolve, and gain insights into application issues across multiple programming languages and frameworks.
 
@@ -692,11 +692,11 @@ A developer platform for error tracking and performance monitoring that helps de
 
 ## Project Management & Planning Tools
 
-### [Plane](https://github.com/makeplane/plane/) ⭐ 59,431 | 🐛 1,121 | 🌐 TypeScript | 📅 2026-09-15
+### [Plane](https://github.com/makeplane/plane/) ⭐ 59,475 | 🐛 1,118 | 🌐 TypeScript | 📅 2026-09-15
 
 <img src="https://avatars.githubusercontent.com/u/115727700?v=4" width="40" height="40" alt="Plane logo">
 
-[![Stars](https://img.shields.io/github/stars/makeplane/plane/?style=flat-square\&label=stars)](https://github.com/makeplane/plane//stargazers) ⭐ 59,431 | 🐛 1,121 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/makeplane/plane/?style=flat-square)](https://github.com/makeplane/plane/) ⭐ 59,431 | 🐛 1,121 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/makeplane/plane/?style=flat-square)](https://github.com/makeplane/plane//commits) ⭐ 59,431 | 🐛 1,121 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/makeplane/plane/?style=flat-square\&label=stars)](https://github.com/makeplane/plane//stargazers) ⭐ 59,475 | 🐛 1,118 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/makeplane/plane/?style=flat-square)](https://github.com/makeplane/plane/) ⭐ 59,475 | 🐛 1,118 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/makeplane/plane/?style=flat-square)](https://github.com/makeplane/plane//commits) ⭐ 59,475 | 🐛 1,118 | 🌐 TypeScript | 📅 2026-09-15
 
 Plane is an open-source project management tool that helps teams track issues, run cycles, and manage product roadmaps.
 
@@ -708,11 +708,11 @@ Plane is an open-source project management tool that helps teams track issues, r
 
 ***
 
-### [Huly Platform](https://github.com/hcengineering/platform) ⭐ 27,684 | 🐛 850 | 🌐 TypeScript | 📅 2026-08-27
+### [Huly Platform](https://github.com/hcengineering/platform) ⭐ 27,692 | 🐛 850 | 🌐 TypeScript | 📅 2026-08-27
 
 <img src="https://avatars.githubusercontent.com/u/87086734?v=4" width="40" height="40" alt="Huly Platform logo">
 
-[![Stars](https://img.shields.io/github/stars/hcengineering/platform?style=flat-square\&label=stars)](https://github.com/hcengineering/platform/stargazers) ⭐ 27,684 | 🐛 850 | 🌐 TypeScript | 📅 2026-08-27 [![License](https://img.shields.io/github/license/hcengineering/platform?style=flat-square)](https://github.com/hcengineering/platform) ⭐ 27,684 | 🐛 850 | 🌐 TypeScript | 📅 2026-08-27 [![Last Commit](https://img.shields.io/github/last-commit/hcengineering/platform?style=flat-square)](https://github.com/hcengineering/platform/commits) ⭐ 27,684 | 🐛 850 | 🌐 TypeScript | 📅 2026-08-27
+[![Stars](https://img.shields.io/github/stars/hcengineering/platform?style=flat-square\&label=stars)](https://github.com/hcengineering/platform/stargazers) ⭐ 27,692 | 🐛 850 | 🌐 TypeScript | 📅 2026-08-27 [![License](https://img.shields.io/github/license/hcengineering/platform?style=flat-square)](https://github.com/hcengineering/platform) ⭐ 27,692 | 🐛 850 | 🌐 TypeScript | 📅 2026-08-27 [![Last Commit](https://img.shields.io/github/last-commit/hcengineering/platform?style=flat-square)](https://github.com/hcengineering/platform/commits) ⭐ 27,692 | 🐛 850 | 🌐 TypeScript | 📅 2026-08-27
 
 A robust framework for developing business applications like CRM systems, offering multiple integrated applications including Chat, Project Management, CRM, HRM, and ATS.
 
@@ -724,11 +724,11 @@ A robust framework for developing business applications like CRM systems, offeri
 
 ***
 
-### [Vikunja](https://github.com/go-vikunja/vikunja) ⭐ 5,403 | 🐛 236 | 🌐 Go | 📅 2026-09-15
+### [Vikunja](https://github.com/go-vikunja/vikunja) ⭐ 5,419 | 🐛 231 | 🌐 Go | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/41270016?v=4" width="40" height="40" alt="Vikunja logo">
 
-[![Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=flat-square\&label=stars)](https://github.com/go-vikunja/vikunja/stargazers) ⭐ 5,403 | 🐛 236 | 🌐 Go | 📅 2026-09-15 [![License](https://img.shields.io/github/license/go-vikunja/vikunja?style=flat-square)](https://github.com/go-vikunja/vikunja) ⭐ 5,403 | 🐛 236 | 🌐 Go | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/go-vikunja/vikunja?style=flat-square)](https://github.com/go-vikunja/vikunja/commits) ⭐ 5,403 | 🐛 236 | 🌐 Go | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=flat-square\&label=stars)](https://github.com/go-vikunja/vikunja/stargazers) ⭐ 5,419 | 🐛 231 | 🌐 Go | 📅 2026-09-16 [![License](https://img.shields.io/github/license/go-vikunja/vikunja?style=flat-square)](https://github.com/go-vikunja/vikunja) ⭐ 5,419 | 🐛 231 | 🌐 Go | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/go-vikunja/vikunja?style=flat-square)](https://github.com/go-vikunja/vikunja/commits) ⭐ 5,419 | 🐛 231 | 🌐 Go | 📅 2026-09-16
 
 Vikunja is an open-source task and project manager, and a self-hosted alternative to Todoist and Asana. The same tasks can be viewed as a list, table, kanban board, or Gantt chart, with subtasks, labels, reminders, recurring due dates, and saved filters. It runs as a single Go binary, exposes a REST API, syncs via CalDAV, and imports from Todoist, Trello, Asana, and Microsoft To Do.
 
@@ -742,11 +742,11 @@ Vikunja is an open-source task and project manager, and a self-hosted alternativ
 
 ## Backend Infrastructure Tools
 
-### [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,367 | 🐛 1,007 | 🌐 TypeScript | 📅 2026-09-15
+### [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,381 | 🐛 1,005 | 🌐 PHP | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/25003669?v=4" width="40" height="40" alt="Appwrite logo">
 
-[![Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square\&label=stars)](https://github.com/appwrite/appwrite/stargazers) ⭐ 57,367 | 🐛 1,007 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/appwrite/appwrite?style=flat-square)](https://github.com/appwrite/appwrite) ⭐ 57,367 | 🐛 1,007 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/appwrite/appwrite?style=flat-square)](https://github.com/appwrite/appwrite/commits) ⭐ 57,367 | 🐛 1,007 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square\&label=stars)](https://github.com/appwrite/appwrite/stargazers) ⭐ 57,381 | 🐛 1,005 | 🌐 PHP | 📅 2026-09-16 [![License](https://img.shields.io/github/license/appwrite/appwrite?style=flat-square)](https://github.com/appwrite/appwrite) ⭐ 57,381 | 🐛 1,005 | 🌐 PHP | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/appwrite/appwrite?style=flat-square)](https://github.com/appwrite/appwrite/commits) ⭐ 57,381 | 🐛 1,005 | 🌐 PHP | 📅 2026-09-16
 
 An end-to-end backend server for web, mobile, and native applications that simplifies backend development by providing a comprehensive set of microservices and APIs.
 
@@ -758,11 +758,11 @@ An end-to-end backend server for web, mobile, and native applications that simpl
 
 ***
 
-### [PocketBase](https://github.com/pocketbase/pocketbase) ⭐ 61,040 | 🐛 19 | 🌐 Go | 📅 2026-09-12
+### [PocketBase](https://github.com/pocketbase/pocketbase) ⭐ 61,053 | 🐛 19 | 🌐 Go | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/101000011?v=4" width="40" height="40" alt="PocketBase logo">
 
-[![Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=flat-square\&label=stars)](https://github.com/pocketbase/pocketbase/stargazers) ⭐ 61,040 | 🐛 19 | 🌐 Go | 📅 2026-09-12 [![License](https://img.shields.io/github/license/pocketbase/pocketbase?style=flat-square)](https://github.com/pocketbase/pocketbase) ⭐ 61,040 | 🐛 19 | 🌐 Go | 📅 2026-09-12 [![Last Commit](https://img.shields.io/github/last-commit/pocketbase/pocketbase?style=flat-square)](https://github.com/pocketbase/pocketbase/commits) ⭐ 61,040 | 🐛 19 | 🌐 Go | 📅 2026-09-12
+[![Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=flat-square\&label=stars)](https://github.com/pocketbase/pocketbase/stargazers) ⭐ 61,053 | 🐛 19 | 🌐 Go | 📅 2026-09-16 [![License](https://img.shields.io/github/license/pocketbase/pocketbase?style=flat-square)](https://github.com/pocketbase/pocketbase) ⭐ 61,053 | 🐛 19 | 🌐 Go | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/pocketbase/pocketbase?style=flat-square)](https://github.com/pocketbase/pocketbase/commits) ⭐ 61,053 | 🐛 19 | 🌐 Go | 📅 2026-09-16
 
 An open-source Go backend that provides an all-in-one solution for building web and mobile applications with an embedded database, authentication, and API functionality.
 
@@ -776,11 +776,11 @@ An open-source Go backend that provides an all-in-one solution for building web 
 
 ## Database Administration & Management Tools
 
-### [Supabase](https://github.com/supabase/supabase) ⭐ 109,288 | 🐛 1,144 | 🌐 TypeScript | 📅 2026-09-15
+### [Supabase](https://github.com/supabase/supabase) ⭐ 109,440 | 🐛 1,140 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/54469796?v=4" width="40" height="40" alt="Supabase logo">
 
-[![Stars](https://img.shields.io/github/stars/supabase/supabase?style=flat-square\&label=stars)](https://github.com/supabase/supabase/stargazers) ⭐ 109,288 | 🐛 1,144 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/supabase/supabase?style=flat-square)](https://github.com/supabase/supabase) ⭐ 109,288 | 🐛 1,144 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/supabase/supabase?style=flat-square)](https://github.com/supabase/supabase/commits) ⭐ 109,288 | 🐛 1,144 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/supabase/supabase?style=flat-square\&label=stars)](https://github.com/supabase/supabase/stargazers) ⭐ 109,440 | 🐛 1,140 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/supabase/supabase?style=flat-square)](https://github.com/supabase/supabase) ⭐ 109,440 | 🐛 1,140 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/supabase/supabase?style=flat-square)](https://github.com/supabase/supabase/commits) ⭐ 109,440 | 🐛 1,140 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source Firebase alternative that provides a complete backend platform with Postgres database, authentication, real-time subscriptions, storage, and serverless functions.
 
@@ -792,11 +792,11 @@ An open-source Firebase alternative that provides a complete backend platform wi
 
 ***
 
-### [NocoDB](https://github.com/nocodb/nocodb) ⭐ 64,978 | 🐛 712 | 🌐 TypeScript | 📅 2026-09-15
+### [NocoDB](https://github.com/nocodb/nocodb) ⭐ 64,985 | 🐛 713 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/50206778?v=4" width="40" height="40" alt="NocoDB logo">
 
-[![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=flat-square\&label=stars)](https://github.com/nocodb/nocodb/stargazers) ⭐ 64,978 | 🐛 712 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/nocodb/nocodb?style=flat-square)](https://github.com/nocodb/nocodb) ⭐ 64,978 | 🐛 712 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/nocodb/nocodb?style=flat-square)](https://github.com/nocodb/nocodb/commits) ⭐ 64,978 | 🐛 712 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=flat-square\&label=stars)](https://github.com/nocodb/nocodb/stargazers) ⭐ 64,985 | 🐛 713 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/nocodb/nocodb?style=flat-square)](https://github.com/nocodb/nocodb) ⭐ 64,985 | 🐛 713 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/nocodb/nocodb?style=flat-square)](https://github.com/nocodb/nocodb/commits) ⭐ 64,985 | 🐛 713 | 🌐 TypeScript | 📅 2026-09-16
 
 NocoDB is an open-source Airtable alternative that transforms your database into a collaborative spreadsheet. It provides an intuitive interface for managing, editing, and sharing data without requiring extensive technical expertise.
 
@@ -826,11 +826,11 @@ A native macOS code editor built by the community, designed to provide a seamles
 
 ***
 
-### [Gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,771 | 🐛 452 | 🌐 TypeScript | 📅 2026-09-14
+### [Gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,770 | 🐛 450 | 🌐 TypeScript | 📅 2026-09-15
 
 <img src="https://avatars.githubusercontent.com/u/37021919?v=4" width="40" height="40" alt="Gitpod logo">
 
-[![Stars](https://img.shields.io/github/stars/gitpod-io/gitpod?style=flat-square\&label=stars)](https://github.com/gitpod-io/gitpod/stargazers) ⭐ 13,771 | 🐛 452 | 🌐 TypeScript | 📅 2026-09-14 [![License](https://img.shields.io/github/license/gitpod-io/gitpod?style=flat-square)](https://github.com/gitpod-io/gitpod) ⭐ 13,771 | 🐛 452 | 🌐 TypeScript | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/gitpod-io/gitpod?style=flat-square)](https://github.com/gitpod-io/gitpod/commits) ⭐ 13,771 | 🐛 452 | 🌐 TypeScript | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/gitpod-io/gitpod?style=flat-square\&label=stars)](https://github.com/gitpod-io/gitpod/stargazers) ⭐ 13,770 | 🐛 450 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/gitpod-io/gitpod?style=flat-square)](https://github.com/gitpod-io/gitpod) ⭐ 13,770 | 🐛 450 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/gitpod-io/gitpod?style=flat-square)](https://github.com/gitpod-io/gitpod/commits) ⭐ 13,770 | 🐛 450 | 🌐 TypeScript | 📅 2026-09-15
 
 A developer platform that provides on-demand, pre-configured cloud development environments that automatically integrate tools, libraries, and dependencies for software creation.
 
@@ -844,11 +844,11 @@ A developer platform that provides on-demand, pre-configured cloud development e
 
 ## E-Commerce & Digital Marketplace Tools
 
-### [Medusa](https://github.com/medusajs/medusa) ⭐ 36,316 | 🐛 193 | 🌐 TypeScript | 📅 2026-09-15
+### [Medusa](https://github.com/medusajs/medusa) ⭐ 36,333 | 🐛 183 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/62591822?v=4" width="40" height="40" alt="Medusa logo">
 
-[![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=flat-square\&label=stars)](https://github.com/medusajs/medusa/stargazers) ⭐ 36,316 | 🐛 193 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/medusajs/medusa?style=flat-square)](https://github.com/medusajs/medusa) ⭐ 36,316 | 🐛 193 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/medusajs/medusa?style=flat-square)](https://github.com/medusajs/medusa/commits) ⭐ 36,316 | 🐛 193 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=flat-square\&label=stars)](https://github.com/medusajs/medusa/stargazers) ⭐ 36,333 | 🐛 183 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/medusajs/medusa?style=flat-square)](https://github.com/medusajs/medusa) ⭐ 36,333 | 🐛 183 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/medusajs/medusa?style=flat-square)](https://github.com/medusajs/medusa/commits) ⭐ 36,333 | 🐛 183 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source headless commerce platform and a self-hostable alternative to Shopify and commercetools. Medusa delivers commerce primitives — carts, orders, payments, fulfillment, promotions, multi-region and multi-warehouse — as a modular Node.js framework, with a REST/GraphQL API, an admin dashboard, and full control over the storefront.
 
@@ -860,11 +860,11 @@ An open-source headless commerce platform and a self-hostable alternative to Sho
 
 ***
 
-### [Saleor](https://github.com/saleor/saleor) ⭐ 23,333 | 🐛 269 | 🌐 Python | 📅 2026-09-15
+### [Saleor](https://github.com/saleor/saleor) ⭐ 23,334 | 🐛 272 | 🌐 Python | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/13796165?v=4" width="40" height="40" alt="Saleor logo">
 
-[![Stars](https://img.shields.io/github/stars/saleor/saleor?style=flat-square\&label=stars)](https://github.com/saleor/saleor/stargazers) ⭐ 23,333 | 🐛 269 | 🌐 Python | 📅 2026-09-15 [![License](https://img.shields.io/github/license/saleor/saleor?style=flat-square)](https://github.com/saleor/saleor) ⭐ 23,333 | 🐛 269 | 🌐 Python | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/saleor/saleor?style=flat-square)](https://github.com/saleor/saleor/commits) ⭐ 23,333 | 🐛 269 | 🌐 Python | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/saleor/saleor?style=flat-square\&label=stars)](https://github.com/saleor/saleor/stargazers) ⭐ 23,334 | 🐛 272 | 🌐 Python | 📅 2026-09-16 [![License](https://img.shields.io/github/license/saleor/saleor?style=flat-square)](https://github.com/saleor/saleor) ⭐ 23,334 | 🐛 272 | 🌐 Python | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/saleor/saleor?style=flat-square)](https://github.com/saleor/saleor/commits) ⭐ 23,334 | 🐛 272 | 🌐 Python | 📅 2026-09-16
 
 Saleor is an open-source, GraphQL-first headless commerce platform, and a self-hosted alternative to Shopify and commercetools. The backend is an API only — storefronts are built separately against its single GraphQL endpoint — and it is multi-channel from the ground up, so one catalog can serve several storefronts with their own currencies, pricing, and warehouses. Extensions are added out-of-process through the Saleor Apps model.
 
@@ -878,11 +878,11 @@ Saleor is an open-source, GraphQL-first headless commerce platform, and a self-h
 
 ## Enterprise Search & Discovery Tools
 
-### [Meilisearch](https://github.com/meilisearch/meilisearch) ⭐ 59,296 | 🐛 322 | 🌐 Rust | 📅 2026-09-15
+### [Meilisearch](https://github.com/meilisearch/meilisearch) ⭐ 59,303 | 🐛 320 | 🌐 Rust | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/43250847?v=4" width="40" height="40" alt="Meilisearch logo">
 
-[![Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=flat-square\&label=stars)](https://github.com/meilisearch/meilisearch/stargazers) ⭐ 59,296 | 🐛 322 | 🌐 Rust | 📅 2026-09-15 [![License](https://img.shields.io/github/license/meilisearch/meilisearch?style=flat-square)](https://github.com/meilisearch/meilisearch) ⭐ 59,296 | 🐛 322 | 🌐 Rust | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/meilisearch/meilisearch?style=flat-square)](https://github.com/meilisearch/meilisearch/commits) ⭐ 59,296 | 🐛 322 | 🌐 Rust | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=flat-square\&label=stars)](https://github.com/meilisearch/meilisearch/stargazers) ⭐ 59,303 | 🐛 320 | 🌐 Rust | 📅 2026-09-16 [![License](https://img.shields.io/github/license/meilisearch/meilisearch?style=flat-square)](https://github.com/meilisearch/meilisearch) ⭐ 59,303 | 🐛 320 | 🌐 Rust | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/meilisearch/meilisearch?style=flat-square)](https://github.com/meilisearch/meilisearch/commits) ⭐ 59,303 | 🐛 320 | 🌐 Rust | 📅 2026-09-16
 
 A lightning-fast, developer-friendly search engine that enables seamless, intuitive search experiences across applications and websites with advanced features and easy integration.
 
@@ -894,11 +894,11 @@ A lightning-fast, developer-friendly search engine that enables seamless, intuit
 
 ***
 
-### [Typesense](https://github.com/typesense/typesense) ⭐ 26,557 | 🐛 884 | 🌐 C++ | 📅 2026-09-15
+### [Typesense](https://github.com/typesense/typesense) ⭐ 26,560 | 🐛 886 | 🌐 C++ | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/19822348?v=4" width="40" height="40" alt="Typesense logo">
 
-[![Stars](https://img.shields.io/github/stars/typesense/typesense?style=flat-square\&label=stars)](https://github.com/typesense/typesense/stargazers) ⭐ 26,557 | 🐛 884 | 🌐 C++ | 📅 2026-09-15 [![License](https://img.shields.io/github/license/typesense/typesense?style=flat-square)](https://github.com/typesense/typesense) ⭐ 26,557 | 🐛 884 | 🌐 C++ | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/typesense/typesense?style=flat-square)](https://github.com/typesense/typesense/commits) ⭐ 26,557 | 🐛 884 | 🌐 C++ | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/typesense/typesense?style=flat-square\&label=stars)](https://github.com/typesense/typesense/stargazers) ⭐ 26,560 | 🐛 886 | 🌐 C++ | 📅 2026-09-16 [![License](https://img.shields.io/github/license/typesense/typesense?style=flat-square)](https://github.com/typesense/typesense) ⭐ 26,560 | 🐛 886 | 🌐 C++ | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/typesense/typesense?style=flat-square)](https://github.com/typesense/typesense/commits) ⭐ 26,560 | 🐛 886 | 🌐 C++ | 📅 2026-09-16
 
 Typesense is an open-source, typo-tolerant search engine built for fast instant-search experiences, and a self-hosted alternative to Algolia. It holds indexes in memory for sub-50ms queries, ships with sensible relevance defaults, and adds faceting, filtering, geo-search, and vector/semantic search. Official clients and framework adapters (InstantSearch, Next.js, Laravel) make integration quick.
 
@@ -912,11 +912,11 @@ Typesense is an open-source, typo-tolerant search engine built for fast instant-
 
 ## Home Automation & Smart Home Tools
 
-### [Home Assistant](https://github.com/home-assistant/core) ⭐ 90,515 | 🐛 3,535 | 🌐 Python | 📅 2026-09-15
+### [Home Assistant](https://github.com/home-assistant/core) ⭐ 90,544 | 🐛 3,540 | 🌐 Python | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/13844975?v=4" width="40" height="40" alt="Home Assistant logo">
 
-[![Stars](https://img.shields.io/github/stars/home-assistant/core?style=flat-square\&label=stars)](https://github.com/home-assistant/core/stargazers) ⭐ 90,515 | 🐛 3,535 | 🌐 Python | 📅 2026-09-15 [![License](https://img.shields.io/github/license/home-assistant/core?style=flat-square)](https://github.com/home-assistant/core) ⭐ 90,515 | 🐛 3,535 | 🌐 Python | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/home-assistant/core?style=flat-square)](https://github.com/home-assistant/core/commits) ⭐ 90,515 | 🐛 3,535 | 🌐 Python | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/home-assistant/core?style=flat-square\&label=stars)](https://github.com/home-assistant/core/stargazers) ⭐ 90,544 | 🐛 3,540 | 🌐 Python | 📅 2026-09-16 [![License](https://img.shields.io/github/license/home-assistant/core?style=flat-square)](https://github.com/home-assistant/core) ⭐ 90,544 | 🐛 3,540 | 🌐 Python | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/home-assistant/core?style=flat-square)](https://github.com/home-assistant/core/commits) ⭐ 90,544 | 🐛 3,540 | 🌐 Python | 📅 2026-09-16
 
 An open-source home-automation platform that puts local control and privacy first, and a self-hostable alternative to SmartThings, Google Home, and Alexa routines. Home Assistant connects 3,000+ integrations, runs automations entirely on your own hardware, and offers customizable dashboards, a voice assistant, and energy monitoring.
 
@@ -928,11 +928,11 @@ An open-source home-automation platform that puts local control and privacy firs
 
 ***
 
-### [Olares](https://github.com/beclab/Olares) ⭐ 5,272 | 🐛 158 | 🌐 Go | 📅 2026-09-15
+### [Olares](https://github.com/beclab/Olares) ⭐ 5,272 | 🐛 155 | 🌐 Go | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/166520503?v=4" width="40" height="40" alt="Olares logo">
 
-[![Stars](https://img.shields.io/github/stars/beclab/Olares?style=flat-square\&label=stars)](https://github.com/beclab/Olares/stargazers) ⭐ 5,272 | 🐛 158 | 🌐 Go | 📅 2026-09-15 [![License](https://img.shields.io/github/license/beclab/Olares?style=flat-square)](https://github.com/beclab/Olares) ⭐ 5,272 | 🐛 158 | 🌐 Go | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/beclab/Olares?style=flat-square)](https://github.com/beclab/Olares/commits) ⭐ 5,272 | 🐛 158 | 🌐 Go | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/beclab/Olares?style=flat-square\&label=stars)](https://github.com/beclab/Olares/stargazers) ⭐ 5,272 | 🐛 155 | 🌐 Go | 📅 2026-09-16 [![License](https://img.shields.io/github/license/beclab/Olares?style=flat-square)](https://github.com/beclab/Olares) ⭐ 5,272 | 🐛 155 | 🌐 Go | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/beclab/Olares?style=flat-square)](https://github.com/beclab/Olares/commits) ⭐ 5,272 | 🐛 155 | 🌐 Go | 📅 2026-09-16
 
 Olares is an open-source personal cloud operating system that lets you host your digital life on your own hardware. It provides self-hosted alternatives to public cloud services, covering AI model hosting, file storage, media servers, and smart home control. Built on Kubernetes, it offers enterprise-grade security, a sandboxed app ecosystem, and seamless remote access from any device.
 
@@ -946,11 +946,11 @@ Olares is an open-source personal cloud operating system that lets you host your
 
 ## Internal Tool Development Platforms
 
-### [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,878 | 🐛 4,473 | 🌐 TypeScript | 📅 2026-09-15
+### [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,884 | 🐛 4,469 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/67620218?v=4" width="40" height="40" alt="Appsmith logo">
 
-[![Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=flat-square\&label=stars)](https://github.com/appsmithorg/appsmith/stargazers) ⭐ 40,878 | 🐛 4,473 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/appsmithorg/appsmith?style=flat-square)](https://github.com/appsmithorg/appsmith) ⭐ 40,878 | 🐛 4,473 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/appsmithorg/appsmith?style=flat-square)](https://github.com/appsmithorg/appsmith/commits) ⭐ 40,878 | 🐛 4,473 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=flat-square\&label=stars)](https://github.com/appsmithorg/appsmith/stargazers) ⭐ 40,884 | 🐛 4,469 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/appsmithorg/appsmith?style=flat-square)](https://github.com/appsmithorg/appsmith) ⭐ 40,884 | 🐛 4,469 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/appsmithorg/appsmith?style=flat-square)](https://github.com/appsmithorg/appsmith/commits) ⭐ 40,884 | 🐛 4,469 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source low-code platform and a self-hostable alternative to Retool for building internal tools, admin panels, and dashboards. Appsmith connects to 25+ databases and any REST or GraphQL API, pairs a drag-and-drop UI builder with pre-built widgets, and lets developers add logic in JavaScript — with no per-user cost when self-hosted.
 
@@ -962,11 +962,11 @@ An open-source low-code platform and a self-hostable alternative to Retool for b
 
 ***
 
-### [Budibase](https://github.com/Budibase/budibase) ⭐ 28,283 | 🐛 267 | 🌐 TypeScript | 📅 2026-09-15
+### [Budibase](https://github.com/Budibase/budibase) ⭐ 28,286 | 🐛 270 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/45009727?v=4" width="40" height="40" alt="Budibase logo">
 
-[![Stars](https://img.shields.io/github/stars/Budibase/budibase?style=flat-square\&label=stars)](https://github.com/Budibase/budibase/stargazers) ⭐ 28,283 | 🐛 267 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/Budibase/budibase?style=flat-square)](https://github.com/Budibase/budibase) ⭐ 28,283 | 🐛 267 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/Budibase/budibase?style=flat-square)](https://github.com/Budibase/budibase/commits) ⭐ 28,283 | 🐛 267 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/Budibase/budibase?style=flat-square\&label=stars)](https://github.com/Budibase/budibase/stargazers) ⭐ 28,286 | 🐛 270 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/Budibase/budibase?style=flat-square)](https://github.com/Budibase/budibase) ⭐ 28,286 | 🐛 270 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/Budibase/budibase?style=flat-square)](https://github.com/Budibase/budibase/commits) ⭐ 28,286 | 🐛 270 | 🌐 TypeScript | 📅 2026-09-16
 
 Budibase is an open-source low-code platform for internal tools, and a self-hosted alternative to Retool. You connect an existing SQL database, REST API, or spreadsheet — or use its built-in database — then assemble screens, forms, and automations from prebuilt components. Apps are deployed from the same tool, either to Budibase's own runtime or via Docker and Kubernetes.
 
@@ -980,11 +980,11 @@ Budibase is an open-source low-code platform for internal tools, and a self-host
 
 ## Knowledge Base Management Systems
 
-### [Outline](https://github.com/outline/outline) ⭐ 40,550 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-14
+### [Outline](https://github.com/outline/outline) ⭐ 40,562 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/1765001?v=4" width="40" height="40" alt="Outline logo">
 
-[![Stars](https://img.shields.io/github/stars/outline/outline?style=flat-square\&label=stars)](https://github.com/outline/outline/stargazers) ⭐ 40,550 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-14 [![License](https://img.shields.io/github/license/outline/outline?style=flat-square)](https://github.com/outline/outline) ⭐ 40,550 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/outline/outline?style=flat-square)](https://github.com/outline/outline/commits) ⭐ 40,550 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/outline/outline?style=flat-square\&label=stars)](https://github.com/outline/outline/stargazers) ⭐ 40,562 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/outline/outline?style=flat-square)](https://github.com/outline/outline) ⭐ 40,562 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/outline/outline?style=flat-square)](https://github.com/outline/outline/commits) ⭐ 40,562 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-16
 
 A collaborative knowledge base platform for teams, built with React and Node.js, offering an intuitive way to share and organize information.
 
@@ -996,11 +996,11 @@ A collaborative knowledge base platform for teams, built with React and Node.js,
 
 ***
 
-### [BookStack](https://github.com/BookStackApp/BookStack) ⭐ 19,042 | 🐛 3 | 🌐 PHP | 📅 2026-09-15
+### [BookStack](https://github.com/BookStackApp/BookStack) ⭐ 19,043 | 🐛 3 | 🌐 PHP | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/20912696?v=4" width="40" height="40" alt="BookStack logo">
 
-[![Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=flat-square\&label=stars)](https://github.com/BookStackApp/BookStack/stargazers) ⭐ 19,042 | 🐛 3 | 🌐 PHP | 📅 2026-09-15 [![License](https://img.shields.io/github/license/BookStackApp/BookStack?style=flat-square)](https://github.com/BookStackApp/BookStack) ⭐ 19,042 | 🐛 3 | 🌐 PHP | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/BookStackApp/BookStack?style=flat-square)](https://github.com/BookStackApp/BookStack/commits) ⭐ 19,042 | 🐛 3 | 🌐 PHP | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=flat-square\&label=stars)](https://github.com/BookStackApp/BookStack/stargazers) ⭐ 19,043 | 🐛 3 | 🌐 PHP | 📅 2026-09-16 [![License](https://img.shields.io/github/license/BookStackApp/BookStack?style=flat-square)](https://github.com/BookStackApp/BookStack) ⭐ 19,043 | 🐛 3 | 🌐 PHP | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/BookStackApp/BookStack?style=flat-square)](https://github.com/BookStackApp/BookStack/commits) ⭐ 19,043 | 🐛 3 | 🌐 PHP | 📅 2026-09-16
 
 BookStack is an open-source wiki and documentation platform, and a self-hosted alternative to Confluence. Content is organized into a deliberate three-level hierarchy — shelves hold books, books hold chapters and pages — which keeps large knowledge bases navigable. It ships WYSIWYG and Markdown editors, a diagrams.net integration, full-text search, page revisions, and SSO via SAML2, OIDC, and LDAP.
 
@@ -1014,11 +1014,11 @@ BookStack is an open-source wiki and documentation platform, and a self-hosted a
 
 ## Personal Finance Management Tools
 
-### [Actual Budget](https://github.com/actualbudget/actual) ⭐ 28,833 | 🐛 244 | 🌐 TypeScript | 📅 2026-09-15
+### [Actual Budget](https://github.com/actualbudget/actual) ⭐ 28,940 | 🐛 252 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/37879538?v=4" width="40" height="40" alt="Actual Budget logo">
 
-[![Stars](https://img.shields.io/github/stars/actualbudget/actual?style=flat-square\&label=stars)](https://github.com/actualbudget/actual/stargazers) ⭐ 28,833 | 🐛 244 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/actualbudget/actual?style=flat-square)](https://github.com/actualbudget/actual) ⭐ 28,833 | 🐛 244 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/actualbudget/actual?style=flat-square)](https://github.com/actualbudget/actual/commits) ⭐ 28,833 | 🐛 244 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/actualbudget/actual?style=flat-square\&label=stars)](https://github.com/actualbudget/actual/stargazers) ⭐ 28,940 | 🐛 252 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/actualbudget/actual?style=flat-square)](https://github.com/actualbudget/actual) ⭐ 28,940 | 🐛 252 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/actualbudget/actual?style=flat-square)](https://github.com/actualbudget/actual/commits) ⭐ 28,940 | 🐛 252 | 🌐 TypeScript | 📅 2026-09-16
 
 Actual Budget is an open-source, local-first personal finance app built around zero-based (envelope) budgeting, and a self-hosted alternative to YNAB. Every budget is a local file that works fully offline, with optional end-to-end encrypted sync across devices. It imports transactions by file or bank-sync integrations and includes rules, scheduled transactions, and reporting.
 
@@ -1030,11 +1030,11 @@ Actual Budget is an open-source, local-first personal finance app built around z
 
 ***
 
-### [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,635 | 🐛 161 | 🌐 PHP | 📅 2026-09-15
+### [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,642 | 🐛 164 | 🌐 PHP | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/22821986?v=4" width="40" height="40" alt="Firefly III logo">
 
-[![Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=flat-square\&label=stars)](https://github.com/firefly-iii/firefly-iii/stargazers) ⭐ 24,635 | 🐛 161 | 🌐 PHP | 📅 2026-09-15 [![License](https://img.shields.io/github/license/firefly-iii/firefly-iii?style=flat-square)](https://github.com/firefly-iii/firefly-iii) ⭐ 24,635 | 🐛 161 | 🌐 PHP | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/firefly-iii/firefly-iii?style=flat-square)](https://github.com/firefly-iii/firefly-iii/commits) ⭐ 24,635 | 🐛 161 | 🌐 PHP | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=flat-square\&label=stars)](https://github.com/firefly-iii/firefly-iii/stargazers) ⭐ 24,642 | 🐛 164 | 🌐 PHP | 📅 2026-09-16 [![License](https://img.shields.io/github/license/firefly-iii/firefly-iii?style=flat-square)](https://github.com/firefly-iii/firefly-iii) ⭐ 24,642 | 🐛 164 | 🌐 PHP | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/firefly-iii/firefly-iii?style=flat-square)](https://github.com/firefly-iii/firefly-iii/commits) ⭐ 24,642 | 🐛 164 | 🌐 PHP | 📅 2026-09-16
 
 Firefly III is an open-source personal finance manager built on a double-entry ledger, and a self-hosted alternative to Mint. Every transaction moves money between accounts, so balances always reconcile. A companion Data Importer pulls transactions from CSV files and bank-sync providers (GoCardless, SimpleFIN, Spectre), and a rules engine categorizes them on the way in.
 
@@ -1048,11 +1048,11 @@ Firefly III is an open-source personal finance manager built on a double-entry l
 
 ## Platform as a Service Development Tools
 
-### [Coolify](https://github.com/coollabsio/coolify) ⭐ 61,800 | 🐛 686 | 🌐 PHP | 📅 2026-09-15
+### [Coolify](https://github.com/coollabsio/coolify) ⭐ 61,855 | 🐛 697 | 🌐 PHP | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/60715044?v=4" width="40" height="40" alt="Coolify logo">
 
-[![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=flat-square\&label=stars)](https://github.com/coollabsio/coolify/stargazers) ⭐ 61,800 | 🐛 686 | 🌐 PHP | 📅 2026-09-15 [![License](https://img.shields.io/github/license/coollabsio/coolify?style=flat-square)](https://github.com/coollabsio/coolify) ⭐ 61,800 | 🐛 686 | 🌐 PHP | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/coollabsio/coolify?style=flat-square)](https://github.com/coollabsio/coolify/commits) ⭐ 61,800 | 🐛 686 | 🌐 PHP | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=flat-square\&label=stars)](https://github.com/coollabsio/coolify/stargazers) ⭐ 61,855 | 🐛 697 | 🌐 PHP | 📅 2026-09-16 [![License](https://img.shields.io/github/license/coollabsio/coolify?style=flat-square)](https://github.com/coollabsio/coolify) ⭐ 61,855 | 🐛 697 | 🌐 PHP | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/coollabsio/coolify?style=flat-square)](https://github.com/coollabsio/coolify/commits) ⭐ 61,855 | 🐛 697 | 🌐 PHP | 📅 2026-09-16
 
 An open-source, self-hostable alternative to cloud deployment platforms like Heroku, Netlify, and Vercel. Enables users to manage servers, applications, and databases using their own hardware with just an SSH connection.
 
@@ -1064,11 +1064,11 @@ An open-source, self-hostable alternative to cloud deployment platforms like Her
 
 ***
 
-### [Dokploy](https://github.com/Dokploy/dokploy) ⭐ 37,304 | 🐛 706 | 🌐 TypeScript | 📅 2026-09-14
+### [Dokploy](https://github.com/Dokploy/dokploy) ⭐ 37,324 | 🐛 711 | 🌐 TypeScript | 📅 2026-09-14
 
 <img src="https://avatars.githubusercontent.com/u/156882017?v=4" width="40" height="40" alt="Dokploy logo">
 
-[![Stars](https://img.shields.io/github/stars/Dokploy/dokploy?style=flat-square\&label=stars)](https://github.com/Dokploy/dokploy/stargazers) ⭐ 37,304 | 🐛 706 | 🌐 TypeScript | 📅 2026-09-14 [![License](https://img.shields.io/github/license/Dokploy/dokploy?style=flat-square)](https://github.com/Dokploy/dokploy) ⭐ 37,304 | 🐛 706 | 🌐 TypeScript | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/Dokploy/dokploy?style=flat-square)](https://github.com/Dokploy/dokploy/commits) ⭐ 37,304 | 🐛 706 | 🌐 TypeScript | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/Dokploy/dokploy?style=flat-square\&label=stars)](https://github.com/Dokploy/dokploy/stargazers) ⭐ 37,324 | 🐛 711 | 🌐 TypeScript | 📅 2026-09-14 [![License](https://img.shields.io/github/license/Dokploy/dokploy?style=flat-square)](https://github.com/Dokploy/dokploy) ⭐ 37,324 | 🐛 711 | 🌐 TypeScript | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/Dokploy/dokploy?style=flat-square)](https://github.com/Dokploy/dokploy/commits) ⭐ 37,324 | 🐛 711 | 🌐 TypeScript | 📅 2026-09-14
 
 Dokploy is a free, self-hostable Platform as a Service that simplifies the deployment and management of applications and databases.
 
@@ -1082,11 +1082,11 @@ Dokploy is a free, self-hostable Platform as a Service that simplifies the deplo
 
 ## Product Analytics & User Tracking Tools
 
-### [PostHog](https://github.com/posthog/posthog) ⭐ 39,805 | 🐛 5,523 | 🌐 Python | 📅 2026-09-15
+### [PostHog](https://github.com/posthog/posthog) ⭐ 39,818 | 🐛 5,548 | 🌐 Python | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/60330232?v=4" width="40" height="40" alt="PostHog logo">
 
-[![Stars](https://img.shields.io/github/stars/posthog/posthog?style=flat-square\&label=stars)](https://github.com/posthog/posthog/stargazers) ⭐ 39,805 | 🐛 5,523 | 🌐 Python | 📅 2026-09-15 [![License](https://img.shields.io/github/license/posthog/posthog?style=flat-square)](https://github.com/posthog/posthog) ⭐ 39,805 | 🐛 5,523 | 🌐 Python | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/posthog/posthog?style=flat-square)](https://github.com/posthog/posthog/commits) ⭐ 39,805 | 🐛 5,523 | 🌐 Python | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/posthog/posthog?style=flat-square\&label=stars)](https://github.com/posthog/posthog/stargazers) ⭐ 39,818 | 🐛 5,548 | 🌐 Python | 📅 2026-09-16 [![License](https://img.shields.io/github/license/posthog/posthog?style=flat-square)](https://github.com/posthog/posthog) ⭐ 39,818 | 🐛 5,548 | 🌐 Python | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/posthog/posthog?style=flat-square)](https://github.com/posthog/posthog/commits) ⭐ 39,818 | 🐛 5,548 | 🌐 Python | 📅 2026-09-16
 
 An open-source platform that helps product teams build and improve their software by providing comprehensive analytics, user insights, and experimentation tools.
 
@@ -1098,11 +1098,11 @@ An open-source platform that helps product teams build and improve their softwar
 
 ***
 
-### [OpenReplay](https://github.com/openreplay/openreplay) ⭐ 12,859 | 🐛 182 | 🌐 TypeScript | 📅 2026-09-15
+### [OpenReplay](https://github.com/openreplay/openreplay) ⭐ 12,863 | 🐛 182 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/81692971?v=4" width="40" height="40" alt="OpenReplay logo">
 
-[![Stars](https://img.shields.io/github/stars/openreplay/openreplay?style=flat-square\&label=stars)](https://github.com/openreplay/openreplay/stargazers) ⭐ 12,859 | 🐛 182 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/openreplay/openreplay?style=flat-square)](https://github.com/openreplay/openreplay) ⭐ 12,859 | 🐛 182 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/openreplay/openreplay?style=flat-square)](https://github.com/openreplay/openreplay/commits) ⭐ 12,859 | 🐛 182 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/openreplay/openreplay?style=flat-square\&label=stars)](https://github.com/openreplay/openreplay/stargazers) ⭐ 12,863 | 🐛 182 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/openreplay/openreplay?style=flat-square)](https://github.com/openreplay/openreplay) ⭐ 12,863 | 🐛 182 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/openreplay/openreplay?style=flat-square)](https://github.com/openreplay/openreplay/commits) ⭐ 12,863 | 🐛 182 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source session replay platform that helps developers understand user interactions and troubleshoot web application issues by capturing comprehensive session data.
 
@@ -1116,11 +1116,11 @@ An open-source session replay platform that helps developers understand user int
 
 ## Software Development & DevOps Tools
 
-### [Gitea](https://github.com/go-gitea/gitea) ⭐ 57,990 | 🐛 2,466 | 🌐 Go | 📅 2026-09-15
+### [Gitea](https://github.com/go-gitea/gitea) ⭐ 58,011 | 🐛 2,460 | 🌐 Go | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/12724356?v=4" width="40" height="40" alt="Gitea logo">
 
-[![Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=flat-square\&label=stars)](https://github.com/go-gitea/gitea/stargazers) ⭐ 57,990 | 🐛 2,466 | 🌐 Go | 📅 2026-09-15 [![License](https://img.shields.io/github/license/go-gitea/gitea?style=flat-square)](https://github.com/go-gitea/gitea) ⭐ 57,990 | 🐛 2,466 | 🌐 Go | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/go-gitea/gitea?style=flat-square)](https://github.com/go-gitea/gitea/commits) ⭐ 57,990 | 🐛 2,466 | 🌐 Go | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=flat-square\&label=stars)](https://github.com/go-gitea/gitea/stargazers) ⭐ 58,011 | 🐛 2,460 | 🌐 Go | 📅 2026-09-16 [![License](https://img.shields.io/github/license/go-gitea/gitea?style=flat-square)](https://github.com/go-gitea/gitea) ⭐ 58,011 | 🐛 2,460 | 🌐 Go | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/go-gitea/gitea?style=flat-square)](https://github.com/go-gitea/gitea/commits) ⭐ 58,011 | 🐛 2,460 | 🌐 Go | 📅 2026-09-16
 
 A painless, self-hosted all-in-one software-development service and a lightweight alternative to GitHub and GitLab. Gitea provides Git hosting, code review, issues and pull requests, a package registry, and built-in Actions-compatible CI/CD from a single Go binary that comfortably runs in under 512 MB of RAM.
 
@@ -1132,11 +1132,11 @@ A painless, self-hosted all-in-one software-development service and a lightweigh
 
 ***
 
-### [GitLab CE](https://github.com/gitlabhq/gitlabhq) ⭐ 24,540 | 🐛 36 | 🌐 Ruby | 📅 2026-09-15
+### [GitLab CE](https://github.com/gitlabhq/gitlabhq) ⭐ 24,539 | 🐛 36 | 🌐 Ruby | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/1086321?v=4" width="40" height="40" alt="GitLab CE logo">
 
-[![Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=flat-square\&label=stars)](https://github.com/gitlabhq/gitlabhq/stargazers) ⭐ 24,540 | 🐛 36 | 🌐 Ruby | 📅 2026-09-15 [![License](https://img.shields.io/github/license/gitlabhq/gitlabhq?style=flat-square)](https://github.com/gitlabhq/gitlabhq) ⭐ 24,540 | 🐛 36 | 🌐 Ruby | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/gitlabhq/gitlabhq?style=flat-square)](https://github.com/gitlabhq/gitlabhq/commits) ⭐ 24,540 | 🐛 36 | 🌐 Ruby | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=flat-square\&label=stars)](https://github.com/gitlabhq/gitlabhq/stargazers) ⭐ 24,539 | 🐛 36 | 🌐 Ruby | 📅 2026-09-16 [![License](https://img.shields.io/github/license/gitlabhq/gitlabhq?style=flat-square)](https://github.com/gitlabhq/gitlabhq) ⭐ 24,539 | 🐛 36 | 🌐 Ruby | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/gitlabhq/gitlabhq?style=flat-square)](https://github.com/gitlabhq/gitlabhq/commits) ⭐ 24,539 | 🐛 36 | 🌐 Ruby | 📅 2026-09-16
 
 GitLab Community Edition is an open-source, self-hosted DevOps platform, and an alternative to GitHub and Bitbucket that folds source hosting, code review, CI/CD, and issue tracking into one application. A single install gives teams Git repositories, merge requests, pipelines, a container registry, and project planning without wiring separate services together. The MIT-licensed CE is free to run at any scale.
 
@@ -1150,11 +1150,11 @@ GitLab Community Edition is an open-source, self-hosted DevOps platform, and an 
 
 ## Team Productivity & Collaboration Tools
 
-### [Maccy](https://github.com/p0deje/Maccy) ⭐ 21,589 | 🐛 177 | 🌐 Swift | 📅 2026-09-04
+### [Maccy](https://github.com/p0deje/Maccy) ⭐ 21,601 | 🐛 179 | 🌐 Swift | 📅 2026-09-04
 
 <img src="https://maccy.app/img/maccy/Logo.png" width="40" height="40" alt="Maccy logo">
 
-[![Stars](https://img.shields.io/github/stars/p0deje/Maccy?style=flat-square\&label=stars)](https://github.com/p0deje/Maccy/stargazers) ⭐ 21,589 | 🐛 177 | 🌐 Swift | 📅 2026-09-04 [![License](https://img.shields.io/github/license/p0deje/Maccy?style=flat-square)](https://github.com/p0deje/Maccy) ⭐ 21,589 | 🐛 177 | 🌐 Swift | 📅 2026-09-04 [![Last Commit](https://img.shields.io/github/last-commit/p0deje/Maccy?style=flat-square)](https://github.com/p0deje/Maccy/commits) ⭐ 21,589 | 🐛 177 | 🌐 Swift | 📅 2026-09-04
+[![Stars](https://img.shields.io/github/stars/p0deje/Maccy?style=flat-square\&label=stars)](https://github.com/p0deje/Maccy/stargazers) ⭐ 21,601 | 🐛 179 | 🌐 Swift | 📅 2026-09-04 [![License](https://img.shields.io/github/license/p0deje/Maccy?style=flat-square)](https://github.com/p0deje/Maccy) ⭐ 21,601 | 🐛 179 | 🌐 Swift | 📅 2026-09-04 [![Last Commit](https://img.shields.io/github/last-commit/p0deje/Maccy?style=flat-square)](https://github.com/p0deje/Maccy/commits) ⭐ 21,601 | 🐛 179 | 🌐 Swift | 📅 2026-09-04
 
 Maccy is a lightweight clipboard manager for macOS. It stores your copy history and allows you to quickly search, navigate, and reuse clipboard contents. Designed with speed and simplicity in mind, it offers a native macOS experience. Maccy prioritizes privacy and does not share your data.
 
@@ -1166,11 +1166,11 @@ Maccy is a lightweight clipboard manager for macOS. It stores your copy history 
 
 ***
 
-### [Loro](https://github.com/loro-dev/loro) ⭐ 6,139 | 🐛 56 | 🌐 Rust | 📅 2026-09-10
+### [Loro](https://github.com/loro-dev/loro) ⭐ 6,142 | 🐛 56 | 🌐 Rust | 📅 2026-09-10
 
 <img src="https://avatars.githubusercontent.com/u/107859557?v=4" width="40" height="40" alt="Loro logo">
 
-[![Stars](https://img.shields.io/github/stars/loro-dev/loro?style=flat-square\&label=stars)](https://github.com/loro-dev/loro/stargazers) ⭐ 6,139 | 🐛 56 | 🌐 Rust | 📅 2026-09-10 [![License](https://img.shields.io/github/license/loro-dev/loro?style=flat-square)](https://github.com/loro-dev/loro) ⭐ 6,139 | 🐛 56 | 🌐 Rust | 📅 2026-09-10 [![Last Commit](https://img.shields.io/github/last-commit/loro-dev/loro?style=flat-square)](https://github.com/loro-dev/loro/commits) ⭐ 6,139 | 🐛 56 | 🌐 Rust | 📅 2026-09-10
+[![Stars](https://img.shields.io/github/stars/loro-dev/loro?style=flat-square\&label=stars)](https://github.com/loro-dev/loro/stargazers) ⭐ 6,142 | 🐛 56 | 🌐 Rust | 📅 2026-09-10 [![License](https://img.shields.io/github/license/loro-dev/loro?style=flat-square)](https://github.com/loro-dev/loro) ⭐ 6,142 | 🐛 56 | 🌐 Rust | 📅 2026-09-10 [![Last Commit](https://img.shields.io/github/last-commit/loro-dev/loro?style=flat-square)](https://github.com/loro-dev/loro/commits) ⭐ 6,142 | 🐛 56 | 🌐 Rust | 📅 2026-09-10
 
 Loro is a CRDT (Conflict-free Replicated Data Types) library that makes it easy to build collaborative, local-first applications. It offers automatic merging, offline availability, and fast synchronization across peers.
 
@@ -1180,11 +1180,11 @@ Loro is a CRDT (Conflict-free Replicated Data Types) library that makes it easy 
 
 ## Time Tracking & Productivity Tools
 
-### [SolidTime](https://github.com/solidtime-io/solidtime) ⭐ 8,923 | 🐛 32 | 🌐 PHP | 📅 2026-09-14
+### [SolidTime](https://github.com/solidtime-io/solidtime) ⭐ 8,922 | 🐛 31 | 🌐 PHP | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/156823565?v=4" width="40" height="40" alt="SolidTime logo">
 
-[![Stars](https://img.shields.io/github/stars/solidtime-io/solidtime?style=flat-square\&label=stars)](https://github.com/solidtime-io/solidtime/stargazers) ⭐ 8,923 | 🐛 32 | 🌐 PHP | 📅 2026-09-14 [![License](https://img.shields.io/github/license/solidtime-io/solidtime?style=flat-square)](https://github.com/solidtime-io/solidtime) ⭐ 8,923 | 🐛 32 | 🌐 PHP | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/solidtime-io/solidtime?style=flat-square)](https://github.com/solidtime-io/solidtime/commits) ⭐ 8,923 | 🐛 32 | 🌐 PHP | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/solidtime-io/solidtime?style=flat-square\&label=stars)](https://github.com/solidtime-io/solidtime/stargazers) ⭐ 8,922 | 🐛 31 | 🌐 PHP | 📅 2026-09-16 [![License](https://img.shields.io/github/license/solidtime-io/solidtime?style=flat-square)](https://github.com/solidtime-io/solidtime) ⭐ 8,922 | 🐛 31 | 🌐 PHP | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/solidtime-io/solidtime?style=flat-square)](https://github.com/solidtime-io/solidtime/commits) ⭐ 8,922 | 🐛 31 | 🌐 PHP | 📅 2026-09-16
 
 Solidtime is an open‑source time tracking tool designed for freelancers and agencies. It offers a clean, modern interface and supports managing projects, tasks, and clients. Users can work across multiple organizations and customize billing rates. The platform also provides import tools for migrating from other trackers.
 
@@ -1194,11 +1194,11 @@ Solidtime is an open‑source time tracking tool designed for freelancers and ag
 
 ***
 
-### [Kimai](https://github.com/kimai/kimai) ⭐ 4,999 | 🐛 349 | 🌐 PHP | 📅 2026-09-15
+### [Kimai](https://github.com/kimai/kimai) ⭐ 5,000 | 🐛 350 | 🌐 PHP | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/981996?v=4" width="40" height="40" alt="Kimai logo">
 
-[![Stars](https://img.shields.io/github/stars/kimai/kimai?style=flat-square\&label=stars)](https://github.com/kimai/kimai/stargazers) ⭐ 4,999 | 🐛 349 | 🌐 PHP | 📅 2026-09-15 [![License](https://img.shields.io/github/license/kimai/kimai?style=flat-square)](https://github.com/kimai/kimai) ⭐ 4,999 | 🐛 349 | 🌐 PHP | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/kimai/kimai?style=flat-square)](https://github.com/kimai/kimai/commits) ⭐ 4,999 | 🐛 349 | 🌐 PHP | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/kimai/kimai?style=flat-square\&label=stars)](https://github.com/kimai/kimai/stargazers) ⭐ 5,000 | 🐛 350 | 🌐 PHP | 📅 2026-09-16 [![License](https://img.shields.io/github/license/kimai/kimai?style=flat-square)](https://github.com/kimai/kimai) ⭐ 5,000 | 🐛 350 | 🌐 PHP | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/kimai/kimai?style=flat-square)](https://github.com/kimai/kimai/commits) ⭐ 5,000 | 🐛 350 | 🌐 PHP | 📅 2026-09-16
 
 Kimai is an open-source, multi-user time-tracking application, and a self-hosted alternative to Toggl and Harvest. Time is logged against a customer → project → activity hierarchy, with hourly or fixed rates, rounding rules, and budgets. It exports to CSV, PDF, and spreadsheet formats, generates invoices from templates, and has a plugin marketplace plus a REST API.
 
@@ -1212,11 +1212,11 @@ Kimai is an open-source, multi-user time-tracking application, and a self-hosted
 
 ## Appointment & Resource Scheduling Tools
 
-### [Cal.com](https://github.com/calcom/cal.diy) ⭐ 48,481 | 🐛 1,412 | 🌐 TypeScript | 📅 2026-09-14
+### [Cal.com](https://github.com/calcom/cal.diy) ⭐ 48,508 | 🐛 1,405 | 🌐 TypeScript | 📅 2026-09-14
 
 <img src="https://avatars.githubusercontent.com/u/79145102?v=4" width="40" height="40" alt="Cal.com logo">
 
-[![Stars](https://img.shields.io/github/stars/calcom/cal.diy?style=flat-square\&label=stars)](https://github.com/calcom/cal.diy/stargazers) ⭐ 48,481 | 🐛 1,412 | 🌐 TypeScript | 📅 2026-09-14 [![License](https://img.shields.io/github/license/calcom/cal.diy?style=flat-square)](https://github.com/calcom/cal.diy) ⭐ 48,481 | 🐛 1,412 | 🌐 TypeScript | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/calcom/cal.diy?style=flat-square)](https://github.com/calcom/cal.diy/commits) ⭐ 48,481 | 🐛 1,412 | 🌐 TypeScript | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/calcom/cal.diy?style=flat-square\&label=stars)](https://github.com/calcom/cal.diy/stargazers) ⭐ 48,508 | 🐛 1,405 | 🌐 TypeScript | 📅 2026-09-14 [![License](https://img.shields.io/github/license/calcom/cal.diy?style=flat-square)](https://github.com/calcom/cal.diy) ⭐ 48,508 | 🐛 1,405 | 🌐 TypeScript | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/calcom/cal.diy?style=flat-square)](https://github.com/calcom/cal.diy/commits) ⭐ 48,508 | 🐛 1,405 | 🌐 TypeScript | 📅 2026-09-14
 
 An open-source scheduling infrastructure that gives users full control over their scheduling workflow, data, and appearance. Designed as a flexible, self-hostable alternative to Calendly.
 
@@ -1230,11 +1230,11 @@ An open-source scheduling infrastructure that gives users full control over thei
 
 ## Community & Forum Management Platforms
 
-### [Discourse](https://github.com/discourse/discourse) ⭐ 47,839 | 🐛 206 | 🌐 Ruby | 📅 2026-09-15
+### [Discourse](https://github.com/discourse/discourse) ⭐ 47,844 | 🐛 214 | 🌐 Ruby | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/3220138?v=4" width="40" height="40" alt="Discourse logo">
 
-[![Stars](https://img.shields.io/github/stars/discourse/discourse?style=flat-square\&label=stars)](https://github.com/discourse/discourse/stargazers) ⭐ 47,839 | 🐛 206 | 🌐 Ruby | 📅 2026-09-15 [![License](https://img.shields.io/github/license/discourse/discourse?style=flat-square)](https://github.com/discourse/discourse) ⭐ 47,839 | 🐛 206 | 🌐 Ruby | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/discourse/discourse?style=flat-square)](https://github.com/discourse/discourse/commits) ⭐ 47,839 | 🐛 206 | 🌐 Ruby | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/discourse/discourse?style=flat-square\&label=stars)](https://github.com/discourse/discourse/stargazers) ⭐ 47,844 | 🐛 214 | 🌐 Ruby | 📅 2026-09-16 [![License](https://img.shields.io/github/license/discourse/discourse?style=flat-square)](https://github.com/discourse/discourse) ⭐ 47,844 | 🐛 214 | 🌐 Ruby | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/discourse/discourse?style=flat-square)](https://github.com/discourse/discourse/commits) ⭐ 47,844 | 🐛 214 | 🌐 Ruby | 📅 2026-09-16
 
 An open-source community platform that provides a comprehensive solution for online discussions, real-time chat, and community engagement with extensive customization options.
 
@@ -1248,11 +1248,11 @@ An open-source community platform that provides a comprehensive solution for onl
 
 ## Cross-Platform Desktop Application Tools
 
-### [IINA](https://github.com/iina/iina) ⭐ 46,351 | 🐛 1,935 | 🌐 Swift | 📅 2026-09-15
+### [IINA](https://github.com/iina/iina) ⭐ 46,361 | 🐛 1,936 | 🌐 Swift | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/35151645?v=4" width="40" height="40" alt="IINA logo">
 
-[![Stars](https://img.shields.io/github/stars/iina/iina?style=flat-square\&label=stars)](https://github.com/iina/iina/stargazers) ⭐ 46,351 | 🐛 1,935 | 🌐 Swift | 📅 2026-09-15 [![License](https://img.shields.io/github/license/iina/iina?style=flat-square)](https://github.com/iina/iina) ⭐ 46,351 | 🐛 1,935 | 🌐 Swift | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/iina/iina?style=flat-square)](https://github.com/iina/iina/commits) ⭐ 46,351 | 🐛 1,935 | 🌐 Swift | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/iina/iina?style=flat-square\&label=stars)](https://github.com/iina/iina/stargazers) ⭐ 46,361 | 🐛 1,936 | 🌐 Swift | 📅 2026-09-16 [![License](https://img.shields.io/github/license/iina/iina?style=flat-square)](https://github.com/iina/iina) ⭐ 46,361 | 🐛 1,936 | 🌐 Swift | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/iina/iina?style=flat-square)](https://github.com/iina/iina/commits) ⭐ 46,361 | 🐛 1,936 | 🌐 Swift | 📅 2026-09-16
 
 A modern, feature-rich video player exclusively designed for macOS, offering advanced playback capabilities and a sleek user interface.
 
@@ -1266,11 +1266,11 @@ A modern, feature-rich video player exclusively designed for macOS, offering adv
 
 ## Customer Engagement & Support Platforms
 
-### [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 36,824 | 🐛 1,410 | 🌐 Ruby | 📅 2026-09-15
+### [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 36,861 | 🐛 1,420 | 🌐 Ruby | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/23416667?v=4" width="40" height="40" alt="Chatwoot logo">
 
-[![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=flat-square\&label=stars)](https://github.com/chatwoot/chatwoot/stargazers) ⭐ 36,824 | 🐛 1,410 | 🌐 Ruby | 📅 2026-09-15 [![License](https://img.shields.io/github/license/chatwoot/chatwoot?style=flat-square)](https://github.com/chatwoot/chatwoot) ⭐ 36,824 | 🐛 1,410 | 🌐 Ruby | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/chatwoot/chatwoot?style=flat-square)](https://github.com/chatwoot/chatwoot/commits) ⭐ 36,824 | 🐛 1,410 | 🌐 Ruby | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=flat-square\&label=stars)](https://github.com/chatwoot/chatwoot/stargazers) ⭐ 36,861 | 🐛 1,420 | 🌐 Ruby | 📅 2026-09-16 [![License](https://img.shields.io/github/license/chatwoot/chatwoot?style=flat-square)](https://github.com/chatwoot/chatwoot) ⭐ 36,861 | 🐛 1,420 | 🌐 Ruby | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/chatwoot/chatwoot?style=flat-square)](https://github.com/chatwoot/chatwoot/commits) ⭐ 36,861 | 🐛 1,420 | 🌐 Ruby | 📅 2026-09-16
 
 An open-source customer engagement platform that enables businesses to communicate with customers across multiple channels from a single dashboard.
 
@@ -1284,11 +1284,11 @@ An open-source customer engagement platform that enables businesses to communica
 
 ## Customer Relationship Management Systems
 
-### [Twenty](https://github.com/twentyhq/twenty) ⭐ 56,802 | 🐛 189 | 🌐 TypeScript | 📅 2026-09-15
+### [Twenty](https://github.com/twentyhq/twenty) ⭐ 56,871 | 🐛 201 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/119600397?v=4" width="40" height="40" alt="Twenty logo">
 
-[![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=flat-square\&label=stars)](https://github.com/twentyhq/twenty/stargazers) ⭐ 56,802 | 🐛 189 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/twentyhq/twenty?style=flat-square)](https://github.com/twentyhq/twenty) ⭐ 56,802 | 🐛 189 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/twentyhq/twenty?style=flat-square)](https://github.com/twentyhq/twenty/commits) ⭐ 56,802 | 🐛 189 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=flat-square\&label=stars)](https://github.com/twentyhq/twenty/stargazers) ⭐ 56,871 | 🐛 201 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/twentyhq/twenty?style=flat-square)](https://github.com/twentyhq/twenty) ⭐ 56,871 | 🐛 201 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/twentyhq/twenty?style=flat-square)](https://github.com/twentyhq/twenty/commits) ⭐ 56,871 | 🐛 201 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source CRM and a self-hostable alternative to Salesforce and HubSpot. Twenty offers a fast, keyboard-friendly interface for managing companies, contacts, and deals, with fully customizable objects and fields, a GraphQL and REST API, and a permission model teams can shape to their own sales process.
 
@@ -1302,11 +1302,11 @@ An open-source CRM and a self-hostable alternative to Salesforce and HubSpot. Tw
 
 ## Design & Prototyping Development Tools
 
-### [Penpot](https://github.com/penpot/penpot) ⭐ 60,019 | 🐛 807 | 🌐 Clojure | 📅 2026-09-15
+### [Penpot](https://github.com/penpot/penpot) ⭐ 60,049 | 🐛 813 | 🌐 Clojure | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/30179644?v=4" width="40" height="40" alt="Penpot logo">
 
-[![Stars](https://img.shields.io/github/stars/penpot/penpot?style=flat-square\&label=stars)](https://github.com/penpot/penpot/stargazers) ⭐ 60,019 | 🐛 807 | 🌐 Clojure | 📅 2026-09-15 [![License](https://img.shields.io/github/license/penpot/penpot?style=flat-square)](https://github.com/penpot/penpot) ⭐ 60,019 | 🐛 807 | 🌐 Clojure | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/penpot/penpot?style=flat-square)](https://github.com/penpot/penpot/commits) ⭐ 60,019 | 🐛 807 | 🌐 Clojure | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/penpot/penpot?style=flat-square\&label=stars)](https://github.com/penpot/penpot/stargazers) ⭐ 60,049 | 🐛 813 | 🌐 Clojure | 📅 2026-09-16 [![License](https://img.shields.io/github/license/penpot/penpot?style=flat-square)](https://github.com/penpot/penpot) ⭐ 60,049 | 🐛 813 | 🌐 Clojure | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/penpot/penpot?style=flat-square)](https://github.com/penpot/penpot/commits) ⭐ 60,049 | 🐛 813 | 🌐 Clojure | 📅 2026-09-16
 
 An open-source design and prototyping platform, and a self-hostable alternative to Figma and Sketch. Penpot runs in the browser, stores files as open SVG, and lets designers and developers work in one tool with real-time collaboration, interactive prototypes, Flex/Grid layouts, design tokens, and a free code-inspect panel.
 
@@ -1320,11 +1320,11 @@ An open-source design and prototyping platform, and a self-hostable alternative 
 
 ## Digital Marketing Automation Tools
 
-### [Mautic](https://github.com/mautic/mautic) ⭐ 10,506 | 🐛 191 | 🌐 PHP | 📅 2026-09-15
+### [Mautic](https://github.com/mautic/mautic) ⭐ 10,517 | 🐛 193 | 🌐 PHP | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/5257677?v=4" width="40" height="40" alt="Mautic logo">
 
-[![Stars](https://img.shields.io/github/stars/mautic/mautic?style=flat-square\&label=stars)](https://github.com/mautic/mautic/stargazers) ⭐ 10,506 | 🐛 191 | 🌐 PHP | 📅 2026-09-15 [![License](https://img.shields.io/github/license/mautic/mautic?style=flat-square)](https://github.com/mautic/mautic) ⭐ 10,506 | 🐛 191 | 🌐 PHP | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/mautic/mautic?style=flat-square)](https://github.com/mautic/mautic/commits) ⭐ 10,506 | 🐛 191 | 🌐 PHP | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/mautic/mautic?style=flat-square\&label=stars)](https://github.com/mautic/mautic/stargazers) ⭐ 10,517 | 🐛 193 | 🌐 PHP | 📅 2026-09-16 [![License](https://img.shields.io/github/license/mautic/mautic?style=flat-square)](https://github.com/mautic/mautic) ⭐ 10,517 | 🐛 193 | 🌐 PHP | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/mautic/mautic?style=flat-square)](https://github.com/mautic/mautic/commits) ⭐ 10,517 | 🐛 193 | 🌐 PHP | 📅 2026-09-16
 
 Mautic is an open-source marketing automation platform, and a self-hosted alternative to HubSpot, Marketo, and ActiveCampaign. It unifies contact management, email campaigns, landing pages, forms, and multi-step drip workflows, with lead scoring and segmentation deciding who receives what. Running on your own server means contact data and campaign analytics stay on your infrastructure, with no per-contact fees.
 
@@ -1338,11 +1338,11 @@ Mautic is an open-source marketing automation platform, and a self-hosted altern
 
 ## Digital Signature & Document Signing Tools
 
-### [Documenso](https://github.com/documenso/documenso) ⭐ 15,030 | 🐛 234 | 🌐 TypeScript | 📅 2026-09-15
+### [Documenso](https://github.com/documenso/documenso) ⭐ 15,043 | 🐛 221 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/127681099?v=4" width="40" height="40" alt="Documenso logo">
 
-[![Stars](https://img.shields.io/github/stars/documenso/documenso?style=flat-square\&label=stars)](https://github.com/documenso/documenso/stargazers) ⭐ 15,030 | 🐛 234 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/documenso/documenso?style=flat-square)](https://github.com/documenso/documenso) ⭐ 15,030 | 🐛 234 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/documenso/documenso?style=flat-square)](https://github.com/documenso/documenso/commits) ⭐ 15,030 | 🐛 234 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/documenso/documenso?style=flat-square\&label=stars)](https://github.com/documenso/documenso/stargazers) ⭐ 15,043 | 🐛 221 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/documenso/documenso?style=flat-square)](https://github.com/documenso/documenso) ⭐ 15,043 | 🐛 221 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/documenso/documenso?style=flat-square)](https://github.com/documenso/documenso/commits) ⭐ 15,043 | 🐛 221 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source digital document signing platform that aims to provide a trusted, self-hostable alternative to traditional signing tools, empowering users with transparency and control.
 
@@ -1356,11 +1356,11 @@ An open-source digital document signing platform that aims to provide a trusted,
 
 ## Distributed Cloud Storage Solutions
 
-### [Nextcloud](https://github.com/nextcloud/server) ⭐ 36,808 | 🐛 3,677 | 🌐 PHP | 📅 2026-09-15
+### [Nextcloud](https://github.com/nextcloud/server) ⭐ 36,814 | 🐛 3,687 | 🌐 PHP | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/19211038?v=4" width="40" height="40" alt="Nextcloud logo">
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/server?style=flat-square\&label=stars)](https://github.com/nextcloud/server/stargazers) ⭐ 36,808 | 🐛 3,677 | 🌐 PHP | 📅 2026-09-15 [![License](https://img.shields.io/github/license/nextcloud/server?style=flat-square)](https://github.com/nextcloud/server) ⭐ 36,808 | 🐛 3,677 | 🌐 PHP | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/nextcloud/server?style=flat-square)](https://github.com/nextcloud/server/commits) ⭐ 36,808 | 🐛 3,677 | 🌐 PHP | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/nextcloud/server?style=flat-square\&label=stars)](https://github.com/nextcloud/server/stargazers) ⭐ 36,814 | 🐛 3,687 | 🌐 PHP | 📅 2026-09-16 [![License](https://img.shields.io/github/license/nextcloud/server?style=flat-square)](https://github.com/nextcloud/server) ⭐ 36,814 | 🐛 3,687 | 🌐 PHP | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/nextcloud/server?style=flat-square)](https://github.com/nextcloud/server/commits) ⭐ 36,814 | 🐛 3,687 | 🌐 PHP | 📅 2026-09-16
 
 An open-source content-collaboration platform and a self-hostable alternative to Google Drive, Dropbox, and Microsoft 365. Nextcloud combines file sync and share with calendar, contacts, mail, video calls, and collaborative document editing, keeping every file on infrastructure you control.
 
@@ -1374,11 +1374,11 @@ An open-source content-collaboration platform and a self-hostable alternative to
 
 ## Document Management & Collaboration Systems
 
-### [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 45,150 | 🐛 8 | 🌐 Python | 📅 2026-09-15
+### [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 45,205 | 🐛 6 | 🌐 Python | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/99562962?v=4" width="40" height="40" alt="Paperless-ngx logo">
 
-[![Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=flat-square\&label=stars)](https://github.com/paperless-ngx/paperless-ngx/stargazers) ⭐ 45,150 | 🐛 8 | 🌐 Python | 📅 2026-09-15 [![License](https://img.shields.io/github/license/paperless-ngx/paperless-ngx?style=flat-square)](https://github.com/paperless-ngx/paperless-ngx) ⭐ 45,150 | 🐛 8 | 🌐 Python | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/paperless-ngx/paperless-ngx?style=flat-square)](https://github.com/paperless-ngx/paperless-ngx/commits) ⭐ 45,150 | 🐛 8 | 🌐 Python | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=flat-square\&label=stars)](https://github.com/paperless-ngx/paperless-ngx/stargazers) ⭐ 45,205 | 🐛 6 | 🌐 Python | 📅 2026-09-16 [![License](https://img.shields.io/github/license/paperless-ngx/paperless-ngx?style=flat-square)](https://github.com/paperless-ngx/paperless-ngx) ⭐ 45,205 | 🐛 6 | 🌐 Python | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/paperless-ngx/paperless-ngx?style=flat-square)](https://github.com/paperless-ngx/paperless-ngx/commits) ⭐ 45,205 | 🐛 6 | 🌐 Python | 📅 2026-09-16
 
 Paperless-ngx is an open-source document management system that turns scanned paper and PDFs into a searchable digital archive. It performs OCR on every document, extracts dates and correspondents, and applies tags and document types with trainable matching rules, so filing becomes automatic. It is the actively maintained, community-supported continuation of Paperless-ng.
 
@@ -1392,11 +1392,11 @@ Paperless-ngx is an open-source document management system that turns scanned pa
 
 ## Email Infrastructure & Marketing Tools
 
-### [listmonk](https://github.com/knadh/listmonk) ⭐ 23,425 | 🐛 114 | 🌐 Go | 📅 2026-09-13
+### [listmonk](https://github.com/knadh/listmonk) ⭐ 23,446 | 🐛 114 | 🌐 Go | 📅 2026-09-13
 
 <img src="https://avatars.githubusercontent.com/u/547147?v=4" width="40" height="40" alt="listmonk logo">
 
-[![Stars](https://img.shields.io/github/stars/knadh/listmonk?style=flat-square\&label=stars)](https://github.com/knadh/listmonk/stargazers) ⭐ 23,425 | 🐛 114 | 🌐 Go | 📅 2026-09-13 [![License](https://img.shields.io/github/license/knadh/listmonk?style=flat-square)](https://github.com/knadh/listmonk) ⭐ 23,425 | 🐛 114 | 🌐 Go | 📅 2026-09-13 [![Last Commit](https://img.shields.io/github/last-commit/knadh/listmonk?style=flat-square)](https://github.com/knadh/listmonk/commits) ⭐ 23,425 | 🐛 114 | 🌐 Go | 📅 2026-09-13
+[![Stars](https://img.shields.io/github/stars/knadh/listmonk?style=flat-square\&label=stars)](https://github.com/knadh/listmonk/stargazers) ⭐ 23,446 | 🐛 114 | 🌐 Go | 📅 2026-09-13 [![License](https://img.shields.io/github/license/knadh/listmonk?style=flat-square)](https://github.com/knadh/listmonk) ⭐ 23,446 | 🐛 114 | 🌐 Go | 📅 2026-09-13 [![Last Commit](https://img.shields.io/github/last-commit/knadh/listmonk?style=flat-square)](https://github.com/knadh/listmonk/commits) ⭐ 23,446 | 🐛 114 | 🌐 Go | 📅 2026-09-13
 
 An open-source, self-hosted newsletter and mailing-list manager, and an alternative to Mailchimp and Sendinblue. listmonk ships as a single Go binary with a modern dashboard, scales to millions of subscribers, and supports SQL-based segmentation, templating, multi-list campaigns, and delivery through any SMTP provider.
 
@@ -1410,11 +1410,11 @@ An open-source, self-hosted newsletter and mailing-list manager, and an alternat
 
 ## Enterprise Resource Planning Systems
 
-### [ERPNext](https://github.com/frappe/erpnext) ⭐ 39,251 | 🐛 1,839 | 🌐 Python | 📅 2026-09-15
+### [ERPNext](https://github.com/frappe/erpnext) ⭐ 39,281 | 🐛 1,833 | 🌐 Python | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/836974?v=4" width="40" height="40" alt="ERPNext logo">
 
-[![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=flat-square\&label=stars)](https://github.com/frappe/erpnext/stargazers) ⭐ 39,251 | 🐛 1,839 | 🌐 Python | 📅 2026-09-15 [![License](https://img.shields.io/github/license/frappe/erpnext?style=flat-square)](https://github.com/frappe/erpnext) ⭐ 39,251 | 🐛 1,839 | 🌐 Python | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/frappe/erpnext?style=flat-square)](https://github.com/frappe/erpnext/commits) ⭐ 39,251 | 🐛 1,839 | 🌐 Python | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=flat-square\&label=stars)](https://github.com/frappe/erpnext/stargazers) ⭐ 39,281 | 🐛 1,833 | 🌐 Python | 📅 2026-09-16 [![License](https://img.shields.io/github/license/frappe/erpnext?style=flat-square)](https://github.com/frappe/erpnext) ⭐ 39,281 | 🐛 1,833 | 🌐 Python | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/frappe/erpnext?style=flat-square)](https://github.com/frappe/erpnext/commits) ⭐ 39,281 | 🐛 1,833 | 🌐 Python | 📅 2026-09-16
 
 ERPNext is an open-source enterprise resource planning suite, and a self-hosted alternative to SAP, Oracle NetSuite, and Microsoft Dynamics. Built on the Frappe framework, it covers accounting, inventory, manufacturing, sales and purchasing, projects, HR, and CRM in one data model, with every form, report, and workflow customizable without forking. It fits small businesses through mid-market operations.
 
@@ -1428,11 +1428,11 @@ ERPNext is an open-source enterprise resource planning suite, and a self-hosted 
 
 ## Feature Flag & Toggle Management Tools
 
-### [Unleash](https://github.com/Unleash/unleash) ⭐ 13,808 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-15
+### [Unleash](https://github.com/Unleash/unleash) ⭐ 13,806 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/23053233?v=4" width="40" height="40" alt="Unleash logo">
 
-[![Stars](https://img.shields.io/github/stars/Unleash/unleash?style=flat-square\&label=stars)](https://github.com/Unleash/unleash/stargazers) ⭐ 13,808 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/Unleash/unleash?style=flat-square)](https://github.com/Unleash/unleash) ⭐ 13,808 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/Unleash/unleash?style=flat-square)](https://github.com/Unleash/unleash/commits) ⭐ 13,808 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/Unleash/unleash?style=flat-square\&label=stars)](https://github.com/Unleash/unleash/stargazers) ⭐ 13,806 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/Unleash/unleash?style=flat-square)](https://github.com/Unleash/unleash) ⭐ 13,806 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/Unleash/unleash?style=flat-square)](https://github.com/Unleash/unleash/commits) ⭐ 13,806 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-16
 
 Unleash is an open-source feature management platform, and a self-hosted alternative to LaunchDarkly. It controls feature flags through activation strategies — gradual rollouts, user targeting, A/B tests — with SDK evaluation happening locally for low latency and privacy. It includes environments, approval workflows, audit logs, and a metrics view of flag exposure.
 
@@ -1446,11 +1446,11 @@ Unleash is an open-source feature management platform, and a self-hosted alterna
 
 ## Form Building & Survey Management Tools
 
-### [Typebot](https://github.com/baptisteArno/typebot.io) ⭐ 10,324 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-14
+### [Typebot](https://github.com/baptisteArno/typebot.io) ⭐ 10,330 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-14
 
 <img src="https://avatars.githubusercontent.com/u/16015833?v=4" width="40" height="40" alt="Typebot logo">
 
-[![Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=flat-square\&label=stars)](https://github.com/baptisteArno/typebot.io/stargazers) ⭐ 10,324 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-14 [![License](https://img.shields.io/github/license/baptisteArno/typebot.io?style=flat-square)](https://github.com/baptisteArno/typebot.io) ⭐ 10,324 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/baptisteArno/typebot.io?style=flat-square)](https://github.com/baptisteArno/typebot.io/commits) ⭐ 10,324 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=flat-square\&label=stars)](https://github.com/baptisteArno/typebot.io/stargazers) ⭐ 10,330 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-14 [![License](https://img.shields.io/github/license/baptisteArno/typebot.io?style=flat-square)](https://github.com/baptisteArno/typebot.io) ⭐ 10,330 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/baptisteArno/typebot.io?style=flat-square)](https://github.com/baptisteArno/typebot.io/commits) ⭐ 10,330 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-14
 
 An open-source conversational form and chatbot builder, and a self-hostable alternative to Typeform and Landbot. Typebot assembles chat-style forms from 40+ drag-and-drop blocks with branching logic, then embeds them on any site or connects them to WhatsApp — with native integrations for Google Sheets, webhooks, OpenAI, and Zapier, and unlimited submissions when self-hosted.
 
@@ -1464,11 +1464,11 @@ An open-source conversational form and chatbot builder, and a self-hostable alte
 
 ## HR Management & Employee Tools
 
-### [Frape HR](https://github.com/frappe/hrms) ⭐ 8,792 | 🐛 477 | 🌐 Python | 📅 2026-09-15
+### [Frape HR](https://github.com/frappe/hrms) ⭐ 8,793 | 🐛 476 | 🌐 Python | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/836974?v=4" width="40" height="40" alt="Frape HR logo">
 
-[![Stars](https://img.shields.io/github/stars/frappe/hrms?style=flat-square\&label=stars)](https://github.com/frappe/hrms/stargazers) ⭐ 8,792 | 🐛 477 | 🌐 Python | 📅 2026-09-15 [![License](https://img.shields.io/github/license/frappe/hrms?style=flat-square)](https://github.com/frappe/hrms) ⭐ 8,792 | 🐛 477 | 🌐 Python | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/frappe/hrms?style=flat-square)](https://github.com/frappe/hrms/commits) ⭐ 8,792 | 🐛 477 | 🌐 Python | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/frappe/hrms?style=flat-square\&label=stars)](https://github.com/frappe/hrms/stargazers) ⭐ 8,793 | 🐛 476 | 🌐 Python | 📅 2026-09-16 [![License](https://img.shields.io/github/license/frappe/hrms?style=flat-square)](https://github.com/frappe/hrms) ⭐ 8,793 | 🐛 476 | 🌐 Python | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/frappe/hrms?style=flat-square)](https://github.com/frappe/hrms/commits) ⭐ 8,793 | 🐛 476 | 🌐 Python | 📅 2026-09-16
 
 Frappe HR is an open-source Human Resource and Payroll Management System. It offers an all-in-one solution for managing employees, leaves, payroll, taxation, and performance reviews.
 
@@ -1480,11 +1480,11 @@ Frappe HR is an open-source Human Resource and Payroll Management System. It off
 
 ## Localization and Translation Platforms
 
-### [Tolgee](https://github.com/tolgee/tolgee-platform) ⭐ 4,100 | 🐛 196 | 🌐 TypeScript | 📅 2026-09-15
+### [Tolgee](https://github.com/tolgee/tolgee-platform) ⭐ 4,100 | 🐛 195 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/78480209?v=4" width="40" height="40" alt="Tolgee logo">
 
-[![Stars](https://img.shields.io/github/stars/tolgee/tolgee-platform?style=flat-square\&label=stars)](https://github.com/tolgee/tolgee-platform/stargazers) ⭐ 4,100 | 🐛 196 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/tolgee/tolgee-platform?style=flat-square)](https://github.com/tolgee/tolgee-platform) ⭐ 4,100 | 🐛 196 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/tolgee/tolgee-platform?style=flat-square)](https://github.com/tolgee/tolgee-platform/commits) ⭐ 4,100 | 🐛 196 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/tolgee/tolgee-platform?style=flat-square\&label=stars)](https://github.com/tolgee/tolgee-platform/stargazers) ⭐ 4,100 | 🐛 195 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/tolgee/tolgee-platform?style=flat-square)](https://github.com/tolgee/tolgee-platform) ⭐ 4,100 | 🐛 195 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/tolgee/tolgee-platform?style=flat-square)](https://github.com/tolgee/tolgee-platform/commits) ⭐ 4,100 | 🐛 195 | 🌐 TypeScript | 📅 2026-09-16
 
 Tolgee is an open‑source localization platform and i18n toolkit. It enables true in‑app, in‑context translation so teams can edit strings directly in the running app—even in production.
 
@@ -1498,11 +1498,11 @@ Tolgee is an open‑source localization platform and i18n toolkit. It enables tr
 
 ## No-Code Development & Automation Tools
 
-### [Baserow](https://github.com/baserow/baserow) ⭐ 5,904 | 🐛 1,242 | 🌐 Python | 📅 2026-09-15
+### [Baserow](https://github.com/baserow/baserow) ⭐ 5,918 | 🐛 1,242 | 🌐 Python | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/68540644?v=4" width="40" height="40" alt="Baserow logo">
 
-[![Stars](https://img.shields.io/github/stars/baserow/baserow?style=flat-square\&label=stars)](https://github.com/baserow/baserow/stargazers) ⭐ 5,904 | 🐛 1,242 | 🌐 Python | 📅 2026-09-15 [![License](https://img.shields.io/github/license/baserow/baserow?style=flat-square)](https://github.com/baserow/baserow) ⭐ 5,904 | 🐛 1,242 | 🌐 Python | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/baserow/baserow?style=flat-square)](https://github.com/baserow/baserow/commits) ⭐ 5,904 | 🐛 1,242 | 🌐 Python | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/baserow/baserow?style=flat-square\&label=stars)](https://github.com/baserow/baserow/stargazers) ⭐ 5,918 | 🐛 1,242 | 🌐 Python | 📅 2026-09-16 [![License](https://img.shields.io/github/license/baserow/baserow?style=flat-square)](https://github.com/baserow/baserow) ⭐ 5,918 | 🐛 1,242 | 🌐 Python | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/baserow/baserow?style=flat-square)](https://github.com/baserow/baserow/commits) ⭐ 5,918 | 🐛 1,242 | 🌐 Python | 📅 2026-09-16
 
 Baserow is an open-source no-code database, and a self-hosted alternative to Airtable. It presents tables as a familiar spreadsheet grid with grid, gallery, kanban, calendar, and form views, while exposing every table through an auto-generated REST API. The core is MIT-licensed and ships as a single Docker image; premium and enterprise tiers add SSO, audit logs, and row-level permissions.
 
@@ -1516,11 +1516,11 @@ Baserow is an open-source no-code database, and a self-hosted alternative to Air
 
 ## Note-Taking & Organization Tools
 
-### [Zettlr](https://github.com/Zettlr/Zettlr) ⭐ 13,517 | 🐛 522 | 🌐 TypeScript | 📅 2026-09-15
+### [Zettlr](https://github.com/Zettlr/Zettlr) ⭐ 13,524 | 🐛 526 | 🌐 TypeScript | 📅 2026-09-15
 
 <img src="https://avatars.githubusercontent.com/u/19707815?v=4" width="40" height="40" alt="Zettlr logo">
 
-[![Stars](https://img.shields.io/github/stars/Zettlr/Zettlr?style=flat-square\&label=stars)](https://github.com/Zettlr/Zettlr/stargazers) ⭐ 13,517 | 🐛 522 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/Zettlr/Zettlr?style=flat-square)](https://github.com/Zettlr/Zettlr) ⭐ 13,517 | 🐛 522 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/Zettlr/Zettlr?style=flat-square)](https://github.com/Zettlr/Zettlr/commits) ⭐ 13,517 | 🐛 522 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/Zettlr/Zettlr?style=flat-square\&label=stars)](https://github.com/Zettlr/Zettlr/stargazers) ⭐ 13,524 | 🐛 526 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/Zettlr/Zettlr?style=flat-square)](https://github.com/Zettlr/Zettlr) ⭐ 13,524 | 🐛 526 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/Zettlr/Zettlr?style=flat-square)](https://github.com/Zettlr/Zettlr/commits) ⭐ 13,524 | 🐛 526 | 🌐 TypeScript | 📅 2026-09-15
 
 Zettlr is a one-stop publication workbench with integrated note-taking, citations, and a powerful search.
 
@@ -1534,11 +1534,11 @@ Zettlr is a one-stop publication workbench with integrated note-taking, citation
 
 ## Notification & Alert Management Systems
 
-### [Novu](https://github.com/novuhq/novu) ⭐ 39,992 | 🐛 106 | 🌐 TypeScript | 📅 2026-09-15
+### [Novu](https://github.com/novuhq/novu) ⭐ 39,994 | 🐛 109 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/77433905?v=4" width="40" height="40" alt="Novu logo">
 
-[![Stars](https://img.shields.io/github/stars/novuhq/novu?style=flat-square\&label=stars)](https://github.com/novuhq/novu/stargazers) ⭐ 39,992 | 🐛 106 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/novuhq/novu?style=flat-square)](https://github.com/novuhq/novu) ⭐ 39,992 | 🐛 106 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/novuhq/novu?style=flat-square)](https://github.com/novuhq/novu/commits) ⭐ 39,992 | 🐛 106 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/novuhq/novu?style=flat-square\&label=stars)](https://github.com/novuhq/novu/stargazers) ⭐ 39,994 | 🐛 109 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/novuhq/novu?style=flat-square)](https://github.com/novuhq/novu) ⭐ 39,994 | 🐛 109 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/novuhq/novu?style=flat-square)](https://github.com/novuhq/novu/commits) ⭐ 39,994 | 🐛 109 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source notifications framework that simplifies sending multi-channel notifications, empowering developers to integrate powerful communication tools into their applications.
 
@@ -1552,11 +1552,11 @@ An open-source notifications framework that simplifies sending multi-channel not
 
 ## Password Management & Credential Vaults
 
-### [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 67,640 | 🐛 78 | 🌐 Rust | 📅 2026-09-13
+### [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 67,755 | 🐛 78 | 🌐 Rust | 📅 2026-09-13
 
 <img src="https://avatars.githubusercontent.com/u/725423?v=4" width="40" height="40" alt="Vaultwarden logo">
 
-[![Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square\&label=stars)](https://github.com/dani-garcia/vaultwarden/stargazers) ⭐ 67,640 | 🐛 78 | 🌐 Rust | 📅 2026-09-13 [![License](https://img.shields.io/github/license/dani-garcia/vaultwarden?style=flat-square)](https://github.com/dani-garcia/vaultwarden) ⭐ 67,640 | 🐛 78 | 🌐 Rust | 📅 2026-09-13 [![Last Commit](https://img.shields.io/github/last-commit/dani-garcia/vaultwarden?style=flat-square)](https://github.com/dani-garcia/vaultwarden/commits) ⭐ 67,640 | 🐛 78 | 🌐 Rust | 📅 2026-09-13
+[![Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square\&label=stars)](https://github.com/dani-garcia/vaultwarden/stargazers) ⭐ 67,755 | 🐛 78 | 🌐 Rust | 📅 2026-09-13 [![License](https://img.shields.io/github/license/dani-garcia/vaultwarden?style=flat-square)](https://github.com/dani-garcia/vaultwarden) ⭐ 67,755 | 🐛 78 | 🌐 Rust | 📅 2026-09-13 [![Last Commit](https://img.shields.io/github/last-commit/dani-garcia/vaultwarden?style=flat-square)](https://github.com/dani-garcia/vaultwarden/commits) ⭐ 67,755 | 🐛 78 | 🌐 Rust | 📅 2026-09-13
 
 A lightweight, open-source password-manager server written in Rust that is compatible with the official Bitwarden clients, and a self-hostable alternative to 1Password and LastPass. Vaultwarden runs the full feature set — vaults, organizations, Sends, attachments, TOTP, and passkeys — from a single container using around 10 MB of RAM.
 
@@ -1570,11 +1570,11 @@ A lightweight, open-source password-manager server written in Rust that is compa
 
 ## Photo & Video Management
 
-### [Immich](https://github.com/immich-app/immich) ⭐ 114,231 | 🐛 746 | 🌐 TypeScript | 📅 2026-09-15
+### [Immich](https://github.com/immich-app/immich) ⭐ 114,416 | 🐛 748 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/109746326?v=4" width="40" height="40" alt="Immich logo">
 
-[![Stars](https://img.shields.io/github/stars/immich-app/immich?style=flat-square\&label=stars)](https://github.com/immich-app/immich/stargazers) ⭐ 114,231 | 🐛 746 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/immich-app/immich?style=flat-square)](https://github.com/immich-app/immich) ⭐ 114,231 | 🐛 746 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/immich-app/immich?style=flat-square)](https://github.com/immich-app/immich/commits) ⭐ 114,231 | 🐛 746 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/immich-app/immich?style=flat-square\&label=stars)](https://github.com/immich-app/immich/stargazers) ⭐ 114,416 | 🐛 748 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/immich-app/immich?style=flat-square)](https://github.com/immich-app/immich) ⭐ 114,416 | 🐛 748 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/immich-app/immich?style=flat-square)](https://github.com/immich-app/immich/commits) ⭐ 114,416 | 🐛 748 | 🌐 TypeScript | 📅 2026-09-16
 
 A high-performance, open-source photo and video management solution, and a self-hostable alternative to Google Photos and iCloud Photos. Immich offers automatic mobile backup, fast browsing of huge libraries, facial recognition, object and location search, albums, shared and external libraries, and multi-user support — all on your own server.
 
@@ -1588,11 +1588,11 @@ A high-performance, open-source photo and video management solution, and a self-
 
 ## Product Information Management
 
-### [UnoPim](https://github.com/unopim/unopim) ⭐ 10,963 | 🐛 58 | 🌐 PHP | 📅 2026-09-14
+### [UnoPim](https://github.com/unopim/unopim) ⭐ 10,964 | 🐛 57 | 🌐 PHP | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/176464716?v=4" width="40" height="40" alt="UnoPim logo">
 
-[![Stars](https://img.shields.io/github/stars/unopim/unopim?style=flat-square\&label=stars)](https://github.com/unopim/unopim/stargazers) ⭐ 10,963 | 🐛 58 | 🌐 PHP | 📅 2026-09-14 [![License](https://img.shields.io/github/license/unopim/unopim?style=flat-square)](https://github.com/unopim/unopim) ⭐ 10,963 | 🐛 58 | 🌐 PHP | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/unopim/unopim?style=flat-square)](https://github.com/unopim/unopim/commits) ⭐ 10,963 | 🐛 58 | 🌐 PHP | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/unopim/unopim?style=flat-square\&label=stars)](https://github.com/unopim/unopim/stargazers) ⭐ 10,964 | 🐛 57 | 🌐 PHP | 📅 2026-09-16 [![License](https://img.shields.io/github/license/unopim/unopim?style=flat-square)](https://github.com/unopim/unopim) ⭐ 10,964 | 🐛 57 | 🌐 PHP | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/unopim/unopim?style=flat-square)](https://github.com/unopim/unopim/commits) ⭐ 10,964 | 🐛 57 | 🌐 PHP | 📅 2026-09-16
 
 Open source Product Information Management (PIM) and Digital Asset Management (DAM) platform built on Laravel — manage, enrich, and scale product data and digital assets beyond 10 million products.
 
@@ -1604,11 +1604,11 @@ Open source Product Information Management (PIM) and Digital Asset Management (D
 
 ## Remote Access & System Control Tools
 
-### [RustDesk](https://github.com/rustdesk/rustdesk) ⭐ 123,606 | 🐛 161 | 🌐 Rust | 📅 2026-09-15
+### [RustDesk](https://github.com/rustdesk/rustdesk) ⭐ 123,778 | 🐛 161 | 🌐 Rust | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/71636191?v=4" width="40" height="40" alt="RustDesk logo">
 
-[![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat-square\&label=stars)](https://github.com/rustdesk/rustdesk/stargazers) ⭐ 123,606 | 🐛 161 | 🌐 Rust | 📅 2026-09-15 [![License](https://img.shields.io/github/license/rustdesk/rustdesk?style=flat-square)](https://github.com/rustdesk/rustdesk) ⭐ 123,606 | 🐛 161 | 🌐 Rust | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk?style=flat-square)](https://github.com/rustdesk/rustdesk/commits) ⭐ 123,606 | 🐛 161 | 🌐 Rust | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat-square\&label=stars)](https://github.com/rustdesk/rustdesk/stargazers) ⭐ 123,778 | 🐛 161 | 🌐 Rust | 📅 2026-09-16 [![License](https://img.shields.io/github/license/rustdesk/rustdesk?style=flat-square)](https://github.com/rustdesk/rustdesk) ⭐ 123,778 | 🐛 161 | 🌐 Rust | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk?style=flat-square)](https://github.com/rustdesk/rustdesk/commits) ⭐ 123,778 | 🐛 161 | 🌐 Rust | 📅 2026-09-16
 
 An open-source remote desktop solution written in Rust that provides secure, configurable remote access with full data control and no complex setup required.
 
@@ -1622,11 +1622,11 @@ An open-source remote desktop solution written in Rust that provides secure, con
 
 ## Secrets Management & Security Tools
 
-### [Infisical](https://github.com/Infisical/infisical) ⭐ 29,271 | 🐛 785 | 🌐 TypeScript | 📅 2026-09-15
+### [Infisical](https://github.com/Infisical/infisical) ⭐ 29,286 | 🐛 795 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/107880645?v=4" width="40" height="40" alt="Infisical logo">
 
-[![Stars](https://img.shields.io/github/stars/Infisical/infisical?style=flat-square\&label=stars)](https://github.com/Infisical/infisical/stargazers) ⭐ 29,271 | 🐛 785 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/Infisical/infisical?style=flat-square)](https://github.com/Infisical/infisical) ⭐ 29,271 | 🐛 785 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/Infisical/infisical?style=flat-square)](https://github.com/Infisical/infisical/commits) ⭐ 29,271 | 🐛 785 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/Infisical/infisical?style=flat-square\&label=stars)](https://github.com/Infisical/infisical/stargazers) ⭐ 29,286 | 🐛 795 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/Infisical/infisical?style=flat-square)](https://github.com/Infisical/infisical) ⭐ 29,286 | 🐛 795 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/Infisical/infisical?style=flat-square)](https://github.com/Infisical/infisical/commits) ⭐ 29,286 | 🐛 795 | 🌐 TypeScript | 📅 2026-09-16
 
 Infisical is an open-source secret management platform that helps teams securely manage and sync secrets, configurations, and cryptographic assets across environments.
 
@@ -1638,11 +1638,11 @@ Infisical is an open-source secret management platform that helps teams securely
 
 ## Social Media Management Platforms
 
-### [Postiz](https://github.com/gitroomhq/postiz-app) ⭐ 35,857 | 🐛 299 | 🌐 TypeScript | 📅 2026-09-15
+### [Postiz](https://github.com/gitroomhq/postiz-app) ⭐ 35,948 | 🐛 293 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/128401275?v=4" width="40" height="40" alt="Postiz logo">
 
-[![Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square\&label=stars)](https://github.com/gitroomhq/postiz-app/stargazers) ⭐ 35,857 | 🐛 299 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/gitroomhq/postiz-app?style=flat-square)](https://github.com/gitroomhq/postiz-app) ⭐ 35,857 | 🐛 299 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/gitroomhq/postiz-app?style=flat-square)](https://github.com/gitroomhq/postiz-app/commits) ⭐ 35,857 | 🐛 299 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square\&label=stars)](https://github.com/gitroomhq/postiz-app/stargazers) ⭐ 35,948 | 🐛 293 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/gitroomhq/postiz-app?style=flat-square)](https://github.com/gitroomhq/postiz-app) ⭐ 35,948 | 🐛 293 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/gitroomhq/postiz-app?style=flat-square)](https://github.com/gitroomhq/postiz-app/commits) ⭐ 35,948 | 🐛 293 | 🌐 TypeScript | 📅 2026-09-16
 
 An AI-powered social media scheduling platform that helps businesses manage posts, build audiences, and optimize content across multiple social media platforms.
 
@@ -1656,11 +1656,11 @@ An AI-powered social media scheduling platform that helps businesses manage post
 
 ## Subscription & Usage-Based Billing Tools
 
-### [Lago](https://github.com/getlago/lago) ⭐ 10,557 | 🐛 23 | 🌐 Go | 📅 2026-09-14
+### [Lago](https://github.com/getlago/lago) ⭐ 10,559 | 🐛 26 | 🌐 Go | 📅 2026-09-15
 
 <img src="https://avatars.githubusercontent.com/u/75492405?v=4" width="40" height="40" alt="Lago logo">
 
-[![Stars](https://img.shields.io/github/stars/getlago/lago?style=flat-square\&label=stars)](https://github.com/getlago/lago/stargazers) ⭐ 10,557 | 🐛 23 | 🌐 Go | 📅 2026-09-14 [![License](https://img.shields.io/github/license/getlago/lago?style=flat-square)](https://github.com/getlago/lago) ⭐ 10,557 | 🐛 23 | 🌐 Go | 📅 2026-09-14 [![Last Commit](https://img.shields.io/github/last-commit/getlago/lago?style=flat-square)](https://github.com/getlago/lago/commits) ⭐ 10,557 | 🐛 23 | 🌐 Go | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/getlago/lago?style=flat-square\&label=stars)](https://github.com/getlago/lago/stargazers) ⭐ 10,559 | 🐛 26 | 🌐 Go | 📅 2026-09-15 [![License](https://img.shields.io/github/license/getlago/lago?style=flat-square)](https://github.com/getlago/lago) ⭐ 10,559 | 🐛 26 | 🌐 Go | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/getlago/lago?style=flat-square)](https://github.com/getlago/lago/commits) ⭐ 10,559 | 🐛 26 | 🌐 Go | 📅 2026-09-15
 
 Lago is an open-source metering and billing platform, and a self-hosted alternative to Stripe Billing and Chargebee. It ingests usage events, aggregates them into billable metrics, applies subscription and usage-based plans, and produces invoices — while payment execution stays with a processor like Stripe or GoCardless. Prepaid wallets, credits, coupons, add-ons, and taxes are built in, along with an API, SDKs, and webhooks.
 
@@ -1674,11 +1674,11 @@ Lago is an open-source metering and billing platform, and a self-hosted alternat
 
 ## URL Shortening & Link Management Tools
 
-### [Dub](https://github.com/dubinc/dub) ⭐ 24,745 | 🐛 146 | 🌐 TypeScript | 📅 2026-09-15
+### [Dub](https://github.com/dubinc/dub) ⭐ 24,755 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/153106492?v=4" width="40" height="40" alt="Dub logo">
 
-[![Stars](https://img.shields.io/github/stars/dubinc/dub?style=flat-square\&label=stars)](https://github.com/dubinc/dub/stargazers) ⭐ 24,745 | 🐛 146 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/dubinc/dub?style=flat-square)](https://github.com/dubinc/dub) ⭐ 24,745 | 🐛 146 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/dubinc/dub?style=flat-square)](https://github.com/dubinc/dub/commits) ⭐ 24,745 | 🐛 146 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/dubinc/dub?style=flat-square\&label=stars)](https://github.com/dubinc/dub/stargazers) ⭐ 24,755 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/dubinc/dub?style=flat-square)](https://github.com/dubinc/dub) ⭐ 24,755 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/dubinc/dub?style=flat-square)](https://github.com/dubinc/dub/commits) ⭐ 24,755 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source link management platform that helps marketing teams create, track, and optimize branded short links with advanced features and analytics.
 
@@ -1692,11 +1692,11 @@ An open-source link management platform that helps marketing teams create, track
 
 ## User Feedback Collection & Analysis Tools
 
-### [Formbricks](https://github.com/formbricks/formbricks) ⭐ 12,943 | 🐛 218 | 🌐 TypeScript | 📅 2026-09-15
+### [Formbricks](https://github.com/formbricks/formbricks) ⭐ 12,941 | 🐛 215 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/105877416?v=4" width="40" height="40" alt="Formbricks logo">
 
-[![Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=flat-square\&label=stars)](https://github.com/formbricks/formbricks/stargazers) ⭐ 12,943 | 🐛 218 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/formbricks/formbricks?style=flat-square)](https://github.com/formbricks/formbricks) ⭐ 12,943 | 🐛 218 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/formbricks/formbricks?style=flat-square)](https://github.com/formbricks/formbricks/commits) ⭐ 12,943 | 🐛 218 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=flat-square\&label=stars)](https://github.com/formbricks/formbricks/stargazers) ⭐ 12,941 | 🐛 215 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/formbricks/formbricks?style=flat-square)](https://github.com/formbricks/formbricks) ⭐ 12,941 | 🐛 215 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/formbricks/formbricks?style=flat-square)](https://github.com/formbricks/formbricks/commits) ⭐ 12,941 | 🐛 215 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source surveying platform that helps teams gather user feedback through customizable surveys across multiple channels, enabling better user experience insights.
 
@@ -1710,11 +1710,11 @@ An open-source surveying platform that helps teams gather user feedback through 
 
 ## Web Scraping & Crawling Tools
 
-### [firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 180,694 | 🐛 625 | 🌐 TypeScript | 📅 2026-09-15
+### [firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 181,142 | 🐛 625 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/135057108?v=4" width="40" height="40" alt="firecrawl logo">
 
-[![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat-square\&label=stars)](https://github.com/firecrawl/firecrawl/stargazers) ⭐ 180,694 | 🐛 625 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/firecrawl/firecrawl?style=flat-square)](https://github.com/firecrawl/firecrawl) ⭐ 180,694 | 🐛 625 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/firecrawl/firecrawl?style=flat-square)](https://github.com/firecrawl/firecrawl/commits) ⭐ 180,694 | 🐛 625 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat-square\&label=stars)](https://github.com/firecrawl/firecrawl/stargazers) ⭐ 181,142 | 🐛 625 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/firecrawl/firecrawl?style=flat-square)](https://github.com/firecrawl/firecrawl) ⭐ 181,142 | 🐛 625 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/firecrawl/firecrawl?style=flat-square)](https://github.com/firecrawl/firecrawl/commits) ⭐ 181,142 | 🐛 625 | 🌐 TypeScript | 📅 2026-09-16
 
 Firecrawl is an API that turns any URL into clean, LLM‑ready data. It crawls sites (no sitemap required), scrapes dynamic pages, and outputs markdown, HTML, structured JSON, screenshots, links, and metadata.
 
@@ -1728,11 +1728,11 @@ Firecrawl is an API that turns any URL into clean, LLM‑ready data. It crawls s
 
 ## Whiteboarding & Diagramming Tools
 
-### [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 132,010 | 🐛 3,474 | 🌐 TypeScript | 📅 2026-09-15
+### [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 132,114 | 🐛 3,475 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/59452120?v=4" width="40" height="40" alt="Excalidraw logo">
 
-[![Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=flat-square\&label=stars)](https://github.com/excalidraw/excalidraw/stargazers) ⭐ 132,010 | 🐛 3,474 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/excalidraw/excalidraw?style=flat-square)](https://github.com/excalidraw/excalidraw) ⭐ 132,010 | 🐛 3,474 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/excalidraw/excalidraw?style=flat-square)](https://github.com/excalidraw/excalidraw/commits) ⭐ 132,010 | 🐛 3,474 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=flat-square\&label=stars)](https://github.com/excalidraw/excalidraw/stargazers) ⭐ 132,114 | 🐛 3,475 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/excalidraw/excalidraw?style=flat-square)](https://github.com/excalidraw/excalidraw) ⭐ 132,114 | 🐛 3,475 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/excalidraw/excalidraw?style=flat-square)](https://github.com/excalidraw/excalidraw/commits) ⭐ 132,114 | 🐛 3,475 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source virtual whiteboard for sketching hand-drawn-style diagrams, and a self-hostable alternative to Miro, Mural, and FigJam. Excalidraw offers an infinite canvas, real-time collaboration in end-to-end encrypted rooms, a large shape and icon library, PNG/SVG export, an embeddable component, and an offline PWA.
 
@@ -1746,11 +1746,11 @@ An open-source virtual whiteboard for sketching hand-drawn-style diagrams, and a
 
 ## Workflow & Process Automation Tools
 
-### [n8n](https://github.com/n8n-io/n8n) ⭐ 204,365 | 🐛 1,157 | 🌐 TypeScript | 📅 2026-09-15
+### [n8n](https://github.com/n8n-io/n8n) ⭐ 204,556 | 🐛 1,171 | 🌐 TypeScript | 📅 2026-09-16
 
 <img src="https://avatars.githubusercontent.com/u/45487711?v=4" width="40" height="40" alt="n8n logo">
 
-[![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square\&label=stars)](https://github.com/n8n-io/n8n/stargazers) ⭐ 204,365 | 🐛 1,157 | 🌐 TypeScript | 📅 2026-09-15 [![License](https://img.shields.io/github/license/n8n-io/n8n?style=flat-square)](https://github.com/n8n-io/n8n) ⭐ 204,365 | 🐛 1,157 | 🌐 TypeScript | 📅 2026-09-15 [![Last Commit](https://img.shields.io/github/last-commit/n8n-io/n8n?style=flat-square)](https://github.com/n8n-io/n8n/commits) ⭐ 204,365 | 🐛 1,157 | 🌐 TypeScript | 📅 2026-09-15
+[![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square\&label=stars)](https://github.com/n8n-io/n8n/stargazers) ⭐ 204,556 | 🐛 1,171 | 🌐 TypeScript | 📅 2026-09-16 [![License](https://img.shields.io/github/license/n8n-io/n8n?style=flat-square)](https://github.com/n8n-io/n8n) ⭐ 204,556 | 🐛 1,171 | 🌐 TypeScript | 📅 2026-09-16 [![Last Commit](https://img.shields.io/github/last-commit/n8n-io/n8n?style=flat-square)](https://github.com/n8n-io/n8n/commits) ⭐ 204,556 | 🐛 1,171 | 🌐 TypeScript | 📅 2026-09-16
 
 An open-source, fair-code workflow automation platform and a self-hostable alternative to Zapier and Make. n8n pairs a visual drag-and-drop builder with custom code, 400+ integrations, and native AI capabilities, giving teams unlimited self-hosted executions and full control over their data.
 
@@ -1782,4 +1782,4 @@ This list is under the MIT License. See the LICENSE file for details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
